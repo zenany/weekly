@@ -68,23 +68,23 @@ http://book.douban.com/subject/1467587/
 太好了，不做点评。linux 生生不息几十年的秘密就在这里，值得反复阅读。  
 精简版的可以看这个：[Linux/Unix设计思想](http://book.douban.com/subject/7564417/)
 
-**银河帝国**
-http://book.douban.com/series/11237
+**银河帝国**  
+http://book.douban.com/series/11237  
 阿西莫夫的系列小说，科幻神作。架构宏大、故事精彩，从中能看出人类演化的影子，对启发想象非常有帮助。
 
-**凤歌-灵飞经**
-http://book.douban.com/series/14503
+**凤歌-灵飞经**  
+http://book.douban.com/series/14503  
 凤歌的小说还是挺不错的，《昆仑》还有模仿金庸的影子在，《沧海》玄幻味太重。到了《灵飞经》，真的算自成一家。
 
 
-**南怀瑾著作**
+**南怀瑾著作**  
 从兰斌桌上拿的书，让我加深了对国学的理解，看国学选南怀瑾的绝对没错，从中能体会到人生智慧。  
 推荐：[论语别裁](http://book.douban.com/subject/1011215/)、[老子他说](http://book.douban.com/subject/1489670/)。个人感觉是最切近老子、论语本意的解读。  
 [易经杂说](http://book.douban.com/subject/1066108/)、[易经系传别讲](http://book.douban.com/subject/1418567/)，相对复杂点。
 
 ## 业界大神
 
-**欢迎补充**
+**欢迎大家补充**
 
 **Steve Yegge** : http://steve-yegge.blogspot.in/ Steve Yegge is a programmer and blogger who is known for writing about   programming languages, productivity and software culture  
 **DHH** : https://signalvnoise.com/writers/dhh Creator of Ruby on Rails, partner at 37signals  
