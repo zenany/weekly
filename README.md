@@ -2,7 +2,11 @@ weekly
 ======
 
 	汇总平时看到优质文章和资源，技术、产品、管理均有，尽可能一周一篇。  
-	14年 weekly 汇总列表： <https://github.com/zenany/weekly/tree/master/software/2014>  
+
+
+## Weekly 汇总
+
+- 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
 
 ## 资源集散中心
 
