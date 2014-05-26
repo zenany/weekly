@@ -15,6 +15,6 @@ weekly
 - [Lifehacker](http://lifehacker.com/) : 著名的生活技巧与软件类博客  
 - [The Next Web](http://thenextweb.com/)  
 - [极客公园](http://www.geekpark.net/)  
-
+- [Mobilehub](http://mobilehub.io/)  
 
 

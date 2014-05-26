@@ -101,13 +101,29 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 
 ## 专业站点
 
-** http://www.quilt.org/ ** A little thing to help make your data more computable
+**http://www.quilt.org/** A little thing to help make your data more computable
 
-## 系统
+## 服务
 
 	组织运作、创业中可能用到的东西
 
-*salesforce* : https://www.salesforce.com/ crm  系统  
-*问卷网* : http://www.wenjuan.com/  
-*聚合数据* : http://www.juhe.cn/  短信接口比较有用  
-*Stash* https://www.atlassian.com/software/stash  Enterprise Git Repository Management  
+**salesforce** : https://www.salesforce.com/ crm  系统  
+**问卷网** : http://www.wenjuan.com/  
+**聚合数据** : http://www.juhe.cn/  短信接口比较有用  
+**Stash** https://www.atlassian.com/software/stash  Enterprise Git Repository Management  
+**云片网** http://www.yunpian.com/  短信平台
+**blog engine** Dropplets github-pages jerrly Hexo poeat ghost 
+
+## 工具使用
+
+### ssh 方式使用 github 
+
+好处在于不用输 github 密码，操作过程 ：<https://help.github.com/articles/generating-ssh-keys>  
+处理完成后， clone 时 采用 ssh clone url 即可，类似： git@github.com:zenany/weekly.git  
+但如果设置了 ssh passphrase ，在用 git 操作时会提示： Enter passphrase for key  
+要避免这个，需要执行如下指令：
+
+	eval `ssh-agent -s`
+	ssh-add ssh-add ~/.ssh/id_rsa
+
+参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)  
