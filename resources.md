@@ -111,6 +111,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **问卷网** : http://www.wenjuan.com/  
 **聚合数据** : http://www.juhe.cn/  短信接口比较有用  
 **Stash** https://www.atlassian.com/software/stash  Enterprise Git Repository Management  
+**Confluence - 内部协作** https://www.atlassian.com/software/confluence
 **云片网** http://www.yunpian.com/  短信平台
 **blog engine** Dropplets github-pages jerrly Hexo poeat ghost 
 
@@ -127,3 +128,8 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 	ssh-add ssh-add ~/.ssh/id_rsa
 
 参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)  
+
+## Deeplearning 
+
+[Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  
+http://metacademy.org/  
