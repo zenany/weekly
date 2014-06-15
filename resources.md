@@ -115,6 +115,11 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **云片网** http://www.yunpian.com/  短信平台
 **blog engine** Dropplets github-pages jerrly Hexo poeat ghost 
 
+## 经典 issues
+
+[Ueditor-390](https://github.com/fex-team/ueditor/issues/390)  
+[fis-plus-4](https://github.com/fex-team/fis-plus/issues/4)  
+
 ## 工具使用
 
 ### ssh 方式使用 github 
