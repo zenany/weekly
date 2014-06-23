@@ -17,4 +17,9 @@ weekly
 - [极客公园](http://www.geekpark.net/)  
 - [Mobilehub](http://mobilehub.io/)  
 
+## 性能优化站点
+
+- http://blog.optimizely.com/  
+- http://www.perfplanet.com/  
+- http://www.speedawarenessmonth.com/  
 
