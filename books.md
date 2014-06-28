@@ -5,3 +5,4 @@ booklist
 
 微管理： http://book.douban.com/subject/25868303/
 The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
+众病之王： http://book.douban.com/subject/20507206/
