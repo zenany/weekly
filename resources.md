@@ -32,6 +32,14 @@ http://book.douban.com/subject/3226595/
 
 同类书籍还有：[菜根谭](http://book.douban.com/subject/1286547/)
 
+**肯·威尔伯：万物简史**
+http://book.douban.com/subject/1913947/  
+了解这本讲科学的 [万物简史](http://book.douban.com/subject/1225983/) 时偶然发现这本神作的，作者努力去融合了东方哲学和西方思想，视图从哲学、科学、艺术多个角度出发，去分析人力历史和思想的变迁，寻求一种更完美的模式去认识世界和人生。虽然翻译得相当一般，但仍然掩饰不住这本书中超凡的思想光芒。印象比较深的：
+- 全子理论，所有东西都是由全子构成的，全子有四个特性：完整性、同一性、自治性、自主性。每个全子要保持自主性和共享性。全子在四种力：自主、共享、超越、分解的作用下去进化，形成层次系统化的系统。再配合全子的内部和外部及个体和群体行为，就构成了整个宇宙的基础。从这个思路去看很多东西，有一种恍然大悟的感觉。
+- 对知识的探索分为内部和外部，分别对应左右两个象限，他们的关系就类似心智和大脑，每个右手象限的东西都可以通过经验看到，而左手的只有通过解析才能得到。
+左右两个象限各自有个体和群体之分，右边的一起可以用“它语言描述”，左边的个体可以用“我”语言描述，左边的群体可以用“我们”描述。
+- 人的意识是分九个小阶段进化的，每个阶段的进化都是一个融合、分化、整合的过程，每次进化也是一种超越和包含。每个阶段控制不好就，就会陷入病态。
+
 **极客与团队**  
 http://book.douban.com/subject/21372237/  
 13年看的，相见恨晚，强烈推荐阅读，尤其是**带团队者**。软件开发是一项团体行动，而谦虚、尊重、信任是打造一个出色团队的三大支柱。  
@@ -91,6 +99,11 @@ http://book.douban.com/series/14503
 **Nicholas C. Zakas** : http://www.nczonline.net/  
 **Alex Russell** : http://infrequently.org/ A web developer working on Chrome, Blink, and the Web Platform Team at Google  
 
+## 站点风格
+
+- http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm  
+- http://nipponcolors.com/  
+
 ## 健康
 
 	健康相当重要，码农这个职业对健康的损害很大，所以我们尤其需要重视。
@@ -142,4 +155,3 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 ## Deeplearning 
 
 [Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  
-http://metacademy.org/  
