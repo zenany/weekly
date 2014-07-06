@@ -19,4 +19,17 @@ MEAN is an opinionated fullstack javascript framework - which simplifies and acc
 
 forever  nodemon  pm2  supervisor
 
-推荐： nodemon  pm2
+forever 的接口不是很好，功能也没有 pm2 强大。启动同名文件时需要 --uid 参数，每次启动还得加 -a ，挺烦的。更多请参考：
+
+- [Goodbye node-forever, hello PM2](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
+      
+推荐： nodemon  pm2 ，但 pm2 的 cluster_mode 不太稳定，建议优先选 fork_mode
+
+
+## 异步编程
+
+Async.js  
+Q  
+FRP(Functional Reactive Programming)  
+
+推荐从 Async 入手，简单强大，比 Q 容易上手。
