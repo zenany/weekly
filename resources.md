@@ -97,7 +97,8 @@ http://book.douban.com/series/14503
 **Steve Yegge** : http://steve-yegge.blogspot.in/ Steve Yegge is a programmer and blogger who is known for writing about   programming languages, productivity and software culture  
 **DHH** : https://signalvnoise.com/writers/dhh Creator of Ruby on Rails, partner at 37signals  
 **Nicholas C. Zakas** : http://www.nczonline.net/  
-**Alex Russell** : http://infrequently.org/ A web developer working on Chrome, Blink, and the Web Platform Team at Google  
+**Alex Russell** : http://infrequently.org/ A web developer working on Chrome, Blink, and the Web Platform Team at Google
+**Paul Irish ** : http://www.paulirish.com/ Paul Irish is an American front-end Engineer, and developer advocate for Google Chrome. He is also recognized as an expert in web technologies like HTML5 and CSS3.
 
 ## 站点风格
 
