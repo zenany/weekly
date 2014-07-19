@@ -92,12 +92,7 @@ http://book.douban.com/series/14503
 
 ## 业界大神
 
-**欢迎大家补充**
-
-**Steve Yegge** : http://steve-yegge.blogspot.in/ Steve Yegge is a programmer and blogger who is known for writing about   programming languages, productivity and software culture  
-**DHH** : https://signalvnoise.com/writers/dhh Creator of Ruby on Rails, partner at 37signals  
-**Nicholas C. Zakas** : http://www.nczonline.net/  
-**Alex Russell** : http://infrequently.org/ A web developer working on Chrome, Blink, and the Web Platform Team at Google  
+详见：[resources/masters.md](resources/masters.md)
 
 ## 站点风格
 
@@ -124,10 +119,11 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **问卷网** : http://www.wenjuan.com/  
 **聚合数据** : http://www.juhe.cn/  短信接口比较有用  
 **Stash** https://www.atlassian.com/software/stash  Enterprise Git Repository Management  
-**Confluence - 内部协作** https://www.atlassian.com/software/confluence
-**云片网** http://www.yunpian.com/  短信平台
-**blog engine** Dropplets github-pages jerrly Hexo poeat ghost 
-*icon* GitHub Octicons   http://www.graphicsprings.com/
+**Confluence - 内部协作** https://www.atlassian.com/software/confluence  
+**云片网** http://www.yunpian.com/  短信平台  
+**blog engine** Dropplets github-pages jerrly Hexo poeat ghost  
+**icon** GitHub Octicons   http://www.graphicsprings.com/  
+**Docker**  
 
 ## 经典 issues
 
