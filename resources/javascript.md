@@ -22,3 +22,29 @@ JavaScript 资源汇总
 
 - [Handsontable](http://handsontable.com/): Handsontable is a minimalistic Excel-like data grid editor for HTML, JavaScript & jQuery
 
+## Jquery插件
+
+- [jCarousel Lite](http://www.gmarwaha.com/jquery/jcarousellite/) : jCarousel Lite is a jQuery plugin that carries you on a carousel ride filled with images and HTML content. Put simply, you can navigate images and/or HTML in a carousel-style widget. It is super light weight, at about 2 KB in size, yet very flexible and customizable to fit most of our needs. 
+
+## JS parser 
+
+- [acorn.js](http://marijnhaverbeke.nl/acorn/)  
+- [esprima](http://esprima.org/)  
+
+## UI Framework
+
+mobile webapp : 
+
+- **[Ionic](http://ionicframework.com/)** : Create amazing apps
+The beautiful, open source front-end framework for developing hybrid mobile apps with HTML5.  
+- [Onsen UI](http://onsenui.io/) : The Answer to PhoneGap UI Development. A Custom Elements-Based HTML5 UI Framework.  
+- [Webix](http://webix.com/) : Build rich UI in a few lines of code.  
+- [Sencha Touch](http://www.sencha.com/products/touch/)  
+- [Kendo UI](http://www.telerik.com/kendo-ui) : Everything you need to build sites and apps
+with pure JavaScript and HTML5.  
+
+pc : 
+
+- [Bootstrap](http://getbootstrap.com/)
+- [Semantic UI](http://semantic-ui.com/)
+

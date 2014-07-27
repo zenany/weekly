@@ -33,3 +33,18 @@ Q
 FRP(Functional Reactive Programming)  
 
 推荐从 Async 入手，简单强大，比 Q 容易上手。
+
+## Server
+
+**[Harp](http://harpjs.com/)** : The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
+
+## 技术文章
+
+收录一些经典文章：
+
+- [Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
+- [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
+- [为什么 Node.js 这么火，而同样异步模式 Python 框架 Twisted 却十几年一直不温不火？](http://www.zhihu.com/question/23854296/answer/27877645)
+- [如何看待 TJ 宣布退出 Node.js 开发，转向 Go](http://www.zhihu.com/question/24373004)
+- [如何评价淘宝 UED 的 Midway Framework 前后端分离](http://www.zhihu.com/question/23512853)
+
