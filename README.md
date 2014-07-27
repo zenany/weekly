@@ -22,4 +22,5 @@ weekly
 - http://blog.optimizely.com/  
 - http://www.perfplanet.com/  
 - http://www.speedawarenessmonth.com/  
+- http://browserdiet.com/en/  
 

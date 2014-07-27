@@ -6,6 +6,21 @@
 ## books
   
   精选2014年以来看过的书，之前的只放一些印象最深。
+
+**麦肯新教我的思考武器**  
+http://book.douban.com/subject/25779342/  
+14年7月看完的，目前为止所看到的“关于如何系统化思考和分析问题”最好的一本书，理论和实践性都很强。感触最深的几个点：
+- 世界上的研究主题却多得数不清，如果因为稍微觉得有趣就选为研究主题，将在还没来得及做真正重要的事时，一生就结束了
+- 
+大多数人在面对工作和问题时，总是还没想清楚“真正的问题究竟是什么”，就急忙动手去处理、去解决。然而，像这样一味求“快”、忙得团团转的结果，往往是白费力气，最后步入事倍功半的“败者之路”
+- 找到真正要解决的问题，才有可能解决问题，并交出有价值的成果
+- 议题度和解答质模型能非常好的定位到要解决的问题
+
+但看的时候需要注意：
+- 要先搞明白：我、团队、公司的专长和使命究竟是什么的，其存在的价值是啥
+- 切忌功利主义和机会主义，很多探索性的东西前期是需要付出成本代价的
+- 要去避免：总是在寻找，从未见行动这种状态
+
   
 **公正**  
 http://book.douban.com/subject/5408882/  
@@ -117,6 +132,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 
 **salesforce** : https://www.salesforce.com/ crm  系统  
 **问卷网** : http://www.wenjuan.com/  
+**麦客** : http://www.mikecrm.com/  
 **聚合数据** : http://www.juhe.cn/  短信接口比较有用  
 **Stash** https://www.atlassian.com/software/stash  Enterprise Git Repository Management  
 **Confluence - 内部协作** https://www.atlassian.com/software/confluence  
@@ -124,11 +140,16 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **blog engine** Dropplets github-pages jerrly Hexo poeat ghost  
 **icon** GitHub Octicons   http://www.graphicsprings.com/  
 **Docker**  
+**一分钱不花，开发native应用**: http://www.csdn.net/article/2014-02-11/2818360-mobile-dev-tools  
 
 ## 经典 issues
 
 [Ueditor-390](https://github.com/fex-team/ueditor/issues/390)  
 [fis-plus-4](https://github.com/fex-team/fis-plus/issues/4)  
+
+## Why I Left  系列：
+
+[Why I Left the .NET Framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)  
 
 ## 规范
 
@@ -148,6 +169,23 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 
 参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)  
 
-## Deeplearning 
+#### Autojump 
+
+自动补完不算什么，一键直达目录才是终极神器！
+
+http://xmodulo.com/2014/06/speed-up-directory-navigation-linux-terminal.html  
+http://blog.jobbole.com/73611/  
+
+#### Ubuntu 镜像
+
+http://mirrors.163.com/  
+
+#### Git使用
+
+- [专为设计师而写的GitHub快速入门教程](http://www.ui.cn/project.php?id=20957)  
+- [CoolGithubProjects](http://www.coolgithubprojects.com/)  
+
+## Deeplearning & Bigdata
 
 [Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  
+[Toward Scalable Systems for Big Data Analytics: A Technology Tutorial](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6842585)  
