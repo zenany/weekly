@@ -24,3 +24,8 @@ weekly
 - http://www.speedawarenessmonth.com/  
 - http://browserdiet.com/en/  
 
+## 职业规划
+
+- [迄今为止见过最好的职业规划](http://www.360doc.com/content/13/0512/16/3125585_284829243.shtml)  
+- [寒门再难出贵子](http://www.mtyyw.com/7013/)  
+

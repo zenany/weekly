@@ -11,3 +11,4 @@
 - **[Alex Russell](http://infrequently.org/)** :  A web developer working on Chrome, Blink, and the Web Platform Team at Google
 - **[Paul Irish](http://www.paulirish.com/)** :  Paul Irish is an American front-end Engineer, and developer advocate for Google Chrome. He is also recognized as an expert in web technologies like HTML5 and CSS3.
 - **[Douglas Crockford](http://www.crockford.com/)** : Douglas Crockford is Yahoo!'s JavaScript architect and a member of the committee designing future versions of the world's most popular programming language. 
+- **[Sergey Brin - Resume](http://infolab.stanford.edu/~sergey/)** : A major research interest is data mining and I run a meeting group here at Stanford.

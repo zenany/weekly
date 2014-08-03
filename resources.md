@@ -141,6 +141,8 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **icon** GitHub Octicons   http://www.graphicsprings.com/  
 **Docker**  
 **一分钱不花，开发native应用**: http://www.csdn.net/article/2014-02-11/2818360-mobile-dev-tools  
+**vasee** : http://www.vasee.com/ 门票销售和报名收费工具
+**风车网** : https://fengcheco.com/ 团队协作工具，简单易用的界面，跨平台移动客户端支持，帮助你更好的管理项目和团队。
 
 ## 经典 issues
 
@@ -189,3 +191,4 @@ http://mirrors.163.com/
 
 [Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  
 [Toward Scalable Systems for Big Data Analytics: A Technology Tutorial](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6842585)  
+[推荐系统开源软件列表](http://www.resyschina.com/2014/02/open-source-recsys.html)

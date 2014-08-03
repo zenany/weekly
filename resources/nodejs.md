@@ -34,6 +34,8 @@ FRP(Functional Reactive Programming)
 
 推荐从 Async 入手，简单强大，比 Q 容易上手。
 
+python 中有 asyncio 
+
 ## Server
 
 **[Harp](http://harpjs.com/)** : The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
