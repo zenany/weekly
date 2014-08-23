@@ -1,6 +1,10 @@
 优秀文章汇总
 ========
 
+**Web2.0 Hacking**  
+https://github.com/evilcos/papers  
+知名安全专家 余弦 原创的 web 安全相关文章
+
 **StackOverflow Update: 560M Pageviews a Month, 25 Servers, and It's All About Performance**  
 http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-month-25-servers-and-i.html  
 5亿月浏览量25台机器，11万行code，Windows平台(C#和SQL server)，网站开发6-7人移动端6人大部分远程工作，SSD，数据库全在内存里，测试主要靠社区，不Cloud不TDD不抽象不OO。总的说就是硬件上花钱招合适的人做最少的事情，再次验证招人不解决问题开人才是。  

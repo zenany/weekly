@@ -8,6 +8,12 @@ JavaScript 资源汇总
 - [JSX(http://jsx.github.io/)
 - [TypeScript](http://www.typescriptlang.org/) : 编译比较慢，并未深度改造
 
+## MVC
+
+- [vuejs](http://vuejs.org/)  
+- [wayjs](https://github.com/gwendall/way.js) Simple, lightweight, persistent two-way databinding
+
+
 ## jquery edit in place plugin
 
 - [X-editable](http://vitalets.github.io/x-editable/)
@@ -53,9 +59,23 @@ pc :
 - [Egret Engine](http://www.egret-labs.org/) : Egret Engine（白鹭引擎）是一款使用TypeScript语言构建的开源免费的移动游戏引擎。白鹭引擎的核心定位是开放，高效，优雅。通过它，你可以快速地创建HTML5类型的移动游戏，也可以将游戏项目编译输出成为目标移动平台的原生游戏应用。
 - [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) : Turbulenz is an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games that run on platforms that support HTML5 features such as modern browsers without the need for plugins.
 
+## tools
+
+### 混淆
+
+- [JavaScript Obfuscator - JS Packer](http://packer.50x.eu/)  
+- [gulp-obfuscate](https://github.com/mikegroseclose/gulp-obfuscate)  
+- [“短”化你的代码](http://ucren.com/blog/archives/549)  
+
+## Services
+
+- [harp](https://www.harp.io/)
+- [Adobe® PhoneGap™ Build](https://build.phonegap.com/)
+
 ## 其它
 
 - [node-webkit](https://github.com/rogerwang/node-webkit)  
+- [p5js](http://p5js.org/)  
 
 
 
