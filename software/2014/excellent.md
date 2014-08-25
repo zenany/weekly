@@ -10,3 +10,5 @@ http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-
 http://www.zhihu.com/question/24612523  
 我觉得换成年龄为 20 30 40 的码农更有意义
 
+**Under the Knife: Why Chinese Patients are turning against their doctors **  
+http://www.newyorker.com/magazine/2014/08/25/under-the-knife  
