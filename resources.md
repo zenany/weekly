@@ -9,10 +9,10 @@
 
 **麦肯新教我的思考武器**  
 http://book.douban.com/subject/25779342/  
-14年7月看完的，目前为止所看到的“关于如何系统化思考和分析问题”最好的一本书，理论和实践性都很强。感触最深的几个点：
+14年7月看完的，目前为止所看到的“关于如何系统化思考和分析问题”最好的一本书，理论和实践性都很强。感触最深的几个点：  
+
 - 世界上的研究主题却多得数不清，如果因为稍微觉得有趣就选为研究主题，将在还没来得及做真正重要的事时，一生就结束了
-- 
-大多数人在面对工作和问题时，总是还没想清楚“真正的问题究竟是什么”，就急忙动手去处理、去解决。然而，像这样一味求“快”、忙得团团转的结果，往往是白费力气，最后步入事倍功半的“败者之路”
+- 大多数人在面对工作和问题时，总是还没想清楚“真正的问题究竟是什么”，就急忙动手去处理、去解决。然而，像这样一味求“快”、忙得团团转的结果，往往是白费力气，最后步入事倍功半的“败者之路”
 - 找到真正要解决的问题，才有可能解决问题，并交出有价值的成果
 - 议题度和解答质模型能非常好的定位到要解决的问题
 
@@ -142,7 +142,8 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **Docker**  
 **一分钱不花，开发native应用**: http://www.csdn.net/article/2014-02-11/2818360-mobile-dev-tools  
 **vasee** : http://www.vasee.com/ 门票销售和报名收费工具
-**风车网** : https://fengcheco.com/ 团队协作工具，简单易用的界面，跨平台移动客户端支持，帮助你更好的管理项目和团队。
+**风车网** : https://fengcheco.com/ 团队协作工具，简单易用的界面，跨平台移动客户端支持，帮助你更好的管理项目和团队。  
+****  http://www.paxata.com/  
 
 ## 经典 issues
 
@@ -169,7 +170,11 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 	eval `ssh-agent -s`
 	ssh-add ssh-add ~/.ssh/id_rsa
 
-参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)  
+参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)
+
+### chrome cancay 版本不显示文字问题
+
+chrome://flags/ 启用DirectWrite 关闭即可，http://tieba.baidu.com/p/3115276351 贴吧真 NB
 
 #### Autojump 
 
@@ -191,4 +196,5 @@ http://mirrors.163.com/
 
 [Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  
 [Toward Scalable Systems for Big Data Analytics: A Technology Tutorial](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6842585)  
-[推荐系统开源软件列表](http://www.resyschina.com/2014/02/open-source-recsys.html)
+[推荐系统开源软件列表](http://www.resyschina.com/2014/02/open-source-recsys.html)  
+[MIT - Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)  
