@@ -60,6 +60,11 @@ pc :
 - [Egret Engine](http://www.egret-labs.org/) : Egret Engine（白鹭引擎）是一款使用TypeScript语言构建的开源免费的移动游戏引擎。白鹭引擎的核心定位是开放，高效，优雅。通过它，你可以快速地创建HTML5类型的移动游戏，也可以将游戏项目编译输出成为目标移动平台的原生游戏应用。
 - [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) : Turbulenz is an HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games that run on platforms that support HTML5 features such as modern browsers without the need for plugins.
 
+## lib 
+
+- [way.js](https://github.com/gwendall/way.js) : Simple, lightweight, persistent, framework-agnostic two-way databinding Javascript library (with no to little JS code to write).  
+- [vuejs](http://vuejs.org/)  
+
 ## tools
 
 ### 混淆

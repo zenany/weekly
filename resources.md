@@ -171,7 +171,11 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 	eval `ssh-agent -s`
 	ssh-add ssh-add ~/.ssh/id_rsa
 
-参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)  
+参考资料：[Working with SSH key passphrases](https://help.github.com/articles/working-with-ssh-key-passphrases) 、 [Could not open a connection to your authentication agent](http://stackoverflow.com/questions/17846529/could-not-open-a-connection-to-your-authentication-agent)
+
+### chrome cancay 版本不显示文字问题
+
+chrome://flags/ 启用DirectWrite 关闭即可，http://tieba.baidu.com/p/3115276351 贴吧真 NB
 
 #### Autojump 
 
@@ -193,4 +197,5 @@ http://mirrors.163.com/
 
 [Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  
 [Toward Scalable Systems for Big Data Analytics: A Technology Tutorial](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6842585)  
-[推荐系统开源软件列表](http://www.resyschina.com/2014/02/open-source-recsys.html)
+[推荐系统开源软件列表](http://www.resyschina.com/2014/02/open-source-recsys.html)  
+[MIT - Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)  
