@@ -6,6 +6,7 @@ monsters
 - [Virtual AGC](http://www.ibiblio.org/apollo/index.html) : The purpose of this project is to provide a computer simulation of the onboard guidance computers used in the Apollo Program's lunar missions, and to generally allow you to learn about these guidance computers.  Since this can be quite intimidating, we invite you to look at our "kinder and gentler" introductory page before immersing yourself in the full, gory detail presented by the bulk of the website.  
 - [CoreOS](https://coreos.com/) : CoreOS enables warehouse-scale computing on top of a minimal, modern operating system.
 - [Textract, a Python package for extracting text from any document](http://datascopeanalytics.com/what-we-think/2014/07/27/extract-text-from-any-document-no-muss-no-fuss)
+- [Gogs](https://github.com/gogits/gogs/) : Gogs A self-hosted Git service written in Go
 
 ## lib & framework
 

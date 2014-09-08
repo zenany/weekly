@@ -10,8 +10,9 @@ JavaScript 资源汇总
 
 ## MVC
 
-- [vuejs](http://vuejs.org/)  
-- [wayjs](https://github.com/gwendall/way.js) Simple, lightweight, persistent two-way databinding
+- [vuejs](http://vuejs.org/) Vue.js is a library for building interactive web interfaces.  
+It provides data-driven components with a simple and flexible API.
+- [wayjs](https://github.com/gwendall/way.js) Simple, lightweight, persistent two-way databinding  
 
 
 ## jquery edit in place plugin

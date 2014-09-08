@@ -14,3 +14,12 @@ http://highscalability.com/blog/2014/7/21/stackoverflow-update-560m-pageviews-a-
 http://www.zhihu.com/question/24612523  
 我觉得换成年龄为 20 30 40 的码农更有意义
 
+**为什么王自如辩不过罗永浩？**  
+http://weibo.com/p/1001593748442642986155  
+老罗这哥们要是能成功，简直就是
+
+**Why mobile web apps are slow**  
+http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/  
+译文：http://www.cnblogs.com/codemood/p/3213459.html  
+
+
