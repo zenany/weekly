@@ -7,6 +7,7 @@ JavaScript 资源汇总
 
 - [JSX(http://jsx.github.io/)
 - [TypeScript](http://www.typescriptlang.org/) : 编译比较慢，并未深度改造
+- [CoffeeScript](http://coffeescript.org)：增强了JavaScript的简洁性与可读性
 
 ## MVC
 
