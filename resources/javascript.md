@@ -5,9 +5,9 @@ JavaScript 资源汇总
 	
 ## JS 语法增强
 
-- [JSX(http://jsx.github.io/)
+- [JSX](http://jsx.github.io/)
 - [TypeScript](http://www.typescriptlang.org/) : 编译比较慢，并未深度改造
-- [CoffeeScript](http://coffeescript.org)：增强了JavaScript的简洁性与可读性
+- [CoffeeScript](http://coffeescript.org)：增强了JavaScript的简洁性与可读性，但对 js 改造太大，并不适合在大团队使用
 
 ## MVC
 
