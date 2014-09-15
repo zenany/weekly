@@ -150,10 +150,13 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 
 [Ueditor-390](https://github.com/fex-team/ueditor/issues/390)  
 [fis-plus-4](https://github.com/fex-team/fis-plus/issues/4)  
+[fis-mod-1](https://github.com/fex-team/mod/issues/1)  
 
-## Why I Left  系列：
+## Why I Left  系列
 
 [Why I Left the .NET Framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)  
+[Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)  
+
 
 ## 规范
 

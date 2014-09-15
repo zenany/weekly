@@ -22,3 +22,9 @@ monsters
 - [heroku](https://www.heroku.com/)  
 - [VimR](http://vimr.org/) - Refined Vim Experience for OS X  
 - [Paxata](http://www.paxata.com/) With Paxata, everyone has the ability to rapidly turn all raw data into ready data for analytics – in minutes, not months accelerating the time to right insights and action.  
+- [roBrowser](https://github.com/vthibault/roBrowser)  
+roBrowser is an Open Source adaptation of Ragnarok Online client for the web. Written mostly in javascript/html5, the program is very flexible and in constant evolution. The project is managed by a group of volunteers located around the world.
+
+## sites
+
+- [All About Circuits](http://www.allaboutcircuits.com/) This site provides a series of online textbooks covering electricity and electronics. The information provided is great for both students and hobbyists who are looking to expand their knowledge in this field.

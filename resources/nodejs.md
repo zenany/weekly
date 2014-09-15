@@ -40,6 +40,11 @@ python 中有 asyncio
 
 **[Harp](http://harpjs.com/)** : The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript—no configuration necessary.
 
+## 资源库
+
+- [Node.JS Modules](https://nodejsmodules.org/)  
+- [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)  
+
 ## 技术文章
 
 收录一些经典文章：
@@ -48,5 +53,5 @@ python 中有 asyncio
 - [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
 - [为什么 Node.js 这么火，而同样异步模式 Python 框架 Twisted 却十几年一直不温不火？](http://www.zhihu.com/question/23854296/answer/27877645)
 - [如何看待 TJ 宣布退出 Node.js 开发，转向 Go](http://www.zhihu.com/question/24373004)
-- [如何评价淘宝 UED 的 Midway Framework 前后端分离](http://www.zhihu.com/question/23512853)
+- [如何评价淘宝 UED 的 Midway Framework 前后端分离](http://www.zhihu.com/question/23512853)  
 
