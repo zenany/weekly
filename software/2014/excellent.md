@@ -39,3 +39,6 @@ http://www.newyorker.com/magazine/2014/08/25/under-the-knife
 https://konklone.com/post/why-google-is-hurrying-the-web-to-kill-sha-1  
 据 google 分析， https 使用的 sha-1 算法，安全性已经出现问题，期望推动大家迁移至 sha-2。  
 文中提供了一个网站能监测 https 站点的安全性： https://shaaaaaaaaaaaaa.com/  
+
+**24 Cool PHP Libraries You Should Know About**  
+http://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about/  

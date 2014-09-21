@@ -55,3 +55,7 @@ python 中有 asyncio
 - [如何看待 TJ 宣布退出 Node.js 开发，转向 Go](http://www.zhihu.com/question/24373004)
 - [如何评价淘宝 UED 的 Midway Framework 前后端分离](http://www.zhihu.com/question/23512853)  
 
+## 其它
+
+[fibjs](https://github.com/xicilion/fibjs) 一个类似 node 的环境，fibjs 是一个建立在 Google v8 Javascript 引擎基础上的应用服务器开发框架，不同于 node.js，fibjs 采用 fiber 解决 v8 引擎的多路复用，并通过大量 c++ 组件，将重负荷运算委托给后台线程，释放 v8 线程，争取更大的并发时间。
+
