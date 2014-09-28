@@ -65,6 +65,8 @@ pc :
 
 - [way.js](https://github.com/gwendall/way.js) : Simple, lightweight, persistent, framework-agnostic two-way databinding Javascript library (with no to little JS code to write).  
 - [vuejs](http://vuejs.org/)  
+- [Parsing URLs in JavaScript](http://www.abeautifulsite.net/parsing-urls-in-javascript/)  
+- [URI.js](https://github.com/medialize/URI.js)  
 
 ## tools
 
@@ -92,6 +94,7 @@ pc :
 
 - [node-webkit](https://github.com/rogerwang/node-webkit)  
 - [p5js](http://p5js.org/)  
+- [Grunt and RequireJS are out, it’s all about Gulp and Browserify now](http://www.100percentjs.com/just-like-grunt-gulp-browserify-now/)  
 
 
 

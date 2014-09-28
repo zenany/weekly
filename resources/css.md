@@ -17,4 +17,5 @@ CSS 资源汇总
 
 ## sites
 
-- [A single div](http://a.singlediv.com/)
+- [A single div](http://a.singlediv.com/)  
+- [Flat UI Colors](http://flatuicolors.com/)  
