@@ -7,12 +7,14 @@ monsters
 - [CoreOS](https://coreos.com/) : CoreOS enables warehouse-scale computing on top of a minimal, modern operating system.
 - [Textract, a Python package for extracting text from any document](http://datascopeanalytics.com/what-we-think/2014/07/27/extract-text-from-any-document-no-muss-no-fuss)
 - [Gogs](https://github.com/gogits/gogs/) : Gogs A self-hosted Git service written in Go
+- [Stuff Goes Bad Erlang in Anger](http://www.erlang-in-anger.com/)  
 
 ## lib & framework
 
 - [dui] windows 库  
 - [Kivy](http://kivy.org/) – Open-source Python library for rapid development of applications**  
-- [Linux Performance](http://www.brendangregg.com/linuxperf.html)
+- [Linux Performance](http://www.brendangregg.com/linuxperf.html)  
+- [zebra-form](http://stefangabos.ro/php-libraries/zebra-form/)  
 
 
 ## porducts
@@ -25,6 +27,14 @@ monsters
 - [roBrowser](https://github.com/vthibault/roBrowser)  
 roBrowser is an Open Source adaptation of Ragnarok Online client for the web. Written mostly in javascript/html5, the program is very flexible and in constant evolution. The project is managed by a group of volunteers located around the world.
 
+## db
+
+- [RethinkDB](http://rethinkdb.com/) An open-source distributed database built with love.  
+
 ## sites
 
 - [All About Circuits](http://www.allaboutcircuits.com/) This site provides a series of online textbooks covering electricity and electronics. The information provided is great for both students and hobbyists who are looking to expand their knowledge in this field.
+
+## fun
+
+
