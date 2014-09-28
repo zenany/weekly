@@ -74,6 +74,15 @@ pc :
 - [gulp-obfuscate](https://github.com/mikegroseclose/gulp-obfuscate)  
 - [“短”化你的代码](http://ucren.com/blog/archives/549)  
 
+### browser-based
+
+基于浏览器内核的一些工具，可用在测试、竞品等环节
+
+- [Slimerjs](http://slimerjs.org/)  
+- [Phantomjs](http://phantomjs.org/)  
+- [page-monitor](https://github.com/fouber/page-monitor)  
+- [casperjs](http://casperjs.org/)  
+
 ## Services
 
 - [harp](https://www.harp.io/)

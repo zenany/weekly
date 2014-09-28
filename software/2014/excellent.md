@@ -42,3 +42,9 @@ https://konklone.com/post/why-google-is-hurrying-the-web-to-kill-sha-1
 
 **24 Cool PHP Libraries You Should Know About**  
 http://tutorialzine.com/2013/02/24-cool-php-libraries-you-should-know-about/  
+
+**OpenGL in 2014**  
+http://www.tomdalling.com/blog/modern-opengl/opengl-in-2014/  
+Valve is investing in OpenGL to hedge themselves against Microsoft. Some well-known developers have written about the deficiencies in the API. A few competing, proprietary APIs have popped up. In an effort to remain competitive, Khronos announces glnext: a ground-up rethinking of the OpenGL and OpenGL ES APIs. This post will look at developments in the OpenGL ecosystem over the last couple of years.  
+关键点： OpenGL needs to change, glnext is shaping up to be amazing。OpenGL is the only truly cross-platform option.  
+文章引申出的这个演讲值得关注： https://www.khronos.org/assets/uploads/developers/library/2014-siggraph-bof/OpenGL-Ecosystem-BOF_Aug14.pdf  
