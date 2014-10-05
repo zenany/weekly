@@ -48,3 +48,16 @@ http://www.tomdalling.com/blog/modern-opengl/opengl-in-2014/
 Valve is investing in OpenGL to hedge themselves against Microsoft. Some well-known developers have written about the deficiencies in the API. A few competing, proprietary APIs have popped up. In an effort to remain competitive, Khronos announces glnext: a ground-up rethinking of the OpenGL and OpenGL ES APIs. This post will look at developments in the OpenGL ecosystem over the last couple of years.  
 关键点： OpenGL needs to change, glnext is shaping up to be amazing。OpenGL is the only truly cross-platform option.  
 文章引申出的这个演讲值得关注： https://www.khronos.org/assets/uploads/developers/library/2014-siggraph-bof/OpenGL-Ecosystem-BOF_Aug14.pdf  
+
+**Why I Don't Teach SOLID **  
+http://qualityisspeed.blogspot.jp/2014/08/why-i-dont-teach-solid.html  
+Today, SOLID remains important, but I don't strive to make my code SOLID.  I rarely mention it when talking about design.  And I definitely don't teach it to developers eager to learn good design techniques.  It doesn't come with me in my toolbox.  It stays in a dusty box up in the attic.  I keep it because it is important, but I access it rarely.
+
+**Lessons From A Lifetime Of Being A Programmer **  
+http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer  
+中文版：http://www.csdn.net/article/2014-09-11/2821633-Programmer  
+一位 30 年编程经验的工程师自白，都是优秀经验，摘录几点：
+- 看不到实物，客户不会知道自己想要什么
+- 成功来自对失败的总结学习，如果一再容忍失误，失败与成功注定是两条平行线
+- 古时候，先知者如果预言失败，会给石头活活砸死；而现在，即使预判失败，专家们都可全身而退，不过去做另外一次预判罢了。所以，人还是得自己有判断力，而不是跟着专家往坑里跳。
+- 尽管存在更好的办法，但是时间不会停下来等你。有时候今天做出的快速选择，会比明年才得出的好选择更管用。

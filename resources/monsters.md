@@ -15,6 +15,7 @@ monsters
 - [Kivy](http://kivy.org/) – Open-source Python library for rapid development of applications**  
 - [Linux Performance](http://www.brendangregg.com/linuxperf.html)  
 - [zebra-form](http://stefangabos.ro/php-libraries/zebra-form/)  
+- [Binary Analysis Platform](http://bap.ece.cmu.edu/)
 
 
 ## porducts

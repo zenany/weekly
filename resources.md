@@ -156,6 +156,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 
 [Why I Left the .NET Framework](http://blog.jonathanoliver.com/why-i-left-dot-net/)  
 [Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)  
+[Farewell CoffeeScript](https://github.com/staltz/rxmarbles/commit/57e37f176e0e005abd2c4fa0253bbd8f57fe1bd9)
 
 
 ## 规范

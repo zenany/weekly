@@ -8,6 +8,7 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 众病之王： http://book.douban.com/subject/20507206/  
 每个程序员都应该读的非编程书 : http://blog.jobbole.com/72365/  
 跨界：开启互联网与传统行业融合新趋势 http://item.jd.com/11548081.html  
+教训：互联网创业必须避免的八大误区 http://item.jd.com/11504874.html  
 
 
 
