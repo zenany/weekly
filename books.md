@@ -9,7 +9,14 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 每个程序员都应该读的非编程书 : http://blog.jobbole.com/72365/  
 跨界：开启互联网与传统行业融合新趋势 http://item.jd.com/11548081.html  
 教训：互联网创业必须避免的八大误区 http://item.jd.com/11504874.html  
+你的生存本能正在杀死你 http://book.douban.com/subject/25905227/  
+文明之光 http://book.douban.com/subject/25902942/  
+构建之美 http://book.douban.com/subject/25965995/
+程序员必读之软件架构 
 
+## ted
+
+我们共享的状态——意识 : http://v.163.com/movie/2014/3/U/9/M9KC3VSTL_M9KERPHU9.html  
 
 
 ## Server端技术
