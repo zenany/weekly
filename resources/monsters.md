@@ -37,7 +37,13 @@ roBrowser is an Open Source adaptation of Ragnarok Online client for the web. Wr
 ## sites
 
 - [All About Circuits](http://www.allaboutcircuits.com/) This site provides a series of online textbooks covering electricity and electronics. The information provided is great for both students and hobbyists who are looking to expand their knowledge in this field.
+- [Problems _ LeetCode](https://oj.leetcode.com/problems/) LeetCode OJ is a platform for preparing technical coding interviews. Pick from an expanding library of more than 150 questions, code and submit your solution to see if you have solved it correctly. It is that easy! 
 
-## fun
+## books
+
+编译原理三大经典书籍：  
+- 龙书： Compilers: Principles,Techniques,and Tools  
+- 虎书： Modern Compiler Implementation in C  
+- 鲸书： Advanced Compiler Design and Implementation  
 
 

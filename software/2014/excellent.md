@@ -61,3 +61,7 @@ http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer
 - 成功来自对失败的总结学习，如果一再容忍失误，失败与成功注定是两条平行线
 - 古时候，先知者如果预言失败，会给石头活活砸死；而现在，即使预判失败，专家们都可全身而退，不过去做另外一次预判罢了。所以，人还是得自己有判断力，而不是跟着专家往坑里跳。
 - 尽管存在更好的办法，但是时间不会停下来等你。有时候今天做出的快速选择，会比明年才得出的好选择更管用。
+
+**Django vs Flask vs Pyramid: Choosing a Python Web Framework**  
+https://www.airpair.com/python/posts/django-flask-pyramid  
+Pyramid, Django, and Flask are all excellent frameworks, and choosing just one for a project is hard. We'll see working apps with identical functionality in all three frameworks to make comparing the three easier. 

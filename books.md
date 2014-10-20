@@ -11,8 +11,12 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 教训：互联网创业必须避免的八大误区 http://item.jd.com/11504874.html  
 你的生存本能正在杀死你 http://book.douban.com/subject/25905227/  
 文明之光 http://book.douban.com/subject/25902942/  
-构建之美 http://book.douban.com/subject/25965995/
-程序员必读之软件架构 
+构建之美 http://book.douban.com/subject/25965995/  
+程序员必读之软件架构  
+技术的本质:技术是什么,它是如何进化的  
+活在当下 禅者的初心 form 乔布斯 booklist http://tech.qq.com/a/20141016/003412.htm  
+http://tech.qq.com/a/20141018/007802.htm  
+
 
 ## ted
 
