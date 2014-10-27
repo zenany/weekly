@@ -145,6 +145,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **vasee** : http://www.vasee.com/ 门票销售和报名收费工具
 **风车网** : https://fengcheco.com/ 团队协作工具，简单易用的界面，跨平台移动客户端支持，帮助你更好的管理项目和团队。  
 ****  http://www.paxata.com/  
+****  https://trello.com/  
 
 ## 经典 issues
 

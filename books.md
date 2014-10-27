@@ -16,7 +16,7 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 技术的本质:技术是什么,它是如何进化的  
 活在当下 禅者的初心 form 乔布斯 booklist http://tech.qq.com/a/20141016/003412.htm  
 http://tech.qq.com/a/20141018/007802.htm  
-
+http://www.jianshu.com/  
 
 ## ted
 

@@ -18,6 +18,8 @@ monsters
 - [Linux Performance](http://www.brendangregg.com/linuxperf.html)  
 - [zebra-form](http://stefangabos.ro/php-libraries/zebra-form/)  
 - [Binary Analysis Platform](http://bap.ece.cmu.edu/)
+- http://zh.lucida.me/  
+- https://github.com/google/physical-web  
 
 
 ## porducts
