@@ -65,3 +65,8 @@ http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer
 **Django vs Flask vs Pyramid: Choosing a Python Web Framework**  
 https://www.airpair.com/python/posts/django-flask-pyramid  
 Pyramid, Django, and Flask are all excellent frameworks, and choosing just one for a project is hard. We'll see working apps with identical functionality in all three frameworks to make comparing the three easier. 
+
+
+**高性能网络编程技术**  
+http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201912953&idx=1&sn=f7c820c5232fc1125b3a7b95a3e86643#rd  
+如何使网络服务器能够处理数以万计的客户端连接，这个问题被称为C10K Problem。在很多系统中，网络框架的性能直接决定了系统的整体性能，因此研究解决高性能网络编程框架问题具有十分重要的意义。在C10K Problem中，给出了一些常见的解决大量并发连接的方案和模型，在此根据自己理解去除了一些不实际的方案，并做了一些整理。

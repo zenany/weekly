@@ -124,7 +124,8 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 
 ## 专业站点
 
-**http://www.quilt.org/** A little thing to help make your data more computable
+**http://www.quilt.org/** A little thing to help make your data more computable  
+**中国高等植物物种检索词典地方版发布** http://www.planta.cn/forum/viewtopic.php?t=28888  
 
 ## 服务
 
