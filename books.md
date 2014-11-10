@@ -18,6 +18,10 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 http://tech.qq.com/a/20141018/007802.htm  
 http://www.jianshu.com/  
 
+## new
+
+不敢止步：一个软件工匠的12年 
+
 ## ted
 
 我们共享的状态——意识 : http://v.163.com/movie/2014/3/U/9/M9KC3VSTL_M9KERPHU9.html  

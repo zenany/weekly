@@ -132,6 +132,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 	组织运作、创业中可能用到的东西
 
 **salesforce** : https://www.salesforce.com/ crm  系统  
+**slack**  https://slack.com/  
 **问卷网** : http://www.wenjuan.com/  
 **麦客** : http://www.mikecrm.com/  
 **tower** : https://tower.im/  在线协作  fengcheco Basecamp 
@@ -147,6 +148,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **风车网** : https://fengcheco.com/ 团队协作工具，简单易用的界面，跨平台移动客户端支持，帮助你更好的管理项目和团队。  
 ****  http://www.paxata.com/  
 ****  https://trello.com/  
+http://sendcloud.sohu.com/feature.html  
 
 ## 经典 issues
 
