@@ -23,6 +23,7 @@ weekly
 - http://www.perfplanet.com/  
 - http://www.speedawarenessmonth.com/  
 - http://browserdiet.com/en/  
+- http://jankfree.org/
 
 ## 职业规划
 
