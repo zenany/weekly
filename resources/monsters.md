@@ -10,6 +10,7 @@ monsters
 - [Stuff Goes Bad Erlang in Anger](http://www.erlang-in-anger.com/)  
 
 - [pigshell- unix the web](http://pigshell.com/)
+- http://blog.memsql.com/cache-is-the-new-ram/  
 
 ## lib & framework
 
@@ -20,6 +21,7 @@ monsters
 - [Binary Analysis Platform](http://bap.ece.cmu.edu/)
 - http://zh.lucida.me/  
 - https://github.com/google/physical-web  
+- http://www.naetech.com/php-nightrain  Using PHP Nightrain you will be able to deploy and run HTML, CSS, JavaScript and PHP web applications as a native desktop application on Windows, Mac and the Linux operating systems. 
 
 
 ## porducts
@@ -52,4 +54,13 @@ roBrowser is an Open Source adaptation of Ragnarok Online client for the web. Wr
 
 Excess XSS  http://excess-xss.com/  
 
+## ext 
+
+洪水？瘟疫？恶劣环境催生宗教道德 http://www.guokr.com/article/439507/  
+
+## 消息协议
+
+**MQTT**  
+http://mqtt.org/  
+MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium.
 

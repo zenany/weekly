@@ -67,6 +67,7 @@ pc :
 - [vuejs](http://vuejs.org/)  
 - [Parsing URLs in JavaScript](http://www.abeautifulsite.net/parsing-urls-in-javascript/)  
 - [URI.js](https://github.com/medialize/URI.js)  
+- [MetricsGraphics.js](http://metricsgraphicsjs.org/)  
 
 ## tools
 
