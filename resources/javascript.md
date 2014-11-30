@@ -68,6 +68,14 @@ pc :
 - [Parsing URLs in JavaScript](http://www.abeautifulsite.net/parsing-urls-in-javascript/)  
 - [URI.js](https://github.com/medialize/URI.js)  
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/)  
+- https://github.com/ottomao/bugfreejs  佛祖保佑，永无bug  
+
+## 异步编程
+
+**Zone.js**  
+https://github.com/angular/zone.js  
+Implements Zones for JavaScript, inspired by Dart. A Zone is an execution context that persists across async tasks. You can think of it as thread-local storage for JavaScript VMs.  
+这个库会在 angular 2.0 中使用。  
 
 ## tools
 

@@ -206,6 +206,10 @@ http://mirrors.163.com/
 - [专为设计师而写的GitHub快速入门教程](http://www.ui.cn/project.php?id=20957)  
 - [CoolGithubProjects](http://www.coolgithubprojects.com/)  
 
+http 方式每次需要输入密码：  
+git config --global credential.helper wincred  
+https://help.github.com/articles/caching-your-github-password-in-git/  
+
 ## Deeplearning & Bigdata
 
 [Deep learning from the bottom up](http://metacademy.org/roadmaps/rgrosse/deep_learning)  

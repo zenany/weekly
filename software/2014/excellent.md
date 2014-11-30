@@ -73,3 +73,23 @@ http://mp.weixin.qq.com/s?__biz=MjM5MDg2NjIyMA==&mid=201912953&idx=1&sn=f7c820c5
 
 **Intro to Distributed Hash Tables (DHTs)**  
 http://www.freedomlayer.org/articles/dht_intro.html  
+
+**2 years with Angular.**  
+http://www.fse.guru/2-years-with-angular  
+My verdict is: Angular.js is "good enough" for majority of projects, but it is not good enough for professional web app development. When I say "professional web app" I mean the app, which is maintainable in a long run, performant in all reasonably modern browsers, has a smooth UX and is mobile-friendly.  
+关于 angular 非常客观的一篇文章，不仅仅有关于 angular 的思考，还有关于 开发框架的 思考。 文中 Angular. The Bad Parts. 值得认真看。
+
+**创业及职业选择**  
+36kr 的一系列文章：  
+聪明人为什么不来创业 http://www.36kr.com/p/216816.html  
+辞职创业如何毁了我的生活 http://www.36kr.com/p/215444.html  
+不是所有人都适合创业 http://www.36kr.com/p/216914.html  
+文章的很多思考和建议很不错的。创业与否取决于是否能认清自我。每个人在这个世界上都有属于自己的位置，做真实的自己，而不在意是否创意。
+
+**Alternatives To MVC **  
+http://blog.ircmaxell.com/2014/11/alternatives-to-mvc.html  
+Last week, I wrote A Beginner's Guide To MVC For The Web. In it, I described some of the problems with both the MVC pattern and the conceptual "MVC" that frameworks use. But what I didn't do is describe better ways. I didn't describe any of the alternatives. So let's do that. Let's talk about some of the alternatives to MVC...
+
+**The Unreasonable Effectiveness of C**  
+http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html  
+C is the total package. It is the only language that's highly productive, extremely fast, has great tooling everywhere, a large community, a highly professional culture, and is truly honest about its tradeoffs. Other languages can get you to a working state faster, but in the long run, when performance and reliability are important, C will save you time and headaches. 
