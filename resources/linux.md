@@ -1,6 +1,11 @@
 Linux
 ========
 
+## 分布式系统
+
+**Distributed systems readings**  
+http://www.andrew.cmu.edu/course/15-749/READINGS/required/  
+
 ## basic
 
 **race condition**  

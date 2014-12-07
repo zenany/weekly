@@ -69,6 +69,7 @@ pc :
 - [URI.js](https://github.com/medialize/URI.js)  
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/)  
 - https://github.com/ottomao/bugfreejs  佛祖保佑，永无bug  
+- http://peeinears.github.io/MagicEye.js/  
 
 ## 异步编程
 
@@ -78,6 +79,10 @@ Implements Zones for JavaScript, inspired by Dart. A Zone is an execution contex
 这个库会在 angular 2.0 中使用。  
 
 ## tools
+
+### 编译构建
+
+codekit  
 
 ### 混淆
 

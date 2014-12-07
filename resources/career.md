@@ -16,3 +16,13 @@ http://blog.sina.com.cn/s/blog_48d16b2a01011omu.html
 **那一年，我24岁。**  
 http://weibo.com/1687445053/BybbX5U46  
 创业总结：血一样的教训，让你少走弯路的总结，那一年，我24岁。  
+
+**你得从这8点去评估一名技术员工是否合格**  
+http://tech.qq.com/a/20141201/004333.htm  
+
+**11个技巧让那些程序员对你刮目相看**  
+http://www.techug.com/tricks-to-get-software-engineers-respect-you  
+
+**软件开发者的职业发展之路**  
+http://www.kuqin.com/shuoit/20141128/343530.html  
+你是否考虑过在5年、10年、15年以后的职业规划呢？你还要继续写代码么？如果你之前没有考虑过这个问题，那么这篇文章可以给你很好的建议，它将指导你发现软件开发人员可能经历的职业发展之路。 讲得还比较实在。

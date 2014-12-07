@@ -8,3 +8,4 @@
 - [程序员修炼之道]  
 - [.NET开源的背后：是无奈，还是顺应潮流？](http://www.techug.com/net-opensource-2)  
 - [基于git的源代码管理模型——git flow](http://www.ituring.com.cn/article/56870)  
+- [勇气与真意——关于围棋的八卦]http://www.douban.com/note/218498393/

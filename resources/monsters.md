@@ -23,6 +23,7 @@ monsters
 - https://github.com/google/physical-web  
 - http://www.naetech.com/php-nightrain  Using PHP Nightrain you will be able to deploy and run HTML, CSS, JavaScript and PHP web applications as a native desktop application on Windows, Mac and the Linux operating systems. 
 - https://rg3.github.io/youtube-dl/  
+- https://github.com/apotonick/trailblazer  A new architecture for Rails. 
 
 ## porducts
 
