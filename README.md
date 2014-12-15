@@ -30,3 +30,7 @@ weekly
 - [迄今为止见过最好的职业规划](http://www.360doc.com/content/13/0512/16/3125585_284829243.shtml)  
 - [寒门再难出贵子](http://www.mtyyw.com/7013/)  
 
+## 神奇站点
+
+- [Etymology](http://www.chineseetymology.org/) 汉字字形汇总，一个老外 20 多年的杰作，让人肃然起敬
+

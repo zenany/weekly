@@ -54,3 +54,4 @@ The special permissions flag can be marked with any of the following:
     t - This indicates the sticky bit permissions. This is not set displayed in the special permission part of the permissions display, but is represented as a t in the executable portion of the all users permissions
 
 
+zsh  http://macshuo.com/?p=676  

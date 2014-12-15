@@ -93,3 +93,13 @@ Last week, I wrote A Beginner's Guide To MVC For The Web. In it, I described som
 **The Unreasonable Effectiveness of C**  
 http://damienkatz.net/2013/01/the_unreasonable_effectiveness_of_c.html  
 C is the total package. It is the only language that's highly productive, extremely fast, has great tooling everywhere, a large community, a highly professional culture, and is truly honest about its tradeoffs. Other languages can get you to a working state faster, but in the long run, when performance and reliability are important, C will save you time and headaches. 
+
+**Node.js, a popular tool for building modern internet services, has split in two**  
+http://www.wired.com/2014/12/io-js/?hn 
+https://github.com/iojs/io.js  
+http://blog.izs.me/post/104685388058/io-js  
+io.js is a node & npm compatible javascript platform. io.js contributions, releases, and contributorship are under an open governance model.  
+据说：node.js正式分裂，一些核心开发者（包括npm的作者）另立门户，创建io.js项目。原因是不满Joyent公司对Node的垄断和排斥外部开发者、新版本发布缓慢、V8内核迟迟不更新、以及Oracle极有可能收购Joyent。  
+这里是 io.js 的 logo 征集帖 https://github.com/iojs/io.js/issues/37  
+都八字还没一撇呢，就开始瓜分利益、搞内耗，贵圈真...  
+不过相对于龟速般更新的 node.js ， io.js 让人们看到一点希望，期待 1.0.0 版的 node

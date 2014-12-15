@@ -109,6 +109,7 @@ codekit
 - [node-webkit](https://github.com/rogerwang/node-webkit)  
 - [p5js](http://p5js.org/)  
 - [Grunt and RequireJS are out, it’s all about Gulp and Browserify now](http://www.100percentjs.com/just-like-grunt-gulp-browserify-now/)  
+- [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)  
 
 
 
