@@ -30,7 +30,8 @@ http://www.jianshu.com/
 
 ## new
 
-不敢止步：一个软件工匠的12年 
+不敢止步：一个软件工匠的12年  
+代码本色 http://book.douban.com/subject/26264736/  
 
 ## ted
 

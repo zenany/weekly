@@ -55,3 +55,9 @@ The special permissions flag can be marked with any of the following:
 
 
 zsh  http://macshuo.com/?p=676  
+
+## study 
+
+[The problem with select() vs. poll() (code)]
+(http://beesbuzz.biz/blog/e/2013/10/10-the_problem_with_select_vs_poll.php)  
+[poll vs select vs event-based](http://daniel.haxx.se/docs/poll-vs-select.html)  

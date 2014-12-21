@@ -103,3 +103,26 @@ io.js is a node & npm compatible javascript platform. io.js contributions, relea
 这里是 io.js 的 logo 征集帖 https://github.com/iojs/io.js/issues/37  
 都八字还没一撇呢，就开始瓜分利益、搞内耗，贵圈真...  
 不过相对于龟速般更新的 node.js ， io.js 让人们看到一点希望，期待 1.0.0 版的 node
+
+
+**年终总结 & 算法数据的思考 & 结尾彩蛋**  
+http://www.douban.com/note/472267231/  
+涉及到大数据、推荐、深度学习等这些炙手可热的领域的真实状况，也有对行业、技术、产品的思考。文中这些观点很有特点：
+- 刨除掉语音和图像领域，转向离我们更近的工作，无论是推荐系统还是数据挖掘，特征是怎么出来的呢？对于一个电影，对于一个用户，满打满算一共就那么多特征，这个时候Deep Learning根本无从发挥。
+- 每一家公司都在说自己是大数据，要利用大数据，更是出现了“大数据工程师”这个职位，但是在我看来，对于算法工程师而言，该做的不是迷信大数据，而是把大数据给提取成小数据，利用小数据为企业创造价值。
+- 很多时候优秀的创意就是来源于一个直觉，而不是循规蹈矩的分析推导，因为这样往往会陷入大数据的窘境。所以不要无视数据，更不要神化数据，该相信直觉的时候还是相信直觉。  
+延伸出的这个文章也不错：  
+CTO这点事 http://zhuanlan.zhihu.com/iamcaoz/19856992  
+
+
+**函数式编程模式**  
+http://vdisk.weibo.com/s/vdI2I6tXhKfe  
+Everything is function vs Everything is object . 当看了GoF<设计模式(Desgin Pattern)>才知道自己的那点OO思想显得多么地肤浅，但看了<函数式编程模式>才知道函数式编程模式包含的内涵有多么丰富。。相关阅读：  
+The "Thinking functionally" : serieshttp://fsharpforfunandprofit.com/series/thinking-functionally.html  
+Why Why Functional Programming Matters Matters  
+http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html  
+http://weblog.raganwald.com/2007/03/why-why-functional-programming-matters  
+
+
+**10 Technical Papers Every Programmer Should Read (At Least Twice)**  
+http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/  
