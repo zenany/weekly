@@ -126,3 +126,8 @@ http://weblog.raganwald.com/2007/03/why-why-functional-programming-matters
 
 **10 Technical Papers Every Programmer Should Read (At Least Twice)**  
 http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/  
+
+**Planning A Front-end JavaScript Application**  
+http://developer.telerik.com/featured/planning-front-end-javascript-application/  
+In this article, I am going to describe 16 steps that front-end developers should go through when planning a front-end web application. These steps aim to cover the entire life-cycle of a front-end application. However, before diving in, I need to clarify a few front-end terms that remain unsettled in the industry.  
+非常值得借鉴的前端全流程。
