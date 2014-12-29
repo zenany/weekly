@@ -135,3 +135,8 @@ http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read
 http://papl.cs.brown.edu/2014/index.html  
 Many people would regard this as being two books in one. One book is an introduction to programming, teaching you basic concepts of organizing data and the programs that operate over them, ending in the investigation of universally useful algorithms. The other book is an introduction to programming languages: a study, from one level up, of the media by which we structure these data and programs.  
 Obviously, these are not unrelated topics. We learn programming through one or more languages, and the programs we write then become natural subjects of study to understand languages at large. Nevertheless, these are considered sufficiently different topics that they are approached separately. This is how I approached them, too.
+
+**Planning A Front-end JavaScript Application**  
+http://developer.telerik.com/featured/planning-front-end-javascript-application/  
+In this article, I am going to describe 16 steps that front-end developers should go through when planning a front-end web application. These steps aim to cover the entire life-cycle of a front-end application. However, before diving in, I need to clarify a few front-end terms that remain unsettled in the industry.  
+非常值得借鉴的前端全流程。
