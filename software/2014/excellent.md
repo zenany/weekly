@@ -123,6 +123,15 @@ Why Why Functional Programming Matters Matters
 http://raganwald.com/2014/12/20/why-why-functional-programming-matters-matters.html  
 http://weblog.raganwald.com/2007/03/why-why-functional-programming-matters  
 
+**JavaScript Application Architecture On The Road To 2015**  
+https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b  
+I once told someone I was an architect. It’s true in a way since I now have to design an intricate web of lies to back it up. On a serious note, I thought it might be salutary to look at the state of application architecture in the JavaScript community as we ebb our way towards 2015. I’ll talk about composition, functional boundaries, modularity, immutable data structures, CSP channels and a few other related topics.  
+
 
 **10 Technical Papers Every Programmer Should Read (At Least Twice)**  
 http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/  
+
+**Programming and Programming Languages**  
+http://papl.cs.brown.edu/2014/index.html  
+Many people would regard this as being two books in one. One book is an introduction to programming, teaching you basic concepts of organizing data and the programs that operate over them, ending in the investigation of universally useful algorithms. The other book is an introduction to programming languages: a study, from one level up, of the media by which we structure these data and programs.  
+Obviously, these are not unrelated topics. We learn programming through one or more languages, and the programs we write then become natural subjects of study to understand languages at large. Nevertheless, these are considered sufficiently different topics that they are approached separately. This is how I approached them, too.
