@@ -71,6 +71,35 @@ pc :
 - https://github.com/ottomao/bugfreejs  佛祖保佑，永无bug  
 - http://peeinears.github.io/MagicEye.js/  
 
+## 企业级应用组件
+
+**WebODF**  
+http://webodf.org/  
+WebODF is a JavaScript library that makes it easy to add Open Document Format (ODF) support to your website and to your mobile or desktop application. It uses HTML and CSS to display ODF documents.
+
+**dhtmlx**  
+http://dhtmlx.com/  
+A cross-browser JavaScript library for building rich Web and Mobile apps  
+
+**Webix**
+http://webix.com/  
+Webix provides a great number of JavaScript UI widgets with a pefect look and feel great on various devices. All of them can be effortlessly customized in accordance with your preferences thanks to the rich and clear API.
+
+## Editor
+
+**bootstrap-wysihtml5**  
+http://jhollingworth.github.io/bootstrap-wysihtml5/  
+Simple, beautiful wysiwyg editors  bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of wysihtml5 and Twitter Bootstrap
+相近的： http://mindmup.github.io/bootstrap-wysiwyg/  
+
+**TinyMCE**  
+http://www.tinymce.com/  
+TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL. TinyMCE has the ability to convert HTML TEXTAREA fields or other HTML elements to editor instances.  
+
+## UI Framework
+
+http://demos.telerik.com/kendo-ui/  
+
 ## 异步编程
 
 **Zone.js**  
