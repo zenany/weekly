@@ -1,0 +1,173 @@
+2015.01.12  
+========  
+
+## 业界会议  
+**2015CES国际消费电子展 - 1.6-9**  
+http://digi.tech.qq.com/zt2014/ces2015/index.htm  
+可以围观下有啥高科技。智能电动车看起来挺好玩的。
+
+**中国首届CSS开发者大会 - 1.10**  
+http://css.w3ctech.com/  
+css 创始人之一 bert bos 莅临指导，业界多位 css 专家精彩分享。没能参加的同学，可以期待慕课网的视频和会后资料，也可去微博搜搜看看新鲜事。
+
+
+## FEX 专栏
+
+**2014 小结 - by duoyi**  
+http://wuduoyi.com/note/2014/  
+里边列举了不少技术、管理、产品相关的书籍和文章。请注意，这个观点非常要命：不管技术多么好，产品不靠谱就等于零，请默记并领悟+实践...
+
+**Muffin=FIS+Browserify**  
+http://fex.baidu.com/blog/2015/01/fis-muffin/  
+这段时间在做前端架构设计，需要选个好用的前端构建方案，之前公司网站有用过 fis-pure ，因为这次需要用到 node 环境的一些自动化测试框架，pure 不太适合，因此就萌生出 FIS 集成 Browserify 的想法。
+
+##  EFE 专栏
+
+**Windows平台开发必备工具**  
+http://efe.baidu.com/blog/windows-tools-recommandation-list/  
+虽然 mac 已经越来越受欢迎，但还是有很多使用 windows 的兄弟，希望这些工具能帮上他们，感谢这位同学的整理。
+
+## 深阅读  
+
+**豆瓣-赵望野：前端工程师的困惑（图灵访谈）**  
+http://www.ituring.com.cn/article/133104  
+随着业界对前端工程师价值的逐渐认可，越来越多的人才开始进入这个领域，而赵望野却认为这一切都“有点晚了”。他的困惑来源于变化的环境和前端工程师这个有些特殊的群体。而他，也逐渐从一个单纯的工程师变成了一个以解决问题为目的的人。  
+楼主的困惑，其实很多人都有，他从中走出来的过程值得学习。  
+另附多益的点评：  http://agroup.baidu.com/fex/message?id=2285  。
+
+**Linux的最高指导原则：尊重每一个使用者**  
+http://www.techug.com/linux-philosophy  
+    所有的操作系统都有它的自已的一套思维，这些思维其实是有关键影响的。
+那到底什么是 Linux 思维？Linux 思维又是怎么样在影响整个社群，而它又是如何博得软体发展的青睐？
+
+不论我们知道与否，大多数的人们都或多或少有套自已的生命哲学。它可能很简单，就像「善待他人」，也可能是非常複杂的生命哲学。  
+
+**David Patterson的计算机口述历史**  
+http://asg.ict.ac.cn/baoyg/data/DavidPatterson-Oral-History.pdf  
+在这个2007年的采访中，Patterson教授介绍了他当年求学、求婚、求职的经历，讲述了RISC崛起的艰辛，RAID如何让EMC重获新生的巧合，当然还有他和John Hennessy的那本经典教材的幕后故事。
+
+**Why you should not use AngularJs**  
+https://medium.com/@mnemon1ck/why-you-should-not-use-angularjs-1df5ddf6fc99  
+这个剖析 angularjs 缺陷的文章还挺专业的。不过作为一名专业程序员，应该保持自己的独立鉴别能力，给每个应用找到最合适的开发方式。
+
+
+**深度思考比勤奋工作更重要**  
+http://mp.weixin.qq.com/s?__biz=MjM5NTY0ODI5NA==&mid=202146975&idx=6&sn=4ccdec6d5ef71ab4965bc404000eb99c&scene=4#rd  
+机遇不是运气，机遇是你对创业环境趋势的深度思考。深度思考要比你的勤奋更重要！只是绝大部分的机遇只是被动的被利用起来。只有少部分创业者是主动的去判断和捕捉机会。
+
+**Important Programming Concepts (Even on Embedded Systems) Part V: State Machines**  
+http://www.embeddedrelated.com/showarticle/723.php  
+状态机对于解决一些业务比较复杂的问题相当有用，比如消息、分布式系统等，也是一个非常重要的编程理论，对异步编程尤为重要，推荐看看。这一系列的另外几个文章也很有价值：  
+
+- Part I: Idempotence  
+- Part II: Immutability  
+- Part III: Volatility  
+- Part IV: Singletons  
+
+
+**2014年黑夜路人技术群讨论精选**  
+http://mp.weixin.qq.com/s?__biz=MzA3MDA2MjE2OQ==&mid=203636707&idx=1&sn=180afa2f1b2832bdf50586fd4a3e854e&scene=1  
+http://mp.weixin.qq.com/s?__biz=MzA3MDA2MjE2OQ==&mid=203562258&idx=1&sn=085296ed8402845c44f8eb14b040ab5c&scene=4  
+里边涉及到不少技术点，没准在项目中就碰到了，恰好可以看看别人怎么解决的。  
+另外，群主还整理了这东东：总结自己过去2014年的得失成长和2015年计划：  
+http://mp.weixin.qq.com/s?__biz=MzA3MDA2MjE2OQ==&mid=203742601&idx=1&sn=6e63fab386ceedd756bd8c5e84ff0642#rd  
+http://mp.weixin.qq.com/s?__biz=MzA3MDA2MjE2OQ==&mid=203765336&idx=1&sn=de82cd72d7142143be9bcd193a08499d#rd  
+可以围观下别人的总结和计划。
+
+**Replace PHP with JavaScript using Node.js!!!**  
+http://www.cgi-node.org/  
+CGI-Node provides the ability to run JavaScript on any web server just like PHP as a CGI using Node.js. Essentially allowing developers to use a single programming language, JavaScript, for both client and server. You can even run the same code (libraries) on the client or server, reducing development time and code base. CGI-Node run on shared hosting sites running Apache. It can run along side PHP.  
+
+**The Web platform: Browser technologies**  
+https://platform.html5.org/  
+让人眼花缭乱，可以当索引用。
+
+**Chrome 开发者工具快捷键**  
+https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools/blob/master/md/Reference/shortcuts.md  
+这个中文版的还挺实用的。
+
+**云上游戏数据分析实践**  
+http://www.csdn.net/article/2015-01-04/2823411  
+从游戏发展的角度来看，不管是端游、页游，还是现在发展迅猛的手游，其生命周期与盈利情况都与数据分析能力息息相关。本文将结合游戏数据的特点，分享如何有效利用阿里云的产品和服务做好数据分析的经验。 
+当其它大数据平台还在轰轰烈烈布局的时候，阿里云已经悄悄地推出了相关服务，并且命中一个重要市场：game。
+
+**The state of ES6 on io.js**  
+https://github.com/seegno/io.js/wiki/The-state-of-ES6-on-io.js  
+io.js v.1.0就要发布了，默认打开以下es6特性，不用加harmony参数：块级作用域（含let, const）、Generator、Promise、Symbol和模板字符串。  
+
+**How GitHub uses GitHub to document GitHub**  
+https://github.com/blog/1939-how-github-uses-github-to-document-github  
+翻译版： http://segmentfault.com/blog/openwrt/1190000002473246  
+The hardest part about documentation should be deciding which words to use, not configuring tools or figuring out how to deploy updates. Members of the GitHub Documentation Team come from backgrounds where crude XML-based authoring tools and complicated CMSs are the norm. We didn't want to use those tools here so we've spent a good deal of time configuring our own documentation workflow and set-up. We've talked before about how we use GitHub to build GitHub; here's a look at how we use GitHub Pages to serve our GitHub Help documentation to millions of readers each month.
+
+**The 2014 CSS Report: Examining how CSS is being used in the wild**  
+http://reports.quickleft.com/css  
+This survey downloaded CSS files from over 8,000 domains and aggregated some data about how CSS is being used and written. I think this can be useful to drive conversations forward about how to organize, think about, and manage larger CSS projects, as well as to look at how the web is evolving.
+
+##  新鲜货  
+
+**JavaScript in 2015**  
+http://glenmaddern.com/articles/javascript-in-2015  
+标题党，不过观点还不错，文中提到的这几个工具看似不错：SystemJS  JSPM
+
+**Android开发实践：自己动手编写图片剪裁应用**  
+https://github.com/Jhuster/ImageCropper  
+http://ticktick.blog.51cto.com/823160/1601702  
+写 android app 时没准会用到。
+
+**Fly It Remotely**  
+http://fir.im/  
+IR.im为移动开发者提供Beta App免费托管分发服务。  
+
+**Echarts 2.0**  
+https://ecomfe.github.io/echarts/index-en.html  
+英文文档相当赞，获得国际友人的好评：http://weibo.com/1808084593/BErsNvNbe  https://news.ycombinator.com/item?id=8844146  
+
+**MongoDB获8000万美元融资**  
+http://www.36kr.com/p/218601.html  
+MongoDB 是一个基于分布式文件存储的数据库，它是一款介于关系数据库和非关系数据库之间的产品，在非关系数据库当中它属于功能非常丰富的那种，而在处理上又是最像关系数据库的，在近日 DB-Engines 公布的最受欢迎数据库评选中刚刚当选了非关系式数据库的冠军（前四位都是关系式数据库，分别是 Oracle、MySQL、MS SQL Server 与 PostgreSQL），这已经是它第二次蝉联了。
+
+**SwiftDoc-自动生成的 Swift 在线文档**  
+http://swiftdoc.org/  
+Auto-generated documentation for Swift. Command-click no more.  
+
+**The Most Hearted Pens of 2014**  
+http://codepen.io/2014/popular/  
+CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing. Need to build a reduced test case to demonstrate and figure out a bug? CodePen is great for that. Want to show off your latest creation and get feedback from your peers? CodePen is great for that. Want to find example of a particular design pattern for you project? CodePen is great for that.  
+
+**node-liftoff**  
+https://github.com/tkellen/node-liftoff  
+Launch your command line tool with ease.  
+One of my favorite things about programming in node is the package management system. In almost all instances, the practice of locally installing modules for each project has simplified my life as a developer. However, as a long time contributor to Grunt, I have become intimately familiar with one edge case where this practice breaks down. In the hope of mitigating the annoyance for everyone, I created a library to address the issue. It’s called Liftoff.  
+
+**opentype.js**  
+https://github.com/nodebox/opentype.js  
+
+**360 好搜**  
+http://www.haosou.com/zt/haosou.html?src=pcwb0101  
+为什么推出好搜品牌？360是中国安全第一品牌，好搜致力于成为中国搜索第一品牌。  
+困兽犹斗的 360 ， 这个新品牌不知道能走多远。
+
+**微信开放JS-SDK，助力网页开发**  
+http://mp.weixin.qq.com/s?__biz=MjM5NDAxMDg4MA==&mid=202475941&idx=1&sn=bf6f7a66af7946e87d3d8dcbd4d29346  
+微信公众平台今日面向开发者开放微信内网页开发工具包（微信JS-SDK）。通过微信JS-SDK提供的11类接口集，开发者不仅能够在网页上使用微信本身的拍照、选图、语音、位置等基本能力，还可以直接使用微信分享、扫一扫、卡券、支付等微信特有的能力，为微信用户提供更优质的网页体验。
+
+**Indexed Database API**  
+http://www.w3.org/TR/2015/REC-IndexedDB-20150108/  
+IndexedDB 正式发布
+
+## EXT  
+
+**一位新手程序员的 2015 新年计划 **  http://mp.weixin.qq.com/s?__biz=MjM5MzA0ODkyMA==&mid=205185200&idx=1&sn=356ddd421008501aa935f31e8f5f2e45  
+我是一名新手程序员。小札是我的偶像，他曾经也是一名程序员。  
+2015 年第一个工作日，我看到了他的新年计划：  
+2015 年要每两个星期读一本新书，重点学习不同的文化、信仰、历史和科技。  
+2014 年小札下决心要学中文，去年 10 月，我们听到了他的中文演讲；过去几年，他曾挑战吃素食、每天约见一个除公司员工之外的人、给改变世界的人写感谢信…… 他都做到了。  
+
+**吵架文：如何看待许式伟谈Go Erlang并发编程差异？**  
+http://www.zhihu.com/question/27465406  
+缘起：http://blog.qiniu.com/?p=1059  
+
+--The End--
+
+往期 weekly : https://github.com/zenany/weekly/tree/master/software/2015/

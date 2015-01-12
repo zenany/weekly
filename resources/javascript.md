@@ -70,6 +70,7 @@ pc :
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/)  
 - https://github.com/ottomao/bugfreejs  佛祖保佑，永无bug  
 - http://peeinears.github.io/MagicEye.js/  
+- [opentype.js](https://github.com/nodebox/opentype.js)  opentype.js is a JavaScript parser and writer for TrueType and OpenType fonts.  字体变成路径
 
 ## 企业级应用组件
 

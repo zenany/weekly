@@ -21,3 +21,4 @@ Free Software, great community, and 100% open. http://www.blenderget.com/ [TEDç§
 ## sites
 
 - [Valve](https://github.com/ValveSoftware) : Valve is the creator of Steam, the pioneering game platform that distributes and manages thousands of games directly to a community of more than 65 million players around the world. 
+- [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)  A list of useful books for game AI programming. 

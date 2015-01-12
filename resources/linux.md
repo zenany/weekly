@@ -6,6 +6,10 @@ Linux
 **Distributed systems readings**  
 http://www.andrew.cmu.edu/course/15-749/READINGS/required/  
 
+## tools
+
+[Linux 和类 Unix 系统上5个最佳开源备份工具](http://linux.cn/article-4623-1.html)  
+
 ## basic
 
 **race condition**  
