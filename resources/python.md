@@ -7,3 +7,7 @@ PCV is a pure Python library for computer vision based on the book "Programming 
 
 **Python语言在企业级应用上的十大谬误**
 http://www.techug.com/10-myths-of-enterprise-python  
+
+**Django搭建简易博客教程**  
+http://andrew-liu.gitbooks.io/django-blog/content/  
+可以当 python 入门使。  
