@@ -12,3 +12,7 @@
 
 ## 开源社区  
 [Emacs目前的维护者Stefan Monnier和Richard Stallman（RMS）分道扬镳，准备另起炉灶](https://lists.gnu.org/archive/html/emacs-devel/2015-01/msg00171.html)  
+
+## 社会
+
+[关于农民工讨薪那点事儿](http://weibo.com/p/1001603800923997626634)  

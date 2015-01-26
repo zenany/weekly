@@ -142,5 +142,6 @@ codekit
 - [No more JS frameworks](http://bitworking.org/news/2014/05/zero_framework_manifesto)  
 - [详解this](http://wayou.github.io/2015/01/18/all-this/) [原文](http://wayou.github.io/2015/01/18/all-this/)  
 - [HAXE](http://haxe.org/)  Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. 
+- [国外优秀JavaScript资源推荐](http://www.ido321.com/302.html)  
 
 

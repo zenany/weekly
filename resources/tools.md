@@ -11,3 +11,9 @@
 ## 
 
 http://wkhtmltopdf.org/  
+
+## github
+
+[GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/)  
+[A better pull request](https://developer.atlassian.com/blog/2015/01/a-better-pull-request/)  
+[Git implemented in JavaScrip](https://github.com/maryrosecook/gitlet)  

@@ -14,6 +14,12 @@ It’s all about performance
 **Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
 http://www.techug.com/how-you-know  
 
+## 综合报告
+
+**2014年CSS报告——考察如何使用CSS**  
+http://web.jobbole.com/81983/  
+这个调查来自于8000多个网站，并且下载了他们的CSS文件，做为分析如何书写CSS和使用CSS的数据。我认为这对于如何向前推动相关组织、思考和管理更大的CSS项目是非常有用的。以及可以看看网络是如何演变的。
+
 ## 编程理论
 
 **Important Programming Concepts (Even on Embedded Systems) Part V: State Machines**  
@@ -24,3 +30,7 @@ http://www.embeddedrelated.com/showarticle/723.php
 - Part II: Immutability  
 - Part III: Volatility  
 - Part IV: Singletons  
+
+
+**Some Thoughts on Go and Erlang**
+http://blog.erlware.org/some-thoughts-on-go-and-erlang/  
