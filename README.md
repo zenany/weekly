@@ -14,7 +14,8 @@ weekly
 
 - [个人知识库](resources.md) : 记录我看过的书、整理的资源  
 - [JavaScript](resources/javascript.md)  
-- [node.js](resources/nodejs.md)
+- [node.js](resources/nodejs.md)  
+- [Android开发技术周报](http://www.androidweekly.cn/)  
 
 ## 个人推荐
 

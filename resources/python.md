@@ -15,3 +15,6 @@ http://andrew-liu.gitbooks.io/django-blog/content/
 **numpile**  
 https://github.com/sdiehl/numpile  
 A tiny 1000 line LLVM-based numeric specializer for scientific Python code 
+
+**httpie**  
+https://github.com/jakubroztocil/httpie  
