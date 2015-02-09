@@ -10,9 +10,11 @@ It’s all about performance
 9 web servers  
 4 sql servers  
 
+**百度-浅谈移动前端的最佳实践**  
+http://www.cnblogs.com/yexiaochai/p/4219523.html  
+总结百度移动端的优化经验经验，从技术选型、性能优化、多人协作等角度给出了详尽的分析。绝对的良心之作，非常值得阅读。
 
-**Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
-http://www.techug.com/how-you-know  
+
 
 ## 综合报告
 
@@ -34,3 +36,8 @@ http://www.embeddedrelated.com/showarticle/723.php
 
 **Some Thoughts on Go and Erlang**
 http://blog.erlware.org/some-thoughts-on-go-and-erlang/  
+
+## 精彩博文
+
+**Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
+http://www.techug.com/how-you-know  

@@ -36,6 +36,11 @@ FRP(Functional Reactive Programming)
 
 python ÖÐÓÐ asyncio 
 
+## lib
+
+[zone](https://github.com/strongloop/zone) Flow control and error handling for Node.js  
+[bluebird](https://github.com/petkaantonov/bluebird)  
+
 ## Server
 
 **[Harp](http://harpjs.com/)** : The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript¡ªno configuration necessary.

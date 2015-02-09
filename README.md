@@ -10,12 +10,19 @@ weekly
 
 - 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
 
+
+## 个人知识库
+
+- [books](books.md) 记录我看过和计划看的书，14年后半年开始重点关注自然科学、计算机科学
+- [readings](books.md) ted 视频、记录片等非资源
+- [杂项](resources.md) 暂未归类的一下资源
+
 ## 资源集散中心
 
-- [个人知识库](resources.md) : 记录我看过的书、整理的资源  
 - [JavaScript](resources/javascript.md)  
 - [node.js](resources/nodejs.md)  
 - [Android开发技术周报](http://www.androidweekly.cn/)  
+- [Server端技术 - 贴吧Arch Weekly](http://nginx.baidu.com/book/arch_weekly/)  
 
 ## 个人推荐
 

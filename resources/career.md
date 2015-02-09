@@ -33,3 +33,7 @@ JS 作为一门应用型技术是需要一种标准化的快速构建的方式�
 **华为新员工入职180天详细培训计划曝光**  
 http://mp.weixin.qq.com/s?__biz=MjM5NjAyMzcyMA==&mid=211441573&idx=3&sn=2ee76dc0a3a5a5bb0e920df2c770bae9&scene=4#rd  
 新员工的前6个月的培养周期往往体现出企业对于人才培养的重视程度，但许多企业往往只将重点放在前15天，导致力新生代员工的离职率高峰出现在入职第6个月到1年，让企业损失大量的成本，如何快速提升新员工的能力，取决于前180天管理者做了什么。
+
+**Why Learning to Code is So Damn Hard**  
+http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard  
+What every beginner absolutely needs to know about the journey ahead. Quincy Larson was just a "guy in a suit in an office" and decided he wanted to learn how to code. So he asked around. He started by picking up a bit of Ruby then found himself skimming through other languages like Scala, Clojure and Go. He learned Emacs then Vim and even the Dvorak keyboard layout. He picked up Linux, dabbled in Lisp and coded in Python while living on the command line for more than half a year.

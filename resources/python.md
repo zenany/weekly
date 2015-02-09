@@ -18,3 +18,6 @@ A tiny 1000 line LLVM-based numeric specializer for scientific Python code
 
 **httpie**  
 https://github.com/jakubroztocil/httpie  
+
+**PyDark – 2D Game Framework**  
+http://www.pydark.com/  

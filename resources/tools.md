@@ -12,6 +12,12 @@
 
 http://wkhtmltopdf.org/  
 
+## lib
+
+一些可能有用的 lib 
+
+www.gaclib.net
+
 ## github
 
 [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet/)  

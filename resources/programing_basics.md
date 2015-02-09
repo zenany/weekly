@@ -41,6 +41,10 @@ TOMP is the Simple (or Streaming) Text Orientated Messaging Protocol. STOMP prov
 http://opendatastructures.org/  
 Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs. Data structures presented in the book include stacks, queues, deques, and lists implemented as arrays and linked-lists; space-efficient implementations of lists; skip lists; hash tables and hash codes; binary search trees including treaps, scapegoat trees, and red-black trees; integer searching structures including binary tries, x-fast tries, and y-fast tries; heaps, including implicit binary heaps and randomized meldable heaps; graphs, including adjacency matrix and ajacency list representations; and B-trees. The data structures in this book are all fast, practical, and have provably good running times. All data structures are rigorously analyzed and implemented in Java and C++. The Java implementations implement the corresponding interfaces in the Java Collections Framework. 
 
+**Algorithms**  
+https://github.com/arnauddri/algorithms  
+Classic algorithms and data structures implemented in Go. Not for production use, it is mostly an attempt to get comfortable both with Go and key CS concepts.  
+
 
 ## 架构
 
