@@ -46,13 +46,7 @@ http://mp.weixin.qq.com/s?__biz=MjM5MzEyMjAyMA==&mid=200286062&idx=1&sn=cddbd9a5
 **风车网** : https://fengcheco.com/ 团队协作工具，简单易用的界面，跨平台移动客户端支持，帮助你更好的管理项目和团队。  
 ****  http://www.paxata.com/  
 ****  https://trello.com/  
-http://sendcloud.sohu.com/feature.html  
-
-## 经典 issues
-
-[Ueditor-390](https://github.com/fex-team/ueditor/issues/390)  
-[fis-plus-4](https://github.com/fex-team/fis-plus/issues/4)  
-[fis-mod-1](https://github.com/fex-team/mod/issues/1)  
+http://sendcloud.sohu.com/feature.html
 
 ## Why I Left  系列
 
