@@ -21,3 +21,8 @@ https://github.com/jakubroztocil/httpie
 
 **PyDark – 2D Game Framework**  
 http://www.pydark.com/  
+
+**Colour Science for Python**  
+http://www.colorpipe.org/colour-science-for-python/  
+Colour is a  new open source python package dedicated to colour science.
+It implements a comprehensive number of colour theory transformations and algorithms

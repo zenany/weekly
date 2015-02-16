@@ -64,3 +64,7 @@ python 中有 asyncio
 
 [fibjs](https://github.com/xicilion/fibjs) 一个类似 node 的环境，fibjs 是一个建立在 Google v8 Javascript 引擎基础上的应用服务器开发框架，不同于 node.js，fibjs 采用 fiber 解决 v8 引擎的多路复用，并通过大量 c++ 组件，将重负荷运算委托给后台线程，释放 v8 线程，争取更大的并发时间。
 
+[WebSockets the UNIX way](http://websocketd.com/)  
+Full duplex messaging between web browsers and servers
+
+
