@@ -44,3 +44,12 @@ http://blog.erlware.org/some-thoughts-on-go-and-erlang/
 
 **Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
 http://www.techug.com/how-you-know  
+
+## reactive && angular
+
+**React.js, Flux and more component thinking**  
+http://josherich.github.io/react-flux-webpack-slide/#/  
+
+**Testing angular.js application with wallaby.js**  
+http://dm.gl/2015/02/16/wallaby-angular/  
+In case if you haven’t seen wallaby.js yet - it is an intelligent test runner for JavaScript, that runs your tests and displays the feedback as you write your code. Wallaby.js runs your tests very fast - it uses runtime dependency analysis to only execute tests affected by your code changes and parallel test execution.

@@ -146,5 +146,6 @@ codekit
 - [HAXE](http://haxe.org/)  Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. 
 - [国外优秀JavaScript资源推荐](http://www.ido321.com/302.html)  
 - [7GUIs](https://github.com/eugenkiss/7guis) 7GUIs is a GUI programming usability benchmark  
+- highlight.js  
 
 
