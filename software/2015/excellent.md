@@ -19,6 +19,9 @@ http://www.cnblogs.com/yexiaochai/p/4219523.html
 http://www.jianshu.com/p/b2f77285266c  
 运维是 FE 工程师向全栈进化过程中绕过不过去的一个坎。这个文章总结了小米的一些经验，值得阅读。
 
+**Authentication for Single Page Applications and API’s in the SANE Stack pt 1**  
+http://www.100percentjs.com/authentication-single-page-applications-apis-sane-stack/  
+
 ## 综合报告
 
 **2014年CSS报告——考察如何使用CSS**  
@@ -41,6 +44,17 @@ http://www.embeddedrelated.com/showarticle/723.php
 http://blog.erlware.org/some-thoughts-on-go-and-erlang/  
 
 ## 精彩博文
+
+**What qualities characterize a great PhD student?**  
+http://www.quora.com/What-qualities-characterize-a-great-PhD-student/answer/David-Karger-1  
+感觉对码农也挺合适的：  
+0. intelligence  
+1. curiosity  
+2. creativity  
+3. discipline and productivity  
+4. ability to teach/communicate with an audience  
+5. ability to communicate with peers  
+
 
 **Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
 http://www.techug.com/how-you-know  

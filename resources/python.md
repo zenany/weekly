@@ -1,6 +1,12 @@
 python
 ========
 
+**SpiderFoot**  
+
+**ipython**  
+http://ipython.org/  
+IPython provides a rich architecture for interactive computing.  
+
 **Programming Computer Vision with Python**  
 http://programmingcomputervision.com/  
 PCV is a pure Python library for computer vision based on the book "Programming Computer Vision with Python" by Jan Erik Solem.  

@@ -23,6 +23,8 @@ http://www.sitepoint.com/generate-excel-files-charts-phpexcel/
 
 - [A single div](http://a.singlediv.com/)  
 - [Flat UI Colors](http://flatuicolors.com/)  
+- [CSS Reference](http://tympanus.net/codrops/css_reference/)  
+An extensive CSS reference with all the important properties and info to learn CSS from the basics
 
 ## archicles
 
