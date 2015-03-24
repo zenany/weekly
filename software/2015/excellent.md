@@ -10,9 +10,17 @@ It’s all about performance
 9 web servers  
 4 sql servers  
 
+**百度-浅谈移动前端的最佳实践**  
+http://www.cnblogs.com/yexiaochai/p/4219523.html  
+总结百度移动端的优化经验经验，从技术选型、性能优化、多人协作等角度给出了详尽的分析。绝对的良心之作，非常值得阅读。
 
-**Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
-http://www.techug.com/how-you-know  
+
+**小米运维—互联网企业级监控系统实践**  
+http://www.jianshu.com/p/b2f77285266c  
+运维是 FE 工程师向全栈进化过程中绕过不过去的一个坎。这个文章总结了小米的一些经验，值得阅读。
+
+**Authentication for Single Page Applications and API’s in the SANE Stack pt 1**  
+http://www.100percentjs.com/authentication-single-page-applications-apis-sane-stack/  
 
 ## 综合报告
 
@@ -34,3 +42,28 @@ http://www.embeddedrelated.com/showarticle/723.php
 
 **Some Thoughts on Go and Erlang**
 http://blog.erlware.org/some-thoughts-on-go-and-erlang/  
+
+## 精彩博文
+
+**What qualities characterize a great PhD student?**  
+http://www.quora.com/What-qualities-characterize-a-great-PhD-student/answer/David-Karger-1  
+感觉对码农也挺合适的：  
+0. intelligence  
+1. curiosity  
+2. creativity  
+3. discipline and productivity  
+4. ability to teach/communicate with an audience  
+5. ability to communicate with peers  
+
+
+**Paul Graham:如果人的思想是程序，阅读和经历就是源代码**  
+http://www.techug.com/how-you-know  
+
+## reactive && angular
+
+**React.js, Flux and more component thinking**  
+http://josherich.github.io/react-flux-webpack-slide/#/  
+
+**Testing angular.js application with wallaby.js**  
+http://dm.gl/2015/02/16/wallaby-angular/  
+In case if you haven’t seen wallaby.js yet - it is an intelligent test runner for JavaScript, that runs your tests and displays the feedback as you write your code. Wallaby.js runs your tests very fast - it uses runtime dependency analysis to only execute tests affected by your code changes and parallel test execution.

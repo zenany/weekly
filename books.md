@@ -9,6 +9,7 @@ booklist
 ## to read
 
 ### 技术 & 管理
+Google是如何运作的  
 微管理： http://book.douban.com/subject/25868303/  
 The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/  
 众病之王： http://book.douban.com/subject/20507206/  
@@ -23,6 +24,8 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 活在当下 禅者的初心 form 乔布斯 booklist http://tech.qq.com/a/20141016/003412.htm  
 http://tech.qq.com/a/20141018/007802.htm  
 http://www.jianshu.com/  
+无须等待:YC合伙人的创业课  http://www.amazon.cn/dp/B00QUQ2G96  
+金字塔原理  
 
 ### 自然科学
     

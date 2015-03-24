@@ -1,4 +1,4 @@
-文化
+产品设计
 ========
 	
 - [做程序猿的老婆应该注意的一些事情](http://www.techug.com/things-about-be-programmers-wife)
@@ -10,7 +10,7 @@
 - [基于git的源代码管理模型——git flow](http://www.ituring.com.cn/article/56870)  
 - [勇气与真意——关于围棋的八卦]http://www.douban.com/note/218498393/  
 - [从《霍比特人》到《魔戒》的完整历史是怎样的？](http://weibo.com/p/1001603804464862624544)  
-- [程序员如何做到『编程速度又快，Bug 数量又少』？](http://blog.jobbole.com/84159/)
+
 ## 开源社区  
 [Emacs目前的维护者Stefan Monnier和Richard Stallman（RMS）分道扬镳，准备另起炉灶](https://lists.gnu.org/archive/html/emacs-devel/2015-01/msg00171.html)  
 

@@ -2,12 +2,21 @@
 ========  
 
 
+## languages
+
+http://blog.rust-lang.org/  
+https://github.com/rui314/8cc  可以当做学习编译器技术的材料
+
 ## Interface Design 
 
 ### HTTP API Design Guide  
 https://github.com/interagent/http-api-design  
 This guide describes a set of HTTP+JSON API design practices, originally extracted from work on the Heroku Platform API. This guide informs additions to that API and also guides new internal APIs at Heroku. We hope it’s also of interest to API designers outside of Heroku. Our goals here are consistency and focusing on business logic while avoiding design bikeshedding. We’re looking for a good, consistent, well-documented way to design APIs, not necessarily the only/ideal way. We assume you’re familiar with the basics of HTTP+JSON APIs and won’t cover all of the fundamentals of those in this guide.
 
+##  arch
+
+**Adopting Microservices at Netflix: Lessons for Architectural Design**  
+http://nginx.com/blog/microservices-at-netflix-architectural-best-practices/  
 
 ## 消息协议
 
@@ -41,6 +50,13 @@ TOMP is the Simple (or Streaming) Text Orientated Messaging Protocol. STOMP prov
 http://opendatastructures.org/  
 Open Data Structures covers the implementation and analysis of data structures for sequences (lists), queues, priority queues, unordered dictionaries, ordered dictionaries, and graphs. Data structures presented in the book include stacks, queues, deques, and lists implemented as arrays and linked-lists; space-efficient implementations of lists; skip lists; hash tables and hash codes; binary search trees including treaps, scapegoat trees, and red-black trees; integer searching structures including binary tries, x-fast tries, and y-fast tries; heaps, including implicit binary heaps and randomized meldable heaps; graphs, including adjacency matrix and ajacency list representations; and B-trees. The data structures in this book are all fast, practical, and have provably good running times. All data structures are rigorously analyzed and implemented in Java and C++. The Java implementations implement the corresponding interfaces in the Java Collections Framework. 
 
+**Algorithms**  
+https://github.com/arnauddri/algorithms  
+Classic algorithms and data structures implemented in Go. Not for production use, it is mostly an attempt to get comfortable both with Go and key CS concepts.  
+
+## 协同 
+
+together.js  
 
 ## 架构
 

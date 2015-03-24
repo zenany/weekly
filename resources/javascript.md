@@ -71,6 +71,8 @@ pc :
 - https://github.com/ottomao/bugfreejs  佛祖保佑，永无bug  
 - http://peeinears.github.io/MagicEye.js/  
 - [opentype.js](https://github.com/nodebox/opentype.js)  opentype.js is a JavaScript parser and writer for TrueType and OpenType fonts.  字体变成路径
+- https://github.com/aui/font-spider/  
+- [Fetch is the new XHR](https://github.com/github/fetch)  
 
 ## 企业级应用组件
 
@@ -143,5 +145,7 @@ codekit
 - [详解this](http://wayou.github.io/2015/01/18/all-this/) [原文](http://wayou.github.io/2015/01/18/all-this/)  
 - [HAXE](http://haxe.org/)  Haxe is an open source toolkit based on a modern, high level, strictly typed programming language, a cross-compiler, a complete cross-platform standard library and ways to access each platform's native capabilities. 
 - [国外优秀JavaScript资源推荐](http://www.ido321.com/302.html)  
+- [7GUIs](https://github.com/eugenkiss/7guis) 7GUIs is a GUI programming usability benchmark  
+- highlight.js  
 
 

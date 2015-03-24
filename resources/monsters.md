@@ -73,5 +73,8 @@ DragonFly BSD  http://www.dragonflybsd.org/
 
 [千古之谜解析——那些在眼中漂浮的东西是什么？](http://www.quumii.com/videolist.php?id=18485)  
 
-## Go
+## bigdata
+
+**40余人协作完成4万字Spark论文翻译**  
+http://code.csdn.net/news/2823703  
 
