@@ -25,6 +25,7 @@ The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/
 http://tech.qq.com/a/20141018/007802.htm  
 http://www.jianshu.com/  
 无须等待:YC合伙人的创业课  http://www.amazon.cn/dp/B00QUQ2G96  
+金字塔原理  
 
 ### 自然科学
     
