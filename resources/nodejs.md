@@ -25,6 +25,10 @@ forever 的接口不是很好，功能也没有 pm2 强大。启动同名文件时需要 --uid 参数，每次
       
 推荐： nodemon  pm2 ，但 pm2 的 cluster_mode 不太稳定，建议优先选 fork_mode
 
+## log
+
+https://github.com/winstonjs/winston  
+https://github.com/trentm/node-bunyan  
 
 ## 异步编程
 
