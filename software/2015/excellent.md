@@ -3,6 +3,12 @@
 
 ## 名站技术
 
+**知道创宇研发技能表v2.2**  
+http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html  
+
+**亿级用户下的新浪微博平台架构**  
+http://www.codeceo.com/article/weibo-artch.html  
+
 **StackExchange System Architecture**  
 http://stackexchange.com/performance  
 560 MILLION page views per month  
