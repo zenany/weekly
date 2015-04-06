@@ -8,6 +8,7 @@ weekly
 
 ## Weekly 汇总
 
+- 2015年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2015>  
 - 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
 
 
