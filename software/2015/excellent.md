@@ -22,6 +22,25 @@ http://www.jianshu.com/p/b2f77285266c
 **Authentication for Single Page Applications and API’s in the SANE Stack pt 1**  
 http://www.100percentjs.com/authentication-single-page-applications-apis-sane-stack/  
 
+**10 Myths of Enterprise Python**  
+https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/  
+Python has enjoyed many years of grassroots usage and support from developers across eBay. Even before official support from management, technologists of all walks went the extra mile to reap the rewards of developing in Python. I joined PayPal a few years ago, and chose Python to work on internal applications, but I’ve personally found production PayPal Python code from nearly 15 years ago.  
+In the coming series of posts I’ll detail the initiatives and technologies that led the eBay/PayPal Python community to grow from just under 25 engineers in 2011 to over 260 in 2014. For this introductory post, I’ll be focusing on the 10 myths I’ve had to debunk the most in eBay and PayPal’s enterprise environments.
+
+**Bazel – Correct, reproducible, fast builds for everyone**  
+http://bazel.io/  
+Bazel is a build tool that builds code quickly and reliably. It is used to build the majority of Google's software, and thus it has been designed to handle build problems present in Google's development environment.  
+
+**Primer**  
+http://primercss.io/  
+The CSS toolkit and guidelines that power GitHub.  
+
+## 新生物
+
+**Pencil Code**  
+http://pencilcode.net/  
+Learn professional programming languages using an editor that lets you work in either blocks or text. Create art, music, games, and stories. Or invent a program that will change the world.  
+
 ## 综合报告
 
 **2014年CSS报告——考察如何使用CSS**  
@@ -39,6 +58,8 @@ http://www.embeddedrelated.com/showarticle/723.php
 - Part III: Volatility  
 - Part IV: Singletons  
 
+**Neal Ford on Shifting to Functional Thinking**  
+https://www.voxxed.com/blog/2014/11/neal-ford-on-shifting-to-functional-thinking/  
 
 **Some Thoughts on Go and Erlang**
 http://blog.erlware.org/some-thoughts-on-go-and-erlang/  
