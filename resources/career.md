@@ -1,6 +1,10 @@
 职业规划  
 ========
 
+**What I'd tell myself about startups if I could go back 5 years.**  
+http://www.talkingquickly.co.uk/2015/04/what-id-tell-myself-about-startups/  
+This is, in no particular order, what I'd tell myself about startups if I could go back in time to when I first got involved. Which is probably the same as what I've learned.    
+
 **30岁到35岁：为你的生命多积累一些厚度**  
 http://blog.sina.com.cn/s/blog_48d16b2a01011omu.html  
 如果可以选择，还是选择靠自己吧。你所有不曾料想的问题，都会随着时间的推移而与你不期而遇;你所有曾经潇洒的随遇而安，同样也会随时间流逝而让你承担那些似乎命中已注定的代价……给大家推荐一篇文章，无论你是男是女，在30岁前还是之后，都可以看一看。  
