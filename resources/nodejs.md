@@ -44,6 +44,7 @@ python жага asyncio
 
 [zone](https://github.com/strongloop/zone) Flow control and error handling for Node.js  
 [bluebird](https://github.com/petkaantonov/bluebird)  
+http://highlandjs.org/  
 
 ## Server
 

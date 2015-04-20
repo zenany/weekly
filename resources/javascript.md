@@ -14,6 +14,7 @@ JavaScript 资源汇总
 - [vuejs](http://vuejs.org/) Vue.js is a library for building interactive web interfaces.  
 It provides data-driven components with a simple and flexible API.
 - [wayjs](https://github.com/gwendall/way.js) Simple, lightweight, persistent two-way databinding  
+- <http://t3js.org/>  
 
 ## jquery edit in place plugin
 
