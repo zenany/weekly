@@ -12,6 +12,9 @@ http://www.andrew.cmu.edu/course/15-749/READINGS/required/
 
 ## basic
 
+**WhyTheName**  
+https://wiki.debian.org/WhyTheName  
+
 **An Introduction to Unix**  
 http://www.oliverelliott.org/article/computing/tut_unix/  
 
