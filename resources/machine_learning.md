@@ -8,3 +8,4 @@
 - [http://www.academics.io/](http://www.academics.io/)  
 -  Sirius https://github.com/jhauswald/sirius  密歇根大学开发，开源！这是一个类似 Siri 的智能秘书，有语音和视觉能力。
 - Purine  新加坡LV实验室的神经网络并行框架Purine  
+- https://github.com/dmlc  A Community of awesome Distributed Machine Learning C++ projects
