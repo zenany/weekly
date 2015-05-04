@@ -94,3 +94,14 @@ http://josherich.github.io/react-flux-webpack-slide/#/
 **Testing angular.js application with wallaby.js**  
 http://dm.gl/2015/02/16/wallaby-angular/  
 In case if you haven’t seen wallaby.js yet - it is an intelligent test runner for JavaScript, that runs your tests and displays the feedback as you write your code. Wallaby.js runs your tests very fast - it uses runtime dependency analysis to only execute tests affected by your code changes and parallel test execution.
+
+## 观点
+
+**深度思考比勤奋工作更重要**  
+http://mp.weixin.qq.com/s?__biz=MjM5OTM5OTAyMQ==&mid=206900835&idx=3&sn=378037e97e9e87cac7adf0dfbb230d30  
+机遇不是运气，机遇是你对创业环境趋势的深度思考。深度思考要比你的勤奋更重要！只是绝大部分的机遇只是被动的被利用起来。只有少部分创业者是主动的去判断和捕捉机会。  
+
+**拆掉思维的栅栏**  
+http://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=215717724&idx=1&sn=f68e41dcc6f88f63f8d4372044e81ca3  
+真正限制我们的，是我们思维里看不见的墙？而这堵墙很大部分来自于内心的不安全感。
+
