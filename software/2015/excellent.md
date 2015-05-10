@@ -20,6 +20,9 @@ It’s all about performance
 http://www.cnblogs.com/yexiaochai/p/4219523.html  
 总结百度移动端的优化经验经验，从技术选型、性能优化、多人协作等角度给出了详尽的分析。绝对的良心之作，非常值得阅读。
 
+**七牛如何做HTTP服务测试**  
+http://weibo.com/p/1001603839573171004947  
+基于HTTP协议来提供服务的好处是显然的。除了HTTP服务有很多现成的客户端、服务端框架可以直接使用外，在HTTP服务的调试、测试等工程领域都有现成的相关工具支撑。七牛大量的服务都基于HTTP，所以需要思考如何更有效地进行HTTP服务的测试。
 
 **小米运维—互联网企业级监控系统实践**  
 http://www.jianshu.com/p/b2f77285266c  
@@ -54,6 +57,9 @@ http://web.jobbole.com/81983/
 这个调查来自于8000多个网站，并且下载了他们的CSS文件，做为分析如何书写CSS和使用CSS的数据。我认为这对于如何向前推动相关组织、思考和管理更大的CSS项目是非常有用的。以及可以看看网络是如何演变的。
 
 ## 编程理论
+
+**JavaScript and Type Thinking**  
+http://tech.pro/blog/6885/javascript-and-type-thinking  
 
 **Important Programming Concepts (Even on Embedded Systems) Part V: State Machines**  
 http://www.embeddedrelated.com/showarticle/723.php  

@@ -1,5 +1,20 @@
-职业规划  
+职业、团队、个人成长 
 ========
+
+
+**好的前端主管是如何带队的？**  
+http://www.zhihu.com/question/30093712  
+这个问题在职业生涯中似乎是绕不过去的，大家可以看看大神们的经验，对未来肯定有帮助。
+
+**老调重弹：年龄大了，码农何去何从**  
+http://ourcoders.com/thread/show/218/  
+
+**写给初学前端工程师的一封信**  
+http://www.w3ctech.com/topic/983  
+克军结合自己的经验给前端新手的建议，其实对非新手也是很有启发的。个人喜欢这几点：
+- 技术会变，不变的是那些特质和观念
+- 不要抱怨自己所在的团队不够好，用更开放的心态分享和交流，慢慢的一个好的氛围便会形成
+- 开发思想不存在过时的问题
 
 **What I'd tell myself about startups if I could go back 5 years.**  
 http://www.talkingquickly.co.uk/2015/04/what-id-tell-myself-about-startups/  

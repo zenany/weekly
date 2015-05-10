@@ -2,6 +2,14 @@ JavaScript 资源汇总
 ========
 	
 	begin at 2014.06 持续更新
+    
+
+## 学习资料  
+
+**A re-introduction to JavaScript***  
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
+Why a re-introduction? Because JavaScript is notorious for being the world's most misunderstood programming language. While often derided as a toy, beneath its deceptive simplicity lie some powerful language features, one that is now used by an incredible number of high-profile applications, showing that deeper knowledge of this technology is an important skill for any web or mobile developer.
+
 	
 ## JS 语法增强
 
@@ -11,7 +19,12 @@ JavaScript 资源汇总
 
 ## tools  
 
-JSPM  jspm is a package manager for the SystemJS universal module loader, built on top of the dynamic ES6 module loader
+**JSPM**  
+jspm is a package manager for the SystemJS universal module loader, built on top of the dynamic ES6 module loader
+
+**json-server**  
+https://github.com/typicode/json-server  
+Get a full fake REST API with zero coding in less than 30 seconds (seriously)   
 
 ## MVC
 
