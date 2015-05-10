@@ -67,6 +67,8 @@ The beautiful, open source front-end framework for developing hybrid mobile apps
 - [Sencha Touch](http://www.sencha.com/products/touch/)  
 - [Kendo UI](http://www.telerik.com/kendo-ui) : Everything you need to build sites and apps
 with pure JavaScript and HTML5.  
+- https://github.com/makeusabrew/bootbox  Bootbox.js is a small JavaScript library which allows you to create programmatic dialog boxes using Bootstrap modals
+- https://github.com/hubspot/vex  Vex is a modern dialog library which is highly configurable, easily stylable, and gets out of the way.  
 
 pc : 
 
@@ -91,6 +93,11 @@ pc :
 - [opentype.js](https://github.com/nodebox/opentype.js)  opentype.js is a JavaScript parser and writer for TrueType and OpenType fonts.  字体变成路径
 - https://github.com/aui/font-spider/  
 - [Fetch is the new XHR](https://github.com/github/fetch)  
+
+## embeddable Javascript engine
+
+http://www.duktape.org/  
+http://cylonjs.com/  
 
 ## 企业级应用组件
 
