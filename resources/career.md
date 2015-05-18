@@ -1,6 +1,8 @@
 职业、团队、个人成长 
 ========
 
+**贴吧招聘-很有创意**  
+http://mp.weixin.qq.com/s?__biz=MzA5NzczNDUyOQ==&mid=212673482&idx=1&sn=ff3c49f84130913f9eb1148b89ba90b5&scene=2  
 
 **好的前端主管是如何带队的？**  
 http://www.zhihu.com/question/30093712  
@@ -64,3 +66,9 @@ http://mp.weixin.qq.com/s?__biz=MjM5OTM5OTAyMQ==&mid=205956101&idx=1&sn=c9b8a4b9
 **Why Learning to Code is So Damn Hard**  
 http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard  
 What every beginner absolutely needs to know about the journey ahead. Quincy Larson was just a "guy in a suit in an office" and decided he wanted to learn how to code. So he asked around. He started by picking up a bit of Ruby then found himself skimming through other languages like Scala, Clojure and Go. He learned Emacs then Vim and even the Dvorak keyboard layout. He picked up Linux, dabbled in Lisp and coded in Python while living on the command line for more than half a year.
+
+##  求职美企  
+
+http://blog.jobbole.com/32240/  
+http://blog.jobbole.com/31804/  
+http://blog.jobbole.com/25086/  

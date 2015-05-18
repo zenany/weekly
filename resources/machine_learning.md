@@ -4,6 +4,7 @@
 
 ## Res
 
+- [深度学习 vs. 概率图模型 vs. 逻辑学](http://www.csdn.net/article/2015-04-30/2824600)  
 - [解密最接近人脑的智能学习机器——深度学习及并行化实现](http://dataunion.org/?p=4968)  
 - [http://www.academics.io/](http://www.academics.io/)  
 -  Sirius https://github.com/jhauswald/sirius  密歇根大学开发，开源！这是一个类似 Siri 的智能秘书，有语音和视觉能力。

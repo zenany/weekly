@@ -5,7 +5,8 @@
 ## languages
 
 http://blog.rust-lang.org/  
-https://github.com/rui314/8cc  可以当做学习编译器技术的材料
+https://github.com/rui314/8cc  可以当做学习编译器技术的材料  
+https://github.com/JuliaLang/julia  
 
 ## Interface Design 
 
@@ -80,6 +81,12 @@ http://www.tuluobo.com/2015/01/17/207.html
 - 为长期的技术战略负责：确保公司在动态演变和高度竞争的空间中继续拥有最好的技术产品，使公司的商业战略和技术战略齐头并进。
 - 技术专员：鼓舞（震撼）人们从长远眼光看公司，以及说服外界这是世界发展的方向，他/她的公司是带他/她来这里的最佳的选择。
 - 工程师的精神领袖和技术文化的拥护者：团结工程师组织迈向公司的长期技术目标，鼓舞新的工程师加入工程师组织，帮助设定和拥护技术文化，确保公司能继续留住并吸引顶尖技术人才
+
+## 软件工程  
+
+**The Failure of Agile**  
+http://blog.toolshed.com/2015/05/the-failure-of-agile.html  
+I am proud to be one of the 17 founders/authors of the The Agile Manifesto back in 2001. I think it provided a jolt of energy, hope of a better way of doing things, of creating software and making the world work better. It was a pivotal turning point. But in the 14 years since then, we‘ve lost our way.
 
 ## OO
 

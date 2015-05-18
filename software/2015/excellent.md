@@ -1,7 +1,11 @@
 优秀文章汇总
 ========
 
-## 名站技术
+## 名站技术  
+
+**io.js 正式合并到 node**  
+https://github.com/iojs/io.js/issues/1664  
+I wrote an extensive piece on why I think we need a foundation, and why I think the structure the Linux Foundation has setup for the Node Foundation is ideal. It's now time to make a real decision about moving io.js in to the foundation and, eventually, merging with node.js.
 
 **知道创宇研发技能表v2.2**  
 http://blog.knownsec.com/Knownsec_RD_Checklist/v2.2.html  

@@ -21,6 +21,8 @@ http://www.sitepoint.com/generate-excel-files-charts-phpexcel/
 http://www.w3cplus.com/preprocessor/susy2-tutorial.html  
 http://www.w3cplus.com/blog/tags/471.html  
 
+to svg http://vectormagic.com/  
+
 
 ## icons
 
