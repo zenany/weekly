@@ -8,6 +8,9 @@ http://blog.rust-lang.org/
 https://github.com/rui314/8cc  可以当做学习编译器技术的材料  
 https://github.com/JuliaLang/julia  
 
+**How We Spent Two Days Making Perl Faster**  
+http://blog.booking.com/making-perl-faster.html  
+
 ## Interface Design 
 
 ### HTTP API Design Guide  
@@ -60,6 +63,10 @@ Open Data Structures covers the implementation and analysis of data structures f
 https://github.com/arnauddri/algorithms  
 Classic algorithms and data structures implemented in Go. Not for production use, it is mostly an attempt to get comfortable both with Go and key CS concepts.  
 
+
+**Swap Two Variables Without Using a Temp Variable (With Math!)**  
+http://chris-taylor.github.io/blog/2013/02/25/xor-trick/  
+
 ## 协同 
 
 together.js  
@@ -87,6 +94,10 @@ http://www.tuluobo.com/2015/01/17/207.html
 **The Failure of Agile**  
 http://blog.toolshed.com/2015/05/the-failure-of-agile.html  
 I am proud to be one of the 17 founders/authors of the The Agile Manifesto back in 2001. I think it provided a jolt of energy, hope of a better way of doing things, of creating software and making the world work better. It was a pivotal turning point. But in the 14 years since then, we‘ve lost our way.
+
+**Introduction to Microservices**  
+http://nginx.com/blog/introduction-to-microservices/  
+This is a guest post by Chris Richardson. Chris is the founder of the original CloudFoundry.com, an early Java PaaS (Platform-as-a-Service) for Amazon EC2. He now consults with organizations to improve how they develop and deploy applications. He also blogs regularly about microservices at http://microservices.io.
 
 ## OO
 

@@ -23,6 +23,7 @@ http://www.innomysql.net/  《MySQL技术内幕》系列书籍作者、Oracle My
 http://cenalulu.github.io/  fb dba china  
 http://onevcat.com/ 一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE  
 http://www.sunchangming.com/blog/  一 C++ and JAVA 工程师  
+ttp://philipwalton.com/  css  
 
 ## 前端  
 
@@ -47,6 +48,11 @@ http://www.aosabook.org/
 http://ifeve.com/ 并发编程  
 https://www.google.com/about/careers/students/guide-to-technical-development.html  
 
+## weekly 汇总
+
+http://blog.fir.im/  
+http://mysql.taobao.org/monthly/  
+
 ## edu  
 
 http://www.wise-qatar.org/
@@ -63,7 +69,9 @@ http://www.wise-qatar.org/
 
 http://bridge.net/  
 FastNetMon  DDoS攻击探测与分析工具  
-http://www.onlyoffice.com/  office 竞品  
+http://www.onlyoffice.com/  office 服务，开源，相当厉害  
+http://fishshell.com/  
+http://conceptviz.github.io/ GALLERY OF CONCEPT VISUALIZATION
 
 ## java lib
 
