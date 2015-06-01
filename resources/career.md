@@ -33,6 +33,7 @@ http://blog.sina.com.cn/s/blog_48d16b2a01011omu.html
 辞职创业如何毁了我的生活 http://www.36kr.com/p/215444.html  
 不是所有人都适合创业 http://www.36kr.com/p/216914.html  
 文章的很多思考和建议很不错的。创业与否取决于是否能认清自我。每个人在这个世界上都有属于自己的位置，做真实的自己，而不在意是否创意。
+不要脑子一热就去创业 http://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=208079343&idx=1&sn=7bb81665646da9a22bbf41790d4261fe#rd  
 
 **那一年，我24岁。**  
 http://weibo.com/1687445053/BybbX5U46  

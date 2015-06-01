@@ -23,7 +23,7 @@ http://www.innomysql.net/  《MySQL技术内幕》系列书籍作者、Oracle My
 http://cenalulu.github.io/  fb dba china  
 http://onevcat.com/ 一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE  
 http://www.sunchangming.com/blog/  一 C++ and JAVA 工程师  
-ttp://philipwalton.com/  css  
+http://philipwalton.com/  google css 专家  
 
 ## 前端  
 
@@ -47,6 +47,7 @@ http://webglfundamentals.org/
 http://www.aosabook.org/  
 http://ifeve.com/ 并发编程  
 https://www.google.com/about/careers/students/guide-to-technical-development.html  
+http://hackr.io/  Share and discover the best programming tutorials and courses online.  
 
 ## weekly 汇总
 
@@ -71,9 +72,20 @@ http://bridge.net/
 FastNetMon  DDoS攻击探测与分析工具  
 http://www.onlyoffice.com/  office 服务，开源，相当厉害  
 http://fishshell.com/  
-http://conceptviz.github.io/ GALLERY OF CONCEPT VISUALIZATION
+http://conceptviz.github.io/ GALLERY OF CONCEPT VISUALIZATION  
+http://open-falcon.com/  小米的监控 类似的还有 zabbix  
+https://github.com/mdaines/viz.js/  A hack to put GraphViz on the web.  
+asciinema  
 
-## java lib
+**PathPicker**  
+http://facebook.github.io/PathPicker/  
+PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.  
+
+
+**Vitess**  
+http://vitess.io/  
+A set of servers and tools meant to facilitate scaling of MySQL databases for the web.
+## java lib. 据说是 mysql 给 youtube 搞的东东
 
 http://www.zkoss.org/  ZK is the best open source Java framework for building enterprise web and mobile apps.  
 
