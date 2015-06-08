@@ -24,6 +24,8 @@ http://cenalulu.github.io/  fb dba china
 http://onevcat.com/ 一名来自中国的 iOS / Unity 开发者。现居日本，就职于 LINE  
 http://www.sunchangming.com/blog/  一 C++ and JAVA 工程师  
 http://philipwalton.com/  google css 专家  
+http://cxwangyi.github.io/  分布式机器学习  
+
 
 ## 前端  
 
@@ -31,6 +33,7 @@ https://javascriptkicks.com/
 http://www.gamepix.com/ h5 game  
 http://www.cores2.com/3D_Tutorial/  
 http://keithclark.co.uk/articles/  
+https://github.com/ua-parser  
 
 ## 成长  
 
@@ -48,6 +51,7 @@ http://www.aosabook.org/
 http://ifeve.com/ 并发编程  
 https://www.google.com/about/careers/students/guide-to-technical-development.html  
 http://hackr.io/  Share and discover the best programming tutorials and courses online.  
+http://www.autopsy.io/  Autopsy Lessons from Failed Startups
 
 ## weekly 汇总
 
