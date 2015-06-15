@@ -68,6 +68,12 @@ http://mp.weixin.qq.com/s?__biz=MjM5OTM5OTAyMQ==&mid=205956101&idx=1&sn=c9b8a4b9
 http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard  
 What every beginner absolutely needs to know about the journey ahead. Quincy Larson was just a "guy in a suit in an office" and decided he wanted to learn how to code. So he asked around. He started by picking up a bit of Ruby then found himself skimming through other languages like Scala, Clojure and Go. He learned Emacs then Vim and even the Dvorak keyboard layout. He picked up Linux, dabbled in Lisp and coded in Python while living on the command line for more than half a year.
 
+**迄今见过的最好的职业规划的文章！**  
+http://weibo.com/1687445053/CmjaTBYdg  
+
+**如何提升你的能力？**  
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205972736&idx=1&sn=adbaeb5471041448b413ff556dee7e25#rd  
+
 ##  求职美企  
 
 http://blog.jobbole.com/32240/  

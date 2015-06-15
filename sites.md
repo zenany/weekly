@@ -72,6 +72,7 @@ http://www.wise-qatar.org/
 
 ## tools  
 
+http://www.terrainformatica.com/sciter/  Sciter is an embeddable HTML/CSS/scripting engine aimed to be used as an UI layer of modern desktop applications.
 http://bridge.net/  
 FastNetMon  DDoS攻击探测与分析工具  
 http://www.onlyoffice.com/  office 服务，开源，相当厉害  

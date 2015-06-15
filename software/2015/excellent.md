@@ -115,3 +115,15 @@ http://mp.weixin.qq.com/s?__biz=MjM5OTM5OTAyMQ==&mid=206900835&idx=3&sn=378037e9
 http://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=215717724&idx=1&sn=f68e41dcc6f88f63f8d4372044e81ca3  
 真正限制我们的，是我们思维里看不见的墙？而这堵墙很大部分来自于内心的不安全感。
 
+
+**一个平庸程序员的自白**  
+http://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=208014633&idx=1&sn=b95fdaac5fcfdf217bdfb39957a60325&scene=2
+Jacob Kaplan-Moss 是著名 Python 框架 Django 的 Co-Creater 和核心开发者，在 Heroku 担任安全部门的 Director, 他常年参加 Python 社区的年度聚会 PyCon ，并经常上台演讲。在这次 PyCon 2015 上，他声称自己顶多只是一个平庸的程序员，幻灯片上也写着：
+“Hi, I’m Jacob, and I’m a mediocre programmer.”  
+
+## 神文  
+
+**How To Make (almost) Anything**  
+http://fab.cba.mit.edu/classes/MIT/863.09/  
+
+

@@ -94,6 +94,10 @@ pc :
 - https://github.com/aui/font-spider/  
 - [Fetch is the new XHR](https://github.com/github/fetch)  
 
+### angular  
+
+http://jeff-collins.github.io/ment.io/  Mentions and Macros for Angular  
+
 ## embeddable Javascript engine
 
 http://www.duktape.org/  
