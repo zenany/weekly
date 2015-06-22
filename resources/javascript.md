@@ -26,6 +26,10 @@ jspm is a package manager for the SystemJS universal module loader, built on top
 https://github.com/typicode/json-server  
 Get a full fake REST API with zero coding in less than 30 seconds (seriously)   
 
+**babel**  
+http://babeljs.io/  
+Babel is a JavaScript compiler. Use next generation JavaScript, today.
+
 ## MVC
 
 - [vuejs](http://vuejs.org/) Vue.js is a library for building interactive web interfaces.  
@@ -176,5 +180,4 @@ codekit
 - [国外优秀JavaScript资源推荐](http://www.ido321.com/302.html)  
 - [7GUIs](https://github.com/eugenkiss/7guis) 7GUIs is a GUI programming usability benchmark  
 - highlight.js  
-
-
+- [Web缓存基础：术语、HTTP报头和缓存策略](https://linux.cn/article-5456-1.html)  

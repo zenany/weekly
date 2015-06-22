@@ -11,6 +11,15 @@
 - Purine  新加坡LV实验室的神经网络并行框架Purine  
 - https://github.com/dmlc  A Community of awesome Distributed Machine Learning C++ projects
 
+**Best Practices for Node.js Development**  
+https://devcenter.heroku.com/articles/node-best-practices  
+Thanks in part to Node.js and npm, today’s JavaScript landscape is dramatically improved. Web developers wield powerful new tools, and are limited only by their imagination. What follows is a list of tips and techniques to keep you and your Node apps happy.
+
+**Building a Production Machine Learning Infrastructure**  
+http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/  
+At the conference, Josh Wills gave a talk on what it takes to build production machine learning infrastructure in a talk titled “From the lab to the factory: Building a Production Machine Learning Infrastructure“. Josh Wills is a the Senior Director of Data Science at Cloudera and formally worked on Google’s ad auction system. In this post you will discover insight into what it takes to build production machine learning infrastructure.
+
+
 **Hacker's guide to Neural Networks**  
 http://karpathy.github.io/neuralnets/  
 Hi there, I'm a CS PhD student at Stanford. I've worked on Deep Learning for a few years as part of my research and among several of my related pet projects is ConvNetJS - a Javascript library for training Neural Networks. Javascript allows one to nicely visualize what's going on and to play around with the various hyperparameter settings, but I still regularly hear from people who ask for a more thorough treatment of the topic. This article (which I plan to slowly expand out to lengths of a few book chapters) is my humble attempt. It's on web instead of PDF because all books should be, and eventually it will hopefully include animations/demos etc.  

@@ -40,6 +40,8 @@ FRP(Functional Reactive Programming)
 
 python 中有 asyncio 
 
+异步编程之co——源码分析 http://www.html-js.com/article/3016  
+
 ## lib
 
 [zone](https://github.com/strongloop/zone) Flow control and error handling for Node.js  
@@ -65,6 +67,7 @@ http://highlandjs.org/
 - [如何看待 TJ 宣布退出 Node.js 开发，转向 Go](http://www.zhihu.com/question/24373004)
 - [如何评价淘宝 UED 的 Midway Framework 前后端分离](http://www.zhihu.com/question/23512853)  
 - https://blog.indutny.com/c.cpp-in-node  
+- https://devcenter.heroku.com/articles/node-best-practices  
 
 ## 其它
 

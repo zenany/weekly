@@ -9,6 +9,11 @@ http://www.andrew.cmu.edu/course/15-749/READINGS/required/
 ## tools
 
 [Linux 和类 Unix 系统上5个最佳开源备份工具](http://linux.cn/article-4623-1.html)  
+[Bash 快捷键大全](https://linux.cn/article-5660-weibo.html)  
+
+**The Art of Command Line**  
+https://github.com/jlevy/the-art-of-command-line  
+This is a selection of notes and tips on using the command-line that I've found useful when working on Linux. Some tips are elementary, and some are fairly specific, sophisticated, or obscure. This page is not long, but if you can use and recall all the items here, you know a lot.  
 
 ## basic
 
