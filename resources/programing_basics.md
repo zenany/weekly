@@ -63,7 +63,6 @@ Open Data Structures covers the implementation and analysis of data structures f
 https://github.com/arnauddri/algorithms  
 Classic algorithms and data structures implemented in Go. Not for production use, it is mostly an attempt to get comfortable both with Go and key CS concepts.  
 
-
 **Swap Two Variables Without Using a Temp Variable (With Math!)**  
 http://chris-taylor.github.io/blog/2013/02/25/xor-trick/  
 
@@ -102,6 +101,10 @@ I am proud to be one of the 17 founders/authors of the The Agile Manifesto back 
 **Introduction to Microservices**  
 http://nginx.com/blog/introduction-to-microservices/  
 This is a guest post by Chris Richardson. Chris is the founder of the original CloudFoundry.com, an early Java PaaS (Platform-as-a-Service) for Amazon EC2. He now consults with organizations to improve how they develop and deploy applications. He also blogs regularly about microservices at http://microservices.io.
+
+**Organizational Skills Beat Algorithmic Wizardry**  
+http://prog21.dadgum.com/177.html  
+Organizing complexity is the most important skill in software development http://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/  
 
 ## OO
 

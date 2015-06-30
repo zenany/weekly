@@ -35,6 +35,9 @@ http://blog.sina.com.cn/s/blog_48d16b2a01011omu.html
 文章的很多思考和建议很不错的。创业与否取决于是否能认清自我。每个人在这个世界上都有属于自己的位置，做真实的自己，而不在意是否创意。
 不要脑子一热就去创业 http://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=208079343&idx=1&sn=7bb81665646da9a22bbf41790d4261fe#rd  
 
+**Three hundred programming interviews in thirty days**  
+http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days  
+
 **那一年，我24岁。**  
 http://weibo.com/1687445053/BybbX5U46  
 创业总结：血一样的教训，让你少走弯路的总结，那一年，我24岁。  
@@ -52,6 +55,10 @@ http://www.kuqin.com/shuoit/20141128/343530.html
 **技术人员如何走出职业迷茫**  
 http://blog.ppcode.com/article/Work/Programmer_Interview_About_Career_Planning.htm  
 http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=203288094&idx=1&sn=783d637fa0db34c28bc4c52e7f83ce2a#rd  
+
+**更快学会任何东西的终极指南**  
+http://www.woshipm.com/pmd/164968.html  
+在当今我们生活的这个时代，如果你想过上一段非凡的人生，就得掌握快速学习这项本领。
 
 **前端的一种思路**  
 JS 作为一门应用型技术是需要一种标准化的快速构建的方式来降低门槛及提高工作效率的。所以应该是 5% 的人创造 JS（工具），10% 的人创造各种框架（工具套件）让 85% 的人来创造产品（打造产品）。人们的职业规划和企业的职业定位也可以参考这个，提提高工业生产效率，降低成本。行业里对这个的关注显然还不够，不过总的趋势还是在向这个方向发展的。

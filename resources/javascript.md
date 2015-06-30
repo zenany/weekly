@@ -10,6 +10,9 @@ JavaScript 资源汇总
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
 Why a re-introduction? Because JavaScript is notorious for being the world's most misunderstood programming language. While often derided as a toy, beneath its deceptive simplicity lie some powerful language features, one that is now used by an incredible number of high-profile applications, showing that deeper knowledge of this technology is an important skill for any web or mobile developer.
 
+**Maze Generation: Algorithm Recap**  
+http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap  
+
 	
 ## JS 语法增强
 

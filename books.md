@@ -26,6 +26,9 @@ http://tech.qq.com/a/20141018/007802.htm
 http://www.jianshu.com/  
 无须等待:YC合伙人的创业课  http://www.amazon.cn/dp/B00QUQ2G96  
 金字塔原理  
+六顶思考帽
+高难度谈话
+谈判力
 
 ### 自然科学
     
