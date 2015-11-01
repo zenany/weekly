@@ -11,6 +11,36 @@ weekly
 - 2015年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2015>  
 - 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
 
+## 业界知名 Weekly
+
+**Fullweb Weekly**  
+http://fullweb.io/  
+Fullweb is a weekly newsletter. It gives you the best 5 links every week about Backend, Web Frontend, DevOps and User Experience.  
+
+**JavaScript Weekly**  
+http://javascriptweekly.com/  
+A free, once–weekly e-mail round-up of JavaScript news and articles.  
+
+**CSS Weekly**  
+http://css-weekly.com/  
+roundup of css articles, tutorials, experiments and tools
+
+**Web Design Weekly**  
+https://web-design-weekly.com/  
+A once a week email with no spam, no rambling. Just pure awesome links to the best news and articles to hit the interweb during the week.  
+
+**HTML5 Weekly**  
+http://html5weekly.com/  
+A once–weekly HTML5 and Web Platform technology roundup.
+CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.  
+
+**Node Weekly**  
+http://nodeweekly.com/  
+free, once–weekly e-mail round-up of Node.js news and articles  
+
+**DB Weekly**  
+http://dbweekly.com/  
+A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 
 ## 个人知识库
 
