@@ -1,9 +1,9 @@
 weekly
 ======
 
-	汇总平时看到优质文章和资源，技术、产品、管理均有，尽可能一周一篇。
-	同时分门别类收录前端研发相关的 javascript、css、php、python、管理等方面的高质量文章、类库。
-	欢迎大家在 [resources](resources) 中补充优质资源。
+汇总平时看到优质文章和资源，技术、产品、管理均有，尽可能一周一篇。  
+同时分门别类收录前端研发相关的 javascript、css、php、python、管理等方面的高质量文章、类库。  
+欢迎大家在 [resources](resources) 中补充优质资源。  
 
 
 ## Weekly 汇总
