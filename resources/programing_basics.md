@@ -7,6 +7,7 @@
 http://blog.rust-lang.org/  
 https://github.com/rui314/8cc  可以当做学习编译器技术的材料  
 https://github.com/JuliaLang/julia  
+https://kotlinlang.org/ Kotlin 
 
 **How We Spent Two Days Making Perl Faster**  
 http://blog.booking.com/making-perl-faster.html  
