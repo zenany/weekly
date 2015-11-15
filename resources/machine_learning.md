@@ -1,24 +1,22 @@
-»úÆ÷Ñ§Ï°&ÈË¹¤ÖÇÄÜ
+æœºå™¨å­¦ä¹ &äººå·¥æ™ºèƒ½
 ========
-
 
 ## Res
 
-- [Éî¶ÈÑ§Ï° vs. ¸ÅÂÊÍ¼Ä£ĞÍ vs. Âß¼­Ñ§](http://www.csdn.net/article/2015-04-30/2824600)  
-- [½âÃÜ×î½Ó½üÈËÄÔµÄÖÇÄÜÑ§Ï°»úÆ÷¡ª¡ªÉî¶ÈÑ§Ï°¼°²¢ĞĞ»¯ÊµÏÖ](http://dataunion.org/?p=4968)  
+- [æ·±åº¦å­¦ä¹  vs. æ¦‚ç‡å›¾æ¨¡å‹ vs. é€»è¾‘å­¦](http://www.csdn.net/article/2015-04-30/2824600)  
+- [è§£å¯†æœ€æ¥è¿‘äººè„‘çš„æ™ºèƒ½å­¦ä¹ æœºå™¨â€”â€”æ·±åº¦å­¦ä¹ åŠå¹¶è¡ŒåŒ–å®ç°](http://dataunion.org/?p=4968)  
 - [http://www.academics.io/](http://www.academics.io/)  
--  Sirius https://github.com/jhauswald/sirius  ÃÜĞª¸ù´óÑ§¿ª·¢£¬¿ªÔ´£¡ÕâÊÇÒ»¸öÀàËÆ Siri µÄÖÇÄÜÃØÊé£¬ÓĞÓïÒôºÍÊÓ¾õÄÜÁ¦¡£
-- Purine  ĞÂ¼ÓÆÂLVÊµÑéÊÒµÄÉñ¾­ÍøÂç²¢ĞĞ¿ò¼ÜPurine  
+-  Sirius https://github.com/jhauswald/sirius  å¯†æ­‡æ ¹å¤§å­¦å¼€å‘ï¼Œå¼€æºï¼è¿™æ˜¯ä¸€ä¸ªç±»ä¼¼ Siri çš„æ™ºèƒ½ç§˜ä¹¦ï¼Œæœ‰è¯­éŸ³å’Œè§†è§‰èƒ½åŠ›ã€‚
+- Purine  æ–°åŠ å¡LVå®éªŒå®¤çš„ç¥ç»ç½‘ç»œå¹¶è¡Œæ¡†æ¶Purine  
 - https://github.com/dmlc  A Community of awesome Distributed Machine Learning C++ projects
 
 **Best Practices for Node.js Development**  
 https://devcenter.heroku.com/articles/node-best-practices  
-Thanks in part to Node.js and npm, today¡¯s JavaScript landscape is dramatically improved. Web developers wield powerful new tools, and are limited only by their imagination. What follows is a list of tips and techniques to keep you and your Node apps happy.
+Thanks in part to Node.js and npm, todayâ€™s JavaScript landscape is dramatically improved. Web developers wield powerful new tools, and are limited only by their imagination. What follows is a list of tips and techniques to keep you and your Node apps happy.
 
 **Building a Production Machine Learning Infrastructure**  
 http://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/  
-At the conference, Josh Wills gave a talk on what it takes to build production machine learning infrastructure in a talk titled ¡°From the lab to the factory: Building a Production Machine Learning Infrastructure¡°. Josh Wills is a the Senior Director of Data Science at Cloudera and formally worked on Google¡¯s ad auction system. In this post you will discover insight into what it takes to build production machine learning infrastructure.
-
+At the conference, Josh Wills gave a talk on what it takes to build production machine learning infrastructure in a talk titled â€œFrom the lab to the factory: Building a Production Machine Learning Infrastructureâ€œ. Josh Wills is a the Senior Director of Data Science at Cloudera and formally worked on Googleâ€™s ad auction system. In this post you will discover insight into what it takes to build production machine learning infrastructure.
 
 **Hacker's guide to Neural Networks**  
 http://karpathy.github.io/neuralnets/  
@@ -26,5 +24,8 @@ Hi there, I'm a CS PhD student at Stanford. I've worked on Deep Learning for a f
 
 **The Data Science Handbook**  
 http://www.thedatasciencehandbook.com/  
-In The Data Science Handbook, you will find in-depth interviews with 25 remarkable data scientists.   They hail from a wide selection of backgrounds, disciplines, and industries.   Some of them, like DJ Patil and Hilary Mason, were part of the trailblazing wave of data scientists who catapulted the field into national attention.   Others are at the start of their careers, such as Clare Corthell, who made her own path to data science by creating the Open Source Data Science Masters, a self-guided curriculum built on freely available internet resources.
- 
+In The Data Science Handbook, you will find in-depth interviews with 25 remarkable data scientists.   They hail from a wide selection of backgrounds, disciplines, and industries.   Some of them, like DJ Patil and Hilary Mason, were part of the trailblazing wave of data scientists who catapulted the field into national attention.   Others are at the start of their careers, such as Clare Corthell, who made her own path to data science by creating the Open Source Data Science Masters, a self-guided curriculum built on freely available internet resources.  
+
+**Google - TensorFlow is an Open Source Software Library for Machine Intelligence**  
+http://tensorflow.org/  
+TensorFlowâ„¢ is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.

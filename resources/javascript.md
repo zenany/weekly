@@ -13,7 +13,23 @@ Why a re-introduction? Because JavaScript is notorious for being the world's mos
 **Maze Generation: Algorithm Recap**  
 http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap  
 
-	
+
+## 精彩文章
+
+**The Single Biggest Mistake Programmers Make Every Day**  
+https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308  
+I believe the single biggest mistake that every programmer makes from time to time is overcomplicating things. Simplify your code. Start with the least complicated implementation and work your way toward more complex solutions only when the problem demands it.
+Remember:  
+- Keep It Stupid Simple (KISS)
+- Make it work, make it right, make it fast.
+- Understand the problem. (Know what “make it work” means.)
+- Begin at the beginning.
+- Start with tests.
+- Do One Thing (DOT).
+- Start small and iterate.
+- Pure function > Function > Factory > Class  
+Simple beats clever every day of the week.
+
 ## JS 语法增强
 
 - [JSX](http://jsx.github.io/)
