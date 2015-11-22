@@ -12,6 +12,14 @@ Why a re-introduction? Because JavaScript is notorious for being the world's mos
 
 **Maze Generation: Algorithm Recap**  
 http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap  
+When React 0.13 came out, everybody freaked out.
+The introductory post made it clear that mixins are on their way out.
+
+
+### React 
+
+**Mixins Are Dead. Long Live Composition**  
+https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750  
 
 
 ## 精彩文章
@@ -116,6 +124,17 @@ pc :
 - [opentype.js](https://github.com/nodebox/opentype.js)  opentype.js is a JavaScript parser and writer for TrueType and OpenType fonts.  字体变成路径
 - https://github.com/aui/font-spider/  
 - [Fetch is the new XHR](https://github.com/github/fetch)  
+
+### 数据可视化
+
+**Sigma.js: a JavaScript library for graph drawing**  
+http://sigmajs.org/  
+Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.
+
+**Plotly.js - JavaScript library for scientific interactive charts**  
+https://plot.ly/javascript/open-source-announcement/  
+https://github.com/plotly/plotly.js/  
+Today, Plotly is announcing that we have open-sourced plotly.js, the core technology and JavaScript graphing library behind Plotly’s products (MIT license). It's all out there and free. Any developer can now integrate Plotly’s library into their own applications unencumbered. Plotly.js supports 20 chart types, including 3D plots, geographic maps, and statistical charts like density plots, histograms, box plots, and contour plots.  
 
 ### angular  
 
