@@ -42,20 +42,13 @@ free, once–weekly e-mail round-up of Node.js news and articles
 http://dbweekly.com/  
 A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 
-## 个人知识库
-
-- [books](books.md) 记录我看过和计划看的书，14年后半年开始重点关注自然科学、计算机科学
-- [readings](books.md) ted 视频、记录片等非资源
-- [杂项](resources.md) 暂未归类的一下资源
-
-## 资源集散中心
-
-- [JavaScript](resources/javascript.md)  
-- [node.js](resources/nodejs.md)  
-- [Android开发技术周报](http://www.androidweekly.cn/)  
-- [Server端技术 - 贴吧Arch Weekly](http://nginx.baidu.com/book/arch_weekly/)  
-
 ## 个人推荐
+
+### 基础技术  
+
+**The Architecture of Open Source Applications**  
+http://www.aosabook.org/en/index.html  
+Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another's mistakes rather than building on one another's successes. Our goal is to change that. In these two books, the authors of four dozen open source applications explain how their software is structured, and why. What are each program's major components? How do they interact? And what did their builders learn during their development?
 
 ### 职业规划
 
@@ -84,3 +77,16 @@ A weekly round-up of database technology news and articles covering new developm
 ### 神奇站点
 
 - [Etymology](http://www.chineseetymology.org/) 汉字字形汇总，一个老外 20 多年的杰作，让人肃然起敬
+
+## 个人知识库
+
+- [books](books.md) 记录我看过和计划看的书，14年后半年开始重点关注自然科学、计算机科学
+- [readings](books.md) ted 视频、记录片等非资源
+- [杂项](resources.md) 暂未归类的一下资源
+
+## 资源集散中心
+
+- [JavaScript](resources/javascript.md)  
+- [node.js](resources/nodejs.md)  
+- [Android开发技术周报](http://www.androidweekly.cn/)  
+- [Server端技术 - 贴吧Arch Weekly](http://nginx.baidu.com/book/arch_weekly/)  

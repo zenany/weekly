@@ -38,6 +38,18 @@ Remember:
 - Pure function > Function > Factory > Class  
 Simple beats clever every day of the week.
 
+**How do Promises Work?**  
+http://robotlolita.me/2015/11/15/how-do-promises-work.html  
+In this blog post we’ll look at what promises are, how they work, and why you should or shouldn’t use them.  
+
+**Concurrently JavaScript**  
+http://blog.getify.com/concurrently-javascript-1/  
+What is concurrency? How is it different from parallelism? JavaScript is single-threaded on the event loop, so how does its asynchrony fit into the mix?
+
+**Top JavaScript Frameworks, Libraries and Tools and When to Use Them**  
+http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/  
+This article is part of a web development series from Microsoft. It seems like almost every other week there is a new JavaScript library taking the web community by storm! The web community is increasingly vibrant, diverse and is moving rapidly on multiple fronts. It would be an impossible feat to survey every major JavaScript framework and library. Instead,I will share some of the most famous and influential ones for front-end development. 
+
 ## JS 语法增强
 
 - [JSX](http://jsx.github.io/)
