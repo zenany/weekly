@@ -12,6 +12,10 @@ weekly
 - 2015年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2015>  
 - 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
 
+## 学习资源
+
+- [Software Architecture Design](resources/software_architecture.md)
+
 ## 业界知名 Weekly
 
 **Fullweb Weekly**  
@@ -82,8 +86,8 @@ Architects look at thousands of buildings during their training, and study criti
 ## 个人知识库
 
 - [books](books.md) 记录我看过和计划看的书，14年后半年开始重点关注自然科学、计算机科学
-- [readings](books.md) ted 视频、记录片等非资源
-- [杂项](resources.md) 暂未归类的一下资源
+- [readings](books.md) ted 视频、记录片等
+- [杂项](resources.md) 暂未归类的一些资源
 
 ## 资源集散中心
 

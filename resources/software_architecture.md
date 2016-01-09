@@ -11,7 +11,7 @@ Software Architecture Design，是一个很大的话题，也是每位工程师�
 - [MSDN-Software Architecture and Design](https://msdn.microsoft.com/en-us/library/ee658093.aspx)  
 - [Design pattern samples in Java](http://java-design-patterns.com/)  
 
-个人感觉还是从：数据、数据流向、Input、Output 的维度去思考系统更简洁。
+个人感觉还是从：数据+算法、Input -> Processor -> Output 的维度去思考系统更简洁。内容会持续补充...
 
 ### 经典架构
 
@@ -20,7 +20,7 @@ Software Architecture Design，是一个很大的话题，也是每位工程师�
 - [The Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)  
 - [The Clean Architecture](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)  
 - [DDD(Domain-driven design)](https://en.wikipedia.org/wiki/Domain-driven_design)/[CQRS](http://martinfowler.com/bliki/CQRS.html)  
-- [DCI: Data Context Interaction](http://www.artima.com/articles/dci_vision.html)  
+- [DCI: Data Context Interaction](https://en.wikipedia.org/wiki/Data,_context_and_interaction)  
 
 另一篇文章：[4 Great Programming Architectures You should Know](http://codecall.net/2014/01/28/4-great-programming-architectures-you-should-know/) 中也提到了这四种架构。
 
@@ -30,7 +30,7 @@ DDD 是 大神Eric Evans 于 2004 创立的一种软件设计和实现方式，�
 - 以一种领域专家、设计人员、开发人员都能理解的通用语言作为相互交流的工具，在交流的过程中发现领域概念，然后将这些概念设计成一个领域模型；
 - 由领域模型驱动软件设计，用代码来实现该领域模型；
 
-个人感觉 DDD 更像是一种业务分析方法，帮助我们将业务需求转化为系统设计，并确立系统各个模块的职责和相互之间的交互机制，对做业务架构非常有帮助。为服务
+个人感觉 DDD 更像是一种业务分析方法，帮助我们将业务需求转化为系统设计，并确立系统各个模块的职责和相互之间的交互机制，对做业务架构非常有帮助。
 
 **快速了解：**  
 
@@ -85,7 +85,7 @@ DDD 是 大神Eric Evans 于 2004 创立的一种软件设计和实现方式，�
 
 ![](img/software_arch/Onion_Architecture.png)  
 
-由 Jeffrey Palermo (Managing Partner/CEO, Microsoft MVP each year since 2006) 提出，原文： http://jeffreypalermo.com/blog/onion-architecture-part-4-after-four-years/  
+由 Jeffrey Palermo (Managing Partner/CEO, Microsoft MVP each year since 2006) 提出，原文：   http://jeffreypalermo.com/blog/onion-architecture-part-4-after-four-years/  
 
 Key tenets of Onion Architecture:  
 - The application is built around an independent object model
@@ -93,15 +93,22 @@ Key tenets of Onion Architecture:
 - Direction of coupling is toward the center
 - All application core code can be compiled and run separate from infrastructure  
 
-这个架构很容易理解，和六边形架构一脉相承，作者希望给大家提供一套标准的的模型和语言去描述系统。
+这个架构很容易理解，和六边形架构一脉相承，作者希望解决分层架构带来的一些问题，同时给大家提供一套标准的的模型和语言去描述系统。由于理念很清晰而且实战性很强，基本无太多争议，被广泛应用。
+
+相关资料：  
+
+- [Domain-Driven Design with Onion Architecture](http://www.infoq.com/news/2014/10/ddd-onion-architecture)  
+- [Chop Onions Instead of Layers in Software Architecture](http://www.methodsandtools.com/archive/onionsoftwarearchitecture.php)  
+- [Onion Architecture](https://sbrakl.wordpress.com/2014/11/18/onion-architecture/)  
 
 ### The Clean Architecture  
 
 ![](img/software_arch/Clean_Architecture.jpg)
 
 由 Uncle Bob （原名 Robert C. Martin，The Clean Coder 作者） 提出的一种架构：  
-- 原文 http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html  
-- 译文 http://www.cnblogs.com/yjf512/archive/2012/09/10/2678313.html  
+- 原文： http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html  
+- 译文： http://www.cnblogs.com/yjf512/archive/2012/09/10/2678313.html  
+- 视频： https://www.youtube.com/watch?v=Nltqi7ODZTM
 
 这位大叔写了很多文章，涉及我们日常听到的各种术语，这类是他的一些资源：
 - 文章汇总： https://blog.8thlight.com/uncle-bob/archive.html  
@@ -114,8 +121,12 @@ Key tenets of Onion Architecture:
 - Independent of Database. You can swap out Oracle or SQL Server, for Mongo, BigTable, CouchDB, or something else. Your business rules are not bound to the database.
 - Independent of any external agency. In fact your business rules simply don’t know anything at all about the outside world.
 
-这种架构可以看作六边形架构的衍生，和 The Onion Architecture 有异曲同工之妙 对组织大型应用很有参考价值。相关资料：  
-- http://retromocha.com/obvious/  
+这种架构可以看作六边形架构的衍生，和 The Onion Architecture 有异曲同工之妙 对组织大型应用很有参考价值，也有很多语言在实践。
+
+相关资料：  
+- [Obvious - A clean software architecture](http://retromocha.com/obvious/)  
+- [Clean Architecture](https://subvisual.co/blog/posts/20-clean-architecture)  
+- [Clean Architecture in Ruby - v2](https://medium.com/@fbzga/clean-architecture-in-ruby-v2-d2293c78d4a6#.wz4js826z)  
 
 ### CQRS  
 
@@ -127,10 +138,10 @@ CQRS 由  Greg Young 提出，见文档 [CQRS Documents by Greg Young](https://c
 - 原文： http://martinfowler.com/bliki/CQRS.html  
 - 译文： http://www.tuicool.com/articles/7BVjie  
 
-Martinfowler 是系统设计领域的大师，ThoughtWorks 的首席科学家，有非常多的文章在流传，他的网站干货满满： http://www.martinfowler.com/  
+[Martinfowler](http://www.martinfowler.com/) 是系统设计领域的大师，ThoughtWorks 的首席科学家，有非常多的文章在流传，他的网站干货满满。 
 
-CQRS 相关资料：  
-－ [CQRS, Event Sourcing, and Domain Driven Design FAQ](http://cqrs.nu/)  
+相关资料：  
+- [CQRS, Event Sourcing, and Domain Driven Design FAQ](http://cqrs.nu/)  
 - [CQRS revisited](https://lostechies.com/gabrielschenker/2015/04/07/cqrs-revisited/)  
 - [When NOT to use CQRS?](https://abdullin.com/post/when-not-to-use-cqrs/) 比较难得的是这是 [Lokad.CQRS Framework](http://lokad.github.io/lokad-cqrs/) 的作者实践后给出的建议  
 - [Types of CQRS](http://enterprisecraftsmanship.com/2015/04/20/types-of-cqrs/)  
@@ -145,16 +156,59 @@ CQRS 相关资料：
 
 ![](img/software_arch/dci.jpg)  
 
-由 [Trygve Reenskaug -The inventor of the MVC pattern](http://folk.uio.no/trygver/) and James O. Coplien 提出：  
+![](img/software_arch/dci-ruby.png)  
+
+理论派的典范，由 and James O. Coplien 提出：  
 - 原文：http://www.artima.com/articles/dci_vision.html  
 - 视频：https://www.youtube.com/watch?v=SxHqhDT9WGI  
 
-核心概念：  
+两位创始人都是软件架构领域神级人物：  
+- [James O. Coplien](https://sites.google.com/a/gertrudandcope.com/www/jimcoplien) - The father of Organizational Patterns  ［Multi-Paradigm Design](https://sites.google.com/a/gertrudandcope.com/info/Publications/Mpd/Thesis.pdf?attredirects=0) 的作者，这本书试图深入探究 software abstraction and design 并回答： What is a paradigm? What is the relationship between analysis, design, and implementa- tion? 
+- [Trygve Reenskaug](http://folk.uio.no/trygver/) -The inventor of the MVC pattern  
+
+而 DCI 正是为了解决 OO 及 MVC 存在的一些问题而提出的，它从这两种模型的思想根源来深入剖析其存在的问题，并推演出改进方案。被广泛关注，以 Ruby、Java 为典型代表。由于挑战的是两大经典模型，所以引发很多讨论。这篇文章对理解 GUI、OO、MVC 非常有帮助，但真的挺难懂的。这是他们对 OO 的解读：  
+
+- The goal of object-oriented programming pioneers was to capture end user mental models in the code. 
+- When a user approaches a GUI, he or she does two things: thinking and doing. For a smooth interaction between man and machine, the computer's "mental" model (also the programmer's mental model) and the end user's mental model must align with each other in kind of mind-meld. In the end, any work that users do on their side of the interface manipulates the objects in the code.  
+- Object-oriented programming was supposed to unify the perspectives of the programmer and the end user in computer code: a boon both to usability and program comprehension. 
+- Object orientation hasn't fared so well to capture how we reason about doing. **There is no obvious "place" for interactions to live, either on the GUI or in the code.**
+- Programmers are people, too, and we want them to be able to map from their understanding of user needs to their understanding of the code. Object-oriented programming languages traditionally afford no way to capture collaborations between objects. They don't capture algorithms that flow over those collaborations.
+
+创始人眼中的 MVC 是这样的：  
+
+![](img/software_arch/mvc.png)  
+
+这是他对 MVC 的部分解读：  
+
+- MVC's goal was to provide the illusion of a direct connection from the end user brain to the computer "brain"—its memory and processor. MVC is about people and their mental models—not the Observer pattern.
+- Data are the representation of information. The mind of the end user can interpret these data; then they become information. Information is the term we use for interpreted data. Information is a key element of the end user mental model. A well-designed program does a good job of capturing the information model in the data model, or at least of providing the illusion of doing so. If the software can do that then the user feels that the computer memory is an extension of his or her memory.
+- The job of the model is to "filter" the raw data so the programmer can think about them in terms of simple cognitive models.
+- The View displays the Model on the screen. View provides a simple protocol to pass information to and from the Model. The heart of a View object presents the Model data in one particular way that is of interest to the end user.
+- The Controller creates Views and coordinates Views and Models. It usually takes on the role of interpreting input user gestures, which it receives as keystrokes, locater device data, and other events. 
+- Model-View-Controller-User: it does a good job of supporting the thinking part of computer/human interaction. 
+
+OO 和 MVC 存在的问题：  
+
+- We can trace much of our failure to capture the end user mental model of doing to a kind of object mythology. Some buzzwords of this mindset included anthropomorphic design, smart objects, and emergent system behavior. We were taught that system behavior should "emerge" from the interaction of dozens, hundreds or thousands of local methods. The word of the day was: think locally, and global behavior would take care of itself.
+- The MVC framework makes it possible for the user to reason about what the system is: the thinking part of the user cognitive model. But there is little in object orientation, and really nothing in MVC, that helps the developer capture doing in the code. The developer doesn't have a place where he or she can look to reason about end user behavioral requirements.  
+- The algorithm had to be distributed across the objects, because to have a large method that represented an entire algorithm was believed to not be a "pure" object-oriented design. How did we decide to split up the algorithm and distribute its parts to objects? On the basis of coupling and cohesion. Algorithms (methods) had to be collocated with the object that showed the most affinity for the algorithm: optimizing cohesion. 
+- Interesting business functionality often cuts across objects. Object-orientation pushed us into a world where we had to split up the algorithm and distribute it across several objects, doing the best piecemeal job that we could. 
+
+DCI 的三个核心概念：  
+
+- Data: representing the user's mental model of things in their world  
+- Roles: a (not so) new concept of action that also lives in users' heads. objects capture what objects are, roles capture collections of behaviors that are about what objects do. At their heart, roles embody generic, abstract algorithms. They have no flesh and blood and can't really do anything. 
+- Interactions that weave their way through the roles are also not new to programming: we call them algorithms, and they are probably the only design formalism that predates data as having their own vocabulary and rules of thumb.
+
+这三个是独立于编程语言的概念，DCI 试图在编程语言层面找到这几个概念的具体表现。
+
+DCI 的架构理念：  
+
 - The data, that live in the domain objects that are rooted in domain classes;
 - The context that brings live objects into their positions in a scenario, on demand;
 - The interactions, that describe end-user algorithms in terms of the roles, both of which can be found in end users' heads.
 
-感觉这个架构和具体怎么 coding 相关，不像是软件架构了。属于 OO 体系下衍生出来的一种模型，希望解决 MVC 架构和传统 OO 的一些问题，ruby 似乎挺关注这个架构的。偏理论+学术化，概念还比较容易理解，对解决 DDD 中 Application Core 如何设计有借鉴意义。
+感觉 DCI 更像是一种软件分析方法同时配合了如何用 OO 去实现，和具体怎么 coding 相关，不像是系统架构。DCI 试图寻找一种方式帮助我们完成真实世界和代码世界的映射，使得在代码中不仅仅能看到数据，也能看到用户在使用应用过程中的真实行为。它试图在 OO 和数据结构+算法的模型寻求平衡，引入函数式编程的概念来解决 OO 中存在的一些问题。偏理论+学术化，对 DDD 中 Application Core 如何设计有借鉴意义。
 
 相关资料：  
 
@@ -167,8 +221,17 @@ CQRS 相关资料：
 - [DCI: The Right Idea for the Wrong Paradigm](https://tonyarcieri.com/dci-in-ruby-is-completely-broken)  
 - [DCI Architecture – Good, not Great, or Both?](http://pettermahlen.com/2010/09/10/dci-architecture-good-not-great-or-both/)  
 - [DCI架构是什么](http://www.jdon.com/37976)  
+- [DCI和DDD学习笔记整理](http://www.cnblogs.com/know/archive/2011/11/09/2242312.html)  
+- [Implementing DCI in Qi4j](http://www.jroller.com/rickard/entry/implementing_dci_in_qi4j)  
 
-感觉 DCI 是在从数据的角度来思考系统，似乎又回到了经典的：数据 -> 处理器 -> 函数调用模型。
+说到 OO，相关的还有：  
+
+- [Role-oriented programming](https://en.wikipedia.org/wiki/Role-oriented_programming)  
+- [Aspect-oriented programming](https://en.wikipedia.org/wiki/Role-oriented_programming)  
+- [Subject-oriented programming](https://en.wikipedia.org/wiki/Subject-oriented_programming)  
+- [Data-driven programming](https://en.wikipedia.org/wiki/Data-driven_programming)  
+
+OO 衍生出很多概念、模式，有时候不由得让人会想：需要搞这么复杂吗？已经有一些高人跳出来试图简化概念和术语，让大家能用简单一致的语言交流和编写代码。函数式编程也正在渐渐兴起，有很多人更认为这是编程的未来。还是 对编程模式有兴趣的同学可以顺着这个话题去研究：[Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 
 ### Ext 
 
@@ -200,9 +263,3 @@ https://github.com/liangzeng/cqrs
 **eventstore**  
 https://github.com/adrai/node-eventstore  
 Node-eventstore is a node.js module for multiple databases. It can be very useful as eventstore if you work with (d)ddd, cqrs, eventsourcing, commands and events, etc.
-
-
-
-
-
-- 
