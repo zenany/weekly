@@ -9,6 +9,8 @@ This started off as a generic year in review but as I was writing it became a lo
 http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/  
 地牢生成算法
 
+**Coding is boring, unless…**  
+https://blog.enki.com/coding-is-boring-unless-4e496720d664#.xarhhx5ug  
 
 ### Things  
 
@@ -20,3 +22,9 @@ http://mozopenhard.mozillafactory.org/
 
 **How to C in 2016**  
 https://matt.sh/howto-c  
+
+**Caja is a tool for safely embedding third party HTML, CSS and JavaScript in your website**  
+https://github.com/google/caja  
+
+**WICG: 从头开始设计新一代Web**  
+http://siusin.github.io/translation/WICG/blog/index.html  

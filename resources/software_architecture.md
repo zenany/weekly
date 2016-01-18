@@ -237,6 +237,12 @@ OO 衍生出很多概念、模式，有时候不由得让人会想：需要搞�
 
 #### Java 实践  
 
+**ddd-leaven-v2**  
+https://github.com/BottegaIT/ddd-leaven-v2  
+https://code.google.com/p/ddd-cqrs-sample/wiki/Introduction  
+DDD-CqRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
+
+
 **Apache Zest**  
 http://zest.apache.org/  
 Apache Zest™ is a community based effort exploring Composite Oriented Programming for domain centric application development. This includes evolved concepts from Aspect Oriented Programming, Dependency Injection and Domain Driven Design. Composite Oriented Programming allows developers to work with 'fragments', smaller than classes, and 'compose' fragments into larger 'composites' which acts like the regular objects.
