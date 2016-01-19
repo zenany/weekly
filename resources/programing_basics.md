@@ -99,6 +99,14 @@ http://www.tuluobo.com/2015/01/17/207.html
 http://blog.toolshed.com/2015/05/the-failure-of-agile.html  
 I am proud to be one of the 17 founders/authors of the The Agile Manifesto back in 2001. I think it provided a jolt of energy, hope of a better way of doing things, of creating software and making the world work better. It was a pivotal turning point. But in the 14 years since then, we‘ve lost our way.
 
+**构建之法**  
+http://book.douban.com/subject/25965995/  
+非常优秀的一本软件工程书籍。如果你是一名技术管理人员 or 项目经理，这本书有助于你系统化的总结和提炼过往经验，并查漏补缺，结合书中的微软最佳实践，找到目前仍在困扰你的一些疑难杂症的解决思路，从而让你的团队战斗力更强、效率更高，更有底气地支撑业务研发和创新。如果你是一名互联网行业的产品经理，这本书讲有助于让你了解工程师团队的思维、工作模式以及苦衷，从而帮助你有效地和研发团队打交道，让产品高效高质量的落地。
+
+**Software Design and Implementation**  
+https://www.cs.duke.edu/courses/fall15/cps108/resources/  
+杜克大学的软件设计与实现教材。
+
 **Introduction to Microservices**  
 http://nginx.com/blog/introduction-to-microservices/  
 This is a guest post by Chris Richardson. Chris is the founder of the original CloudFoundry.com, an early Java PaaS (Platform-as-a-Service) for Amazon EC2. He now consults with organizations to improve how they develop and deploy applications. He also blogs regularly about microservices at http://microservices.io.
