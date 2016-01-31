@@ -27,6 +27,23 @@ https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
 http://molily.de/javascript-web-apps/
 Recalling best practices for web applications that make heavy use of client-side JavaScript. The solution for bad JavaScript web apps is not to abandon them altogether, but to make better ones. We need to stop excluding JavaScript apps from “the web as it was intended”. JavaScript apps are “on the web” just like other sites. The potential of the web is enormous and we have just started.
 
+**Front-end Application Libraries and Component Architectures**  
+http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/  
+Component architectures are an important part of ever modern front-end framework. In this article, I’m going to dissect Polymer, React, Rio.js, Vue.js, Aurelia and Angular 2 components. The goal is to make the commonalities between each solution obvious. Hopefully, this will convince you that learning one or the other isn’t all that complex, given that everyone has somewhat settled on a component architecture.
+
+**What can we learn from how jQuery symbiotically pushed the Web Platform forward?**  
+https://medium.com/ben-and-dion/what-can-we-learn-from-how-jquery-symbiotically-pushed-the-web-platform-forward-ce6b20cd4e98  
+One of the great things about jQuery was that it had a simple, powerful idea. It’s entire mindset was “find these items in the DOM, and attach these events to them”. The fluent style of API probably opened peoples minds up in a way that only helped us with promises and rethinking APIs such as XHR vs. fetch. 
+All in all jQuery has evolved along with the Web platform, helping improve things beyond itself.
+
+**JavaScript At Scale — Achieving High Velocity**  
+https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03  
+Many companies choose JavaScript because it is touted as flexible and fast. While this may be true, that same flexibility and speed can get you in a few traps if you are not thoughtful in how you build your JavaScript ecosystem.
+
+**房间和迷宫：一个地牢生成算法**  
+http://indienova.com/indie-game-development/rooms-and-mazes-a-procedural-dungeon-generator/  
+几个月之前，我承诺要针对之前的一篇针对我的 Roguelike 游戏的 blog：回合制的游戏主循环（turn-based game loops）。然后我就投入到我自己发行的新书：《游戏编程模式（Game Programming Patterns）》中去，并且把这件事情彻底忘掉了。我把大家扔在一边了～～好，今天我终于有时间再思考一下我的 Roguelike 了，那么，忘掉游戏主循环，让我们来研究一下 Roguelike 游戏最有趣也是最有挑战的部分：生成地牢！
+
 ### Things  
 
 **RemixOS – Android for the desktop**  

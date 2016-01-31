@@ -9,6 +9,10 @@ booklist
 ## to read
 
 ### 技术 & 管理
+
+脆弱的力量  
+软件系统架构:使用视点和视角与利益相关者合作  
+
 Google是如何运作的  
 微管理： http://book.douban.com/subject/25868303/  
 The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/  

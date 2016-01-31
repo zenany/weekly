@@ -124,6 +124,8 @@ pc :
 
 ## lib 
 
+- [](http://vanilla-js.com/)  Vanilla JS is a fast, lightweight, cross-platform framework
+for building incredible, powerful JavaScript applications.
 - [way.js](https://github.com/gwendall/way.js) : Simple, lightweight, persistent, framework-agnostic two-way databinding Javascript library (with no to little JS code to write).  
 - [vuejs](http://vuejs.org/)  
 - [Parsing URLs in JavaScript](http://www.abeautifulsite.net/parsing-urls-in-javascript/)  

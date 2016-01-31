@@ -233,6 +233,23 @@ DCI 的架构理念：
 
 OO 衍生出很多概念、模式，有时候不由得让人会想：需要搞这么复杂吗？已经有一些高人跳出来试图简化概念和术语，让大家能用简单一致的语言交流和编写代码。函数式编程也正在渐渐兴起，有很多人更认为这是编程的未来。还是 对编程模式有兴趣的同学可以顺着这个话题去研究：[Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 
+### 优秀文章
+
+**每个架构师都应该研究下康威定律**  
+http://36kr.com/p/5042735.html  
+Conway’ s law: Organizations which design systems [...] are constrained to produce designs which are copies of the communication structures of these organizations. 组织和系统架构之间有一个映射关系（1 ~ 1 mapping），两者不对齐就会出各种各样的问题。作为系统架构师，一定要深入领会康威定律，设计系统架构之前，先看清组织结构，也要看组织文化（民主合作式，集权式，丛林法则式，人才密度），再根据情况调整系统架构或者组织架构。系统架构的目标是解决利益相关者的关注点，架构师要充分和利益相关者沟通，深入理解他们的关注点和痛点，并出架构解决这些关注点。架构主要关注非功能性需求，架构的目标是用于管理复杂性、易变性和不确定性，以确保在长期的系统演化过程中，一部分架构的变化不会对架构的其它部分产生不必要的负面影响。架构，平台不是买来的，也不是用一个开源就能获得的，也不是设计出来，而是长期演化才能落地生根的。
+
+**Event Sourcing**  
+http://martinfowler.com/eaaDev/EventSourcing.html  
+We can query an application's state to find out the current state of the world, and this answers many questions. However there are times when we don't just want to see where we are, we also want to know how we got there. Event Sourcing ensures that all changes to application state are stored as a sequence of events. Not just can we query these events, we can also use the event log to reconstruct past states, and as a foundation to automatically adjust the state to cope with retroactive changes.
+
+
+### GUI Architecture  
+
+**The Elm Architecture**  
+https://github.com/evancz/elm-architecture-tutorial  
+  
+
 ### Ext 
 
 #### Java 实践  
