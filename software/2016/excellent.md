@@ -46,6 +46,10 @@ http://indienova.com/indie-game-development/rooms-and-mazes-a-procedural-dungeon
 
 ### Things  
 
+**Computer Science Field Guide**  
+http://www.csfieldguide.org.nz/en/index.html  
+An online interactive resource for high school students learning about computer science.  
+
 **RemixOS – Android for the desktop**  
 http://www.jide.com/en/remixos  
 
