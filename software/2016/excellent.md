@@ -44,6 +44,10 @@ Many companies choose JavaScript because it is touted as flexible and fast. Whil
 http://indienova.com/indie-game-development/rooms-and-mazes-a-procedural-dungeon-generator/  
 几个月之前，我承诺要针对之前的一篇针对我的 Roguelike 游戏的 blog：回合制的游戏主循环（turn-based game loops）。然后我就投入到我自己发行的新书：《游戏编程模式（Game Programming Patterns）》中去，并且把这件事情彻底忘掉了。我把大家扔在一边了～～好，今天我终于有时间再思考一下我的 Roguelike 了，那么，忘掉游戏主循环，让我们来研究一下 Roguelike 游戏最有趣也是最有挑战的部分：生成地牢！
 
+**The Zen of Erlang**  
+http://ferd.ca/the-zen-of-erlang.html  
+I assume most people here have never used Erlang, have possibly heard of it, maybe just the name. As such, this presentation will only cover the high level concepts of Erlang, in such a way that it may be useful to you in your work or side projects even if you never touch the language.
+
 ### Things  
 
 **Computer Science Field Guide**  
