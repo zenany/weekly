@@ -5,6 +5,21 @@
 https://medium.com/@sebmck/2015-in-review-51ac7035e272  
 This started off as a generic year in review but as I was writing it became a lot more personal. This is my story of how I dealt with going from high school to moving to another country and working in big tech in a little over a year. 
 
+**Why I No Longer Use MVC Frameworks**
+http://www.infoq.com/articles/no-more-mvc-frameworks
+The worst part of my job these days is designing APIs for front-end developers. The conversation goes inevitably as:Dev – So, this screen has data element x,y,z… could you please create an API with the response format {x: , y:, z: } Me – Ok. I don’t even argue anymore. Projects end up with a gazillion APIs tied to screens that change often, which, by “design” require changes in the API and before you know it, you end up with lots of APIs and for each API many form factors and platform variants. A couple of months ago, I started a journey to understand why we ended up here and what could be done about it, a journey that lead me to question the strongest dogma in application architecture, MVC, and where I touched the sheer power of reactive and functional programming, a journey focused on simplicity and scraping the bloat that our industry is so good at producing.
+文章的信息量很大，索引了很多优质文章，对 React、Angular、MVC、GraphQL 等的分析还是挺不错的，对比了各种 Web应用 开发方式后，提出了一种叫 SAM 的模式，值得认真阅读。
+
+**The Error Model**  
+http://joeduffyblog.com/2016/02/07/the-error-model/  
+The basic question an Error Model seeks to answer is: how do “errors” get communicated to programmers and users of the system? Pretty simple, no? So it seems. This journey was long and winding. To tell the tale, I’ve broken this post into six major areas:  
+- Ambitions and Learnings  
+- Bugs Aren’t Recoverable Errors!  
+- Reliability, Fault-Tolerance, and Isolation  
+- Bugs: Abandonment, Assertions, and Contracts  
+- Recoverable Errors: Type-Directed Exceptions  
+- Retrospective and Conclusions  
+
 **Rooms and Mazes: A Procedural Dungeon Generator**  
 http://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/  
 地牢生成算法
@@ -49,6 +64,11 @@ http://ferd.ca/the-zen-of-erlang.html
 I assume most people here have never used Erlang, have possibly heard of it, maybe just the name. As such, this presentation will only cover the high level concepts of Erlang, in such a way that it may be useful to you in your work or side projects even if you never touch the language.
 
 ### Things  
+
+**The only framework that makes responsive-email easy**  
+https://github.com/mjmlio  
+https://mjml.io/  
+MJML is a markup language designed to reduce the pain of coding a responsive email. Its semantic syntax makes it easy and straightforward and its rich standard components library speeds up your development time and lightens your email codebase. MJML’s open-source engine generates high quality responsive HTML compliant with best practices.
 
 **Computer Science Field Guide**  
 http://www.csfieldguide.org.nz/en/index.html  
