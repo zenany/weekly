@@ -1,6 +1,11 @@
 优秀文章汇总  
 ========  
 
+**The Deep Roots of Javascript Fatigue**  
+https://segment.com/blog/the-deep-roots-of-js-fatigue/  
+https://news.ycombinator.com/item?id=11294218  
+Like it or not, Javascript is evolving at a faster rate than any widespread language in the history of computing. Most of the tools we use today didn’t even really exist a year ago: React, JSX, Flux, Redux, ES6, Babel, etc. Even setting up a ‘modern’ project requires installing a swath of dependencies and build tools that are all new. No other language does anything remotely resembling that kind of thing. It’s enough to even warrant a “State of the Art” post so everyone knows what to use. So, why does Javascript change so much? 
+
 **~2015 in review**  
 https://medium.com/@sebmck/2015-in-review-51ac7035e272  
 This started off as a generic year in review but as I was writing it became a lot more personal. This is my story of how I dealt with going from high school to moving to another country and working in big tech in a little over a year. 
@@ -62,6 +67,10 @@ http://indienova.com/indie-game-development/rooms-and-mazes-a-procedural-dungeon
 **The Zen of Erlang**  
 http://ferd.ca/the-zen-of-erlang.html  
 I assume most people here have never used Erlang, have possibly heard of it, maybe just the name. As such, this presentation will only cover the high level concepts of Erlang, in such a way that it may be useful to you in your work or side projects even if you never touch the language.
+
+**Why do we work so hard?**  
+https://www.1843magazine.com/features/why-do-we-work-so-hard  
+Maybe it’s because work is satisfying. Maybe it’s because we’re trapped. Or maybe, as Ryan Avent suspects, it’s because of a troubling combination of the two
 
 ### Things  
 
