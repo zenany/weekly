@@ -1,6 +1,10 @@
 优秀文章汇总  
 ========  
 
+**What if we had a great standard library in JavaScript?**  
+https://medium.com/@thomasfuchs/what-if-we-had-a-great-standard-library-in-javascript-52692342ee3f  
+Micro.js http://microjs.com/ 发起者对 JS 生态思考。A standard library would make it a lot easier to write JavaScript by eliminating the need to come up with similar or same solutions to small issues.
+
 **The Deep Roots of Javascript Fatigue**  
 https://segment.com/blog/the-deep-roots-of-js-fatigue/  
 https://news.ycombinator.com/item?id=11294218  
@@ -43,16 +47,14 @@ https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f
 - http://weibo.com/1693534972/DeAL1tRvy
 前端是一个年轻的生态，我们的路还很长，怀着敬畏和谦逊之心、脚踏实地去解决路上的各种问题才是正道。
 
-**How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript**
-http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/
-http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
-
-
+**How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript**  
+http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos/  
+http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm  
 一个函数引发的血案： A couple of hours ago, Azer Koçulu unpublished more than 250 of his modules from NPM, which is a popular package manager used by JavaScript projects to install dependencies.  Unfortunately, one of those dependencies was left-pad.  With left-pad removed from NPM, these applications and widely used bits of open-source infrastructure were unable to obtain the dependency, and thus fell over.
 另外之前还有人讨论过，npm 是有安全隐患的，比如万一依赖最高的那个包 lodash 被盗号了，通过 npm 脚本就可以做任何事，所以希望能尽快改进，加上签名机制，不然迟早会出事。这个问题引发的讨论和思考还是挺值得关注的，相关阅读：
-http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/
-http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/
-https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.u61t28o05
+http://lucumr.pocoo.org/2016/3/24/open-source-trust-scaling/  
+http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/  
+https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.u61t28o05  
 https://medium.freecodecamp.com/npm-package-hijacking-from-the-hijackers-perspective-af0c48ab9922#.to7j5qyy0
 http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability  
 http://blog.h5jun.com/post/left-pad.html
