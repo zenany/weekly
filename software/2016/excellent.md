@@ -1,6 +1,14 @@
 优秀文章汇总  
 ========  
 
+**The Definitive Guide to Linux System Calls**  
+http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/  
+This blog post explains how Linux programs call functions in the Linux kernel. It will outline several different methods of making systems calls, how to handcraft your own assembly to make system calls (examples included), kernel entry points into system calls, kernel exit points from system calls, glibc wrappers, bugs, and much, much more.
+
+**编程的智慧**  
+http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy  
+编程是一种创造性的工作，是一门艺术。精通任何一门艺术，都需要很多的练习和领悟，所以这里提出的“智慧”，并不是号称一天瘦十斤的减肥药，它并不能代替你自己的勤奋。然而由于软件行业喜欢标新立异，喜欢把简单的事情搞复杂，我希望这些文字能给迷惑中的人们指出一些正确的方向，让他们少走一些弯路，基本做到一分耕耘一分收获。
+
 **What if we had a great standard library in JavaScript?**  
 https://medium.com/@thomasfuchs/what-if-we-had-a-great-standard-library-in-javascript-52692342ee3f  
 Micro.js http://microjs.com/ 发起者对 JS 生态思考。A standard library would make it a lot easier to write JavaScript by eliminating the need to come up with similar or same solutions to small issues.
