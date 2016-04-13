@@ -18,34 +18,13 @@ weekly
 
 ## 业界知名 Weekly
 
-**Fullweb Weekly**  
-http://fullweb.io/  
-Fullweb is a weekly newsletter. It gives you the best 5 links every week about Backend, Web Frontend, DevOps and User Experience.  
-
-**JavaScript Weekly**  
-http://javascriptweekly.com/  
-A free, once–weekly e-mail round-up of JavaScript news and articles.  
-
-**CSS Weekly**  
-http://css-weekly.com/  
-roundup of css articles, tutorials, experiments and tools
-
-**Web Design Weekly**  
-https://web-design-weekly.com/  
-A once a week email with no spam, no rambling. Just pure awesome links to the best news and articles to hit the interweb during the week.  
-
-**HTML5 Weekly**  
-http://html5weekly.com/  
-A once–weekly HTML5 and Web Platform technology roundup.
-CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.  
-
-**Node Weekly**  
-http://nodeweekly.com/  
-free, once–weekly e-mail round-up of Node.js news and articles  
-
-**DB Weekly**  
-http://dbweekly.com/  
-A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
+[Fullweb Weekly](http://fullweb.io/)  It gives you the best 5 links every week about Backend, Web Frontend, DevOps and User Experience  
+[JavaScript Weekly](http://javascriptweekly.com/)  JavaScript news and articles  
+[CSS Weekly](http://css-weekly.com/)  css articles, tutorials, experiments and tools  
+[Web Design Weekly](https://web-design-weekly.com/)  ust pure awesome links to the best news and articles to hit the interweb during the week.  
+[HTML5 Weekly](http://html5weekly.com/)  HTML5 and Web Platform technology roundup.CSS 3, Canvas, WebSockets, WebGL, Native Client...  
+[Node Weekly](http://nodeweekly.com/)  Node.js news and articles  
+[DB Weekly](http://dbweekly.com/)  news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.  
 
 ## 个人推荐
 
@@ -94,4 +73,3 @@ Architects look at thousands of buildings during their training, and study criti
 - [JavaScript](resources/javascript.md)  
 - [node.js](resources/nodejs.md)  
 - [Android开发技术周报](http://www.androidweekly.cn/)  
-- [Server端技术 - 贴吧Arch Weekly](http://nginx.baidu.com/book/arch_weekly/)  
