@@ -1,6 +1,25 @@
 优秀文章汇总  
 ========  
 
+**为什么谷歌的服务从来不会崩溃？**
+http://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=412331950&idx=1&sn=bab734f17b3baa97c66cb19a1f635baf
+把开发和运维结合起来，乃至把运维融合到代码之中，谷歌以此来调和开发与运维之间的结构性冲突。Google 提出了一个概念：网站可靠性管理（Site Reliability Engineering，简称SRE）。期望：在未来的世界里，运维能够更进一步变成代码的一部分；我们期待着有朝一日，不需要人进行任何管理。这是对应的书籍： [Site Reliability Engineering](https://landing.google.com/sre/book.html) ，Notes on Google's Site Reliability Engineering Book
+
+**Strategic Scala Style: Principle of Least Powe**  
+http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html  
+新加坡总理李显龙的孙子李浩毅现在是Dropbox的工程师，最近刚写了一份Effective Scala风格的文档“Strategic Scala Style: Principle of Least Power”
+
+**Docker - libcontainer Principles**  
+https://github.com/docker/libcontainer/blob/master/PRINCIPLES.md  
+In the design and development of libcontainer we try to follow these principles:    
+- Don't try to replace every tool. Instead, be an ingredient to improve them.
+- Less code is better.
+- Fewer components are better. Do you really need to add one more class?
+
+**The Wetware Crisis: the Dead Sea effect**  
+http://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/  
+【死海效应】公司发展到一定阶段，能力强的员工容易离职，因为他们对公司内愚蠢的行为的容忍度不高，他们也容易找到好工作；能力差的员工倾向于留着不走，他们也不太好找工作，年头久了，他们就变中高层了。文章把这种现象叫做死海效应：好员工像死海的水一样蒸发掉，然后死海盐度就变得很高，正常生物不容易存活：）
+
 **The Definitive Guide to Linux System Calls**  
 http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/  
 This blog post explains how Linux programs call functions in the Linux kernel. It will outline several different methods of making systems calls, how to handcraft your own assembly to make system calls (examples included), kernel entry points into system calls, kernel exit points from system calls, glibc wrappers, bugs, and much, much more.
@@ -129,3 +148,10 @@ http://www.omgchrome.com/brotli-http-compression-coming-to-chrome/
 https://www.chromestatus.com/feature/5420797577396224  
 http://google-opensource.blogspot.fr/2015/09/introducing-brotli-new-compression.html  
 采用一种叫 Brotli https://github.com/google/brotli 的压缩技术来提升资源传输效率，Brotli (shortname "br") is used in WOFF 2.0 web fonts with great success. This is about making it available as an HTTP content-encoding method (e.g. Accept-Encoding: br). Advantages of Brotli over gzip: - significantly better compression density - comparable decompression speed。  
+
+
+## New Product
+
+**apiary - Powerful API Design Stack. Built for Developers**
+https://apiary.io/
+Write an API in 30 minutes. Share it with your teammates or customers. Let them use the API mock to take your API for a spin--without writing any code. Iterate, rinse & repeat. Coding can wait until you know what your developers really need. 这是 Tesla Model S JSON API 的例子 http://docs.timdorr.apiary.io/
