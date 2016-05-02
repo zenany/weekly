@@ -1,6 +1,14 @@
 优秀文章汇总  
 ========  
 
+**How to be a Programmer: Community Version**  
+https://github.com/braydie/HowToBeAProgrammer/  
+To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
+
+**A Protocol for Dying**
+http://hintjens.com/blog:115
+ZeroMQ 社区创始人之一，分布式系统专家 Pieter Hintjens 一周前发现自己的胆管癌已经扩散到肺部，他意识到自己剩下的时间不多了。Pieter 写过三十多份通讯协议和规格书，这次他给自己写了一份“临终协议”。如何与临终者交谈，临终者有何责任，如何向孩子们解释，以及，如何面对死亡。
+
 **为什么谷歌的服务从来不会崩溃？**
 http://mp.weixin.qq.com/s?__biz=MjM5ODIzNTc2MA==&mid=412331950&idx=1&sn=bab734f17b3baa97c66cb19a1f635baf
 把开发和运维结合起来，乃至把运维融合到代码之中，谷歌以此来调和开发与运维之间的结构性冲突。Google 提出了一个概念：网站可靠性管理（Site Reliability Engineering，简称SRE）。期望：在未来的世界里，运维能够更进一步变成代码的一部分；我们期待着有朝一日，不需要人进行任何管理。这是对应的书籍： [Site Reliability Engineering](https://landing.google.com/sre/book.html) ，Notes on Google's Site Reliability Engineering Book
