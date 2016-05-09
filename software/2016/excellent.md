@@ -1,6 +1,16 @@
 优秀文章汇总  
 ========  
 
+**架构的本质是管理复杂性**  
+http://www.open-open.com/lib/view/open1460209702222.html  
+文中提到的 BFF - Backend for frontends 非常值得关注，相关资料：  
+- [Backends For Frontends - Single-purpose Edge Services for UIs and external parties](http://samnewman.io/patterns/architectural/bff/)  
+- [BFF - Backend for frontends](https://www.thoughtworks.com/radar/techniques/bff-backend-for-frontends)  
+
+**[译]如果有人问你数据库的原理，叫他看这篇文章**  
+http://blog.jobbole.com/100349/  
+关系型数据库非常有趣，因为它们是基于实用而且可复用的概念。如果你对了解一个数据库感兴趣，但是从未有时间或意愿来刻苦钻研这个内容广泛的课题，你应该喜欢这篇文章。
+
 **How to be a Programmer: Community Version**  
 https://github.com/braydie/HowToBeAProgrammer/  
 To be a good programmer is difficult and noble. The hardest part of making real a collective vision of a software project is dealing with one's coworkers and customers. Writing computer programs is important and takes great intelligence and skill. But it is really child's play compared to everything else that a good programmer must do to make a software system that succeeds for both the customer and myriad colleagues for whom she is partially responsible. In this essay I attempt to summarize as concisely as possible those things that I wish someone had explained to me when I was twenty-one.
