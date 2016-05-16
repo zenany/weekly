@@ -10,6 +10,7 @@ Software Architecture Design，是一个很大的话题，也是每位工程师�
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html)  
 - [MSDN-Software Architecture and Design](https://msdn.microsoft.com/en-us/library/ee658093.aspx)  
 - [Design pattern samples in Java](http://java-design-patterns.com/)  
+- [林仕鼎-系统架构领域的一些学习材料](http://www.52cs.org/?p=114)
 
 个人感觉还是从：数据+算法、Input -> Processor -> Output 的维度去思考系统更简洁。内容会持续补充...
 
