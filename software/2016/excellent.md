@@ -1,6 +1,14 @@
 优秀文章汇总  
 ========  
 
+**Why Google Stores Billions of Lines of Code in a Single Repository**  
+http://m.cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext  
+https://www.youtube.com/watch?v=W71BTkUbdqE  
+This article outlines the scale of that codebase and details Google's custom-built monolithic source repository and the reasons the model was chosen. Google uses a homegrown version-control system to host one large codebase visible to, and used by, most of the software developers in the company. This centralized system is the foundation of many of Google's developer workflows. Here, we provide background on the systems and workflows that make feasible managing and working productively with such a large repository. We explain Google's "trunk-based development" strategy and the support systems that structure workflow and keep Google's codebase healthy, including software for static analysis, code cleanup, and streamlined code review. 
+
+**High Performance Browser Networking**  
+https://hpbn.co/  
+Performance is a feature. This book provides a hands-on overview of what every web developer needs to know about the various types of networks (WiFi, 3G/4G), transport protocols (UDP, TCP, and TLS), application protocols (HTTP/1.1, HTTP/2), and APIs available in the browser (XHR, WebSocket, WebRTC, and more) to deliver the best—fast, reliable, and resilient—user experience.  
 
 **写给想成为前端工程师的同学们 - by 月影**  
 https://www.h5jun.com/post/to-be-a-good-frontend-engineer.html   如果我们不去了解技术的本质而止步于应用，那么我们就只是技术宗教的信徒。热爱前端，用心学习，别让自己成为“前端教”的教众。在选择前端作为职业之前，要明确判断自己对前端开发的确感兴趣，选择做前端，应该是确认自己喜欢和适合做前端，而不是为了一份看起来体面而且薪水不菲的工作。如果你对构建丰富多彩的界面、处理各种交互逻辑不感兴趣，甚至厌烦，那么最明智的选择是放弃成为前端工程师的想法 —— 因为选择一个自己不喜欢的职业，为之忍受数十年直到退休，实在是一件很悲催的事情。
