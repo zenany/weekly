@@ -1,6 +1,19 @@
 优秀文章汇总  
 ========  
 
+**Microsoft REST API Guidelines**
+https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
+The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface. To provide the smoothest possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive.
+
+**Create Apps with No Configuration**  
+https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html  
+https://github.com/facebookincubator/create-react-app  
+Create React App is a new officially supported way to create single-page React applications. It offers a modern build setup with no configuration. 来自 React 官方的开发者配套开发工具，挺值得研究的。
+
+**Monaco Editor**  
+https://microsoft.github.io/monaco-editor/index.html  
+VS Code 中所使用的文本编辑器，功能很强大
+
 **Why Google Stores Billions of Lines of Code in a Single Repository**  
 http://m.cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext  
 https://www.youtube.com/watch?v=W71BTkUbdqE  
