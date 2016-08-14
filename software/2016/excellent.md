@@ -1,6 +1,14 @@
 优秀文章汇总  
 ========  
 
+**shadow DOM v1: self-contained web components**  
+https://developers.google.com/web/fundamentals/primers/shadowdom/  
+Shadow DOM fixes CSS and DOM. It introduces scoped styles to the web platform. Without tools or naming conventions, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
+
+**The Standard Library of the Internet**  
+https://stdlib.com/  
+Our vision is simple — we believe every developer should be able to interface with the cloud as if it were an extension of their personal computer. Write backend code, push to stdlib as a microservice and have your logic available everywhere. No servers, no hassle. 
+
 **Microsoft REST API Guidelines**
 https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md
 The Microsoft REST API Guidelines, as a design principle, encourages application developers to have resources accessible to them via a RESTful HTTP interface. To provide the smoothest possible experience for developers on platforms following the Microsoft REST API Guidelines, REST APIs SHOULD follow consistent design guidelines to make using them easy and intuitive.
