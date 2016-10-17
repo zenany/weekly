@@ -1,6 +1,14 @@
 优秀文章汇总  
 ========  
 
+**Stateful and stateless components, the missing manual**  
+https://toddmotto.com/stateful-stateless-components  
+The goals of this article are to define what stateful and stateless components are, otherwise known as smart and dumb - or container and presentational components. For the purposes of the article, we’ll be using Angular 2 Components to explain the stateful/stateless concepts. Bear in mind these concepts are not at all limited to Angular, and live in other libs/frameworks such as React.
+
+**React.js Introduction For People Who Know Just Enough jQuery To Get By**  
+http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/  
+I also heard React.js was good and recently spent some time playing with it. Now that I’m pretty comfortable with React, I decided to write a tutorial on this subject.
+
 **shadow DOM v1: self-contained web components**  
 https://developers.google.com/web/fundamentals/primers/shadowdom/  
 Shadow DOM fixes CSS and DOM. It introduces scoped styles to the web platform. Without tools or naming conventions, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
