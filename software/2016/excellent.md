@@ -1,6 +1,10 @@
 优秀文章汇总  
 ========  
 
+**Coding is not the new literacy**  
+http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/  
+Despite the good intentions behind the movement to get people to code, both the basic premise and approach are flawed. The movement sits on the idea that "coding is the new literacy," but that takes a narrow view of what literacy really is.
+
 **Stateful and stateless components, the missing manual**  
 https://toddmotto.com/stateful-stateless-components  
 The goals of this article are to define what stateful and stateless components are, otherwise known as smart and dumb - or container and presentational components. For the purposes of the article, we’ll be using Angular 2 Components to explain the stateful/stateless concepts. Bear in mind these concepts are not at all limited to Angular, and live in other libs/frameworks such as React.
