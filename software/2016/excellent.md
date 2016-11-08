@@ -1,6 +1,13 @@
 优秀文章汇总  
 ========  
 
+**Introducing FlyWeb**  
+https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html  
+For the past several months, a small team at Mozilla has been working on an experimental new Web API and an accompanying browser feature called FlyWeb. What does it do? In short, FlyWeb provides an API for web pages to host local web servers for exposing content and services to nearby browsers. It also adds the ability to discover and connect to nearby local web servers to the web browser itself. This feature allows users to find and connect to nearby devices with embedded web servers such as printers, thermostats and televisions as well as local web servers hosted in web pages via the FlyWeb API.
+
+**What is Blockchain Technology? A Step-by-Step Guide For Beginners**  
+http://blockgeeks.com/guides/what-is-blockchain-technology-a-step-by-step-guide-than-anyone-can-understand/  
+
 **Coding is not the new literacy**  
 http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/  
 Despite the good intentions behind the movement to get people to code, both the basic premise and approach are flawed. The movement sits on the idea that "coding is the new literacy," but that takes a narrow view of what literacy really is.
