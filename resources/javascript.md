@@ -1,10 +1,7 @@
 JavaScript 资源汇总
 ========
-	
-	begin at 2014.06 持续更新
     
-
-## 学习资料  
+## 精彩文章
 
 **A re-introduction to JavaScript***  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
@@ -15,14 +12,6 @@ http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
 When React 0.13 came out, everybody freaked out.
 The introductory post made it clear that mixins are on their way out.
 
-
-### React 
-
-**Mixins Are Dead. Long Live Composition**  
-https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750  
-
-
-## 精彩文章
 
 **The [real] problem with JavaScript**  
 https://medium.com/unhandled-exception/the-real-problem-with-javascript-6b78cad97b6e  
