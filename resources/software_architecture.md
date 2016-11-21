@@ -151,7 +151,7 @@ CQRS 由  Greg Young 提出，见文档 [CQRS Documents by Greg Young](https://c
 - [CQRS is too complicated](http://codeofrob.com/entries/cqrs-is-too-complicated.html)  
 - [浅谈命令查询职责分离(CQRS)模式](http://www.cnblogs.com/yangecnu/p/Introduction-CQRS.html)  
 - [Clarified CQRS](http://udidahan.com/2009/12/09/clarified-cqrs/) [译文](http://liuzhaodong89.iteye.com/blog/1930310)  
-
+- [Event Sourcing](http://www.martinfowler.com/eaaDev/EventSourcing.html) Capture all changes to an application state as a sequence of events.
 
 ### DCI  
 
@@ -249,7 +249,12 @@ We can query an application's state to find out the current state of the world, 
 
 **The Elm Architecture**  
 https://github.com/evancz/elm-architecture-tutorial  
-  
+
+### 其它架构
+
+**Kappa Architecture - Where Every Thing Is A Stream**  
+http://milinda.pathirage.org/kappa-architecture.com/  
+Kappa Architecture is a software architecture pattern. Rather than using a relational DB like SQL or a key-value store like Cassandra, the canonical data store in a Kappa Architecture system is an append-only immutable log. From the log, data is streamed through a computational system and fed into auxiliary stores for serving.
 
 ### Ext 
 
