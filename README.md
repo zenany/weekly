@@ -29,6 +29,7 @@ weekly
 ## My Articles  
 
 - [关于时间和知识管理](https://github.com/zenany/zenany.github.io/blob/master/_posts/about_time_and_knowledge_management.md)  
+- [[WIP]Web 前端研发旅行指南](https://github.com/zenany/zenany.github.io/blob/master/_posts/about_frontend.md)  
 
 ## 个人推荐
 
