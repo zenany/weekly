@@ -1,10 +1,7 @@
 JavaScript 资源汇总
 ========
-	
-	begin at 2014.06 持续更新
     
-
-## 学习资料  
+## 精彩文章
 
 **A re-introduction to JavaScript***  
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript  
@@ -12,33 +9,59 @@ Why a re-introduction? Because JavaScript is notorious for being the world's mos
 
 **Maze Generation: Algorithm Recap**  
 http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap  
+When React 0.13 came out, everybody freaked out.
+The introductory post made it clear that mixins are on their way out.
 
-	
-## JS 语法增强
 
-- [JSX](http://jsx.github.io/)
-- [TypeScript](http://www.typescriptlang.org/) : 编译比较慢，并未深度改造
-- [CoffeeScript](http://coffeescript.org)：增强了JavaScript的简洁性与可读性，但对 js 改造太大，并不适合在大团队使用
+**The [real] problem with JavaScript**  
+https://medium.com/unhandled-exception/the-real-problem-with-javascript-6b78cad97b6e  
+https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f  
+讨论 JS 、Web 开发、前端生态，起因是第2篇文章，观点挺偏激的，引发了激烈地讨论，不过的确指出了 Web 生态圈面临的一些问题。第1篇文章比较中肯，作者也在试图建立一个知识库来解决技术选型问题，这是他采集信息的一个调研： [Should I Use](https://alterx.typeform.com/to/ASrKf9)。这两个文章还引申出两个有意思的东西：[Magpie Developer](http://blog.codinghorror.com/the-magpie-developer/)、[The programming language cycle](http://quoderat.megginson.com/2006/03/06/programming-languages-of-distinction/)
 
-## tools  
+**The Single Biggest Mistake Programmers Make Every Day**  
+https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308  
+I believe the single biggest mistake that every programmer makes from time to time is overcomplicating things. Simplify your code. Start with the least complicated implementation and work your way toward more complex solutions only when the problem demands it.
+Remember:  
+- Keep It Stupid Simple (KISS)
+- Make it work, make it right, make it fast.
+- Understand the problem. (Know what “make it work” means.)
+- Begin at the beginning.
+- Start with tests.
+- Do One Thing (DOT).
+- Start small and iterate.
+- Pure function > Function > Factory > Class  
+Simple beats clever every day of the week.
 
-**JSPM**  
-jspm is a package manager for the SystemJS universal module loader, built on top of the dynamic ES6 module loader
+**How do Promises Work?**  
+http://robotlolita.me/2015/11/15/how-do-promises-work.html  
+In this blog post we’ll look at what promises are, how they work, and why you should or shouldn’t use them.  
 
-**json-server**  
-https://github.com/typicode/json-server  
-Get a full fake REST API with zero coding in less than 30 seconds (seriously)   
+**Concurrently JavaScript**  
+http://blog.getify.com/concurrently-javascript-1/  
+What is concurrency? How is it different from parallelism? JavaScript is single-threaded on the event loop, so how does its asynchrony fit into the mix?
 
-**babel**  
-http://babeljs.io/  
-Babel is a JavaScript compiler. Use next generation JavaScript, today.
+**Top JavaScript Frameworks, Libraries and Tools and When to Use Them**  
+http://www.sitepoint.com/top-javascript-frameworks-libraries-tools-use/  
+This article is part of a web development series from Microsoft. It seems like almost every other week there is a new JavaScript library taking the web community by storm! The web community is increasingly vibrant, diverse and is moving rapidly on multiple fronts. It would be an impossible feat to survey every major JavaScript framework and library. Instead,I will share some of the most famous and influential ones for front-end development. 
 
-## MVC
+## JS 语言进化
 
+- [JSX](http://jsx.github.io/) JSX is a statically-typed, object-oriented programming language designed to run on modern web browsers.
+- [TypeScript](http://www.typescriptlang.org/) 编译比较慢，并未深度改造  
+- [CoffeeScript](http://coffeescript.org) 增强了JavaScript的简洁性与可读性，但对 js 改造太大，并不适合在大团队使用  
+- [ELM](http://elm-lang.org/) the best of functional programming in your browser  
+
+
+## 应用框架  
+
+一些专注于 Web 应用如何开发的框架  
+
+- [cycle.js](http://cycle.js.org/) A functional and reactive JavaScript framework for cleaner code
 - [vuejs](http://vuejs.org/) Vue.js is a library for building interactive web interfaces.  
 It provides data-driven components with a simple and flexible API.
 - [wayjs](https://github.com/gwendall/way.js) Simple, lightweight, persistent two-way databinding  
 - <http://t3js.org/>  
+
 
 ## jquery edit in place plugin
 
@@ -90,6 +113,8 @@ pc :
 
 ## lib 
 
+- [](http://vanilla-js.com/)  Vanilla JS is a fast, lightweight, cross-platform framework
+for building incredible, powerful JavaScript applications.
 - [way.js](https://github.com/gwendall/way.js) : Simple, lightweight, persistent, framework-agnostic two-way databinding Javascript library (with no to little JS code to write).  
 - [vuejs](http://vuejs.org/)  
 - [Parsing URLs in JavaScript](http://www.abeautifulsite.net/parsing-urls-in-javascript/)  
@@ -100,6 +125,17 @@ pc :
 - [opentype.js](https://github.com/nodebox/opentype.js)  opentype.js is a JavaScript parser and writer for TrueType and OpenType fonts.  字体变成路径
 - https://github.com/aui/font-spider/  
 - [Fetch is the new XHR](https://github.com/github/fetch)  
+
+### 数据可视化
+
+**Sigma.js: a JavaScript library for graph drawing**  
+http://sigmajs.org/  
+Sigma is a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications.
+
+**Plotly.js - JavaScript library for scientific interactive charts**  
+https://plot.ly/javascript/open-source-announcement/  
+https://github.com/plotly/plotly.js/  
+Today, Plotly is announcing that we have open-sourced plotly.js, the core technology and JavaScript graphing library behind Plotly’s products (MIT license). It's all out there and free. Any developer can now integrate Plotly’s library into their own applications unencumbered. Plotly.js supports 20 chart types, including 3D plots, geographic maps, and statistical charts like density plots, histograms, box plots, and contour plots.  
 
 ### angular  
 
@@ -148,9 +184,23 @@ Implements Zones for JavaScript, inspired by Dart. A Zone is an execution contex
 
 ## tools
 
+
+## 数据模拟
+
+**json-server**  
+https://github.com/typicode/json-server  
+Get a full fake REST API with zero coding in less than 30 seconds (seriously)   
+
 ### 编译构建
 
 codekit  
+
+**babel**  
+http://babeljs.io/  
+Babel is a JavaScript compiler. Use next generation JavaScript, today.
+
+**JSPM**  
+jspm is a package manager for the SystemJS universal module loader, built on top of the dynamic ES6 module loader
 
 ### 混淆
 

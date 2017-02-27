@@ -80,6 +80,14 @@ https://www.voxxed.com/blog/2014/11/neal-ford-on-shifting-to-functional-thinking
 **Some Thoughts on Go and Erlang**
 http://blog.erlware.org/some-thoughts-on-go-and-erlang/  
 
+**What RESTful actually means**  
+https://codewords.recurse.com/issues/five/what-restful-actually-means  
+If you do web development, you’ve probably heard of REST. But if you’re like me, you usually just pretend to know what it is, and nod politely when someone asks you if what you’re making is RESTful. I use HTTP, err, that means it’s RESTful right? Recently, I decided to take the plunge and actually find out what this peaceful-sounding buzzword means.
+
+**Want to Write a Compiler? Just Read These Two Papers**  
+http://prog21.dadgum.com/30.html  
+The best source for breaking this myth is Jack Crenshaw's series, Let's Build a Compiler!, which started in 1988. This is one of those gems of technical writing where what's assumed to be a complex topic ends up being suitable for a first year programming class. He focuses on compilers of the Turbo Pascal class: single pass, parsing and code generation are intermingled, and only the most basic of optimizations are applied to the resulting code. The original tutorials used Pascal as the implementation language, but there's a C version out there, too. If you're truly adventurous, Marcel Hendrix has done a Forth translation (and as Forth is an interactive language, it's easier to experiment with and understand than the C or Pascal sources).
+
 ## 精彩博文
 
 **What qualities characterize a great PhD student?**  
