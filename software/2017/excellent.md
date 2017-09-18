@@ -13,3 +13,7 @@ http://mp.weixin.qq.com/s?__biz=MzA5Nzc4OTA1Mw==&mid=2659599329&idx=1&sn=75bb8b3
 **APIs as infrastructure: future-proofing Stripe with versioning**  
 https://stripe.com/blog/api-versioning  
 When it comes to APIs, change isn’t popular. While software developers are used to iterating quickly and often, API developers lose that flexibility as soon as even one user starts consuming their interface.
+
+**A Brief, Incomplete History of JavaScript**  
+https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript  
+In 2017, JavaScript development can leave newcomers to the language—and many veterans—paralyzed, unsure of where to begin or which paths are the right ones to take. People often dive into the latest-and-greatest without any real understanding of why it’s so great (or why it might not be). Understanding JavaScript's history can help make sense of its current state.
