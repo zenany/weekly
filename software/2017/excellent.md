@@ -17,3 +17,7 @@ When it comes to APIs, change isn’t popular. While software developers are use
 **A Brief, Incomplete History of JavaScript**  
 https://closebrace.com/articles/2017-09-11/a-brief-incomplete-history-of-javascript  
 In 2017, JavaScript development can leave newcomers to the language—and many veterans—paralyzed, unsure of where to begin or which paths are the right ones to take. People often dive into the latest-and-greatest without any real understanding of why it’s so great (or why it might not be). Understanding JavaScript's history can help make sense of its current state.
+
+**The end of Framework Churn**  
+http://blog.ionic.io/the-end-of-framework-churn/  
+We believe 2017 is the year that web developers finally start to use Web Components in larger numbers. It’s going to take some time to reach mainstream usage, but the benefits are real and native support is improving rapidly. The era of Framework churn is coming to an end, and now we can all go back to working on what makes our apps unique instead of spending precious time, energy, and money jumping to something new every year.

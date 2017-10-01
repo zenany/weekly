@@ -1,8 +1,13 @@
-Node.js ×ÊÔ´»ã×Ü
+Node.js èµ„æºæ±‡æ€»
 ========
-	
-	begin at 2014.06 ³ÖĞø¸üĞÂ
-	
+
+
+##  CLI å¼€å‘
+
+**Terminal Kit**  
+https://github.com/cronvel/terminal-kit  
+A full-blown terminal lib featuring: 256 colors, styles, keys & mouse handling, input field, progress bars, screen buffer (including 32-bit composition and image loading), text buffer, and many more... Whether you just need colors & styles, build a simple interactive command line tool or a complexe terminal application: this is the absolute terminal lib for Node.js!
+
 ## Framework
 
 **NodeBB**  
@@ -15,32 +20,32 @@ http://mean.io/
 The Friendly & Fun Javascript Fullstack for your next web application
 MEAN is an opinionated fullstack javascript framework - which simplifies and accelerates web application development.
 
-## ½ø³Ì&·şÎñ¹ÜÀí
+## è¿›ç¨‹&æœåŠ¡ç®¡ç†
 
 forever  nodemon  pm2  supervisor
 
-forever µÄ½Ó¿Ú²»ÊÇºÜºÃ£¬¹¦ÄÜÒ²Ã»ÓĞ pm2 Ç¿´ó¡£Æô¶¯Í¬ÃûÎÄ¼şÊ±ĞèÒª --uid ²ÎÊı£¬Ã¿´ÎÆô¶¯»¹µÃ¼Ó -a £¬Í¦·³µÄ¡£¸ü¶àÇë²Î¿¼£º
+forever çš„æ¥å£ä¸æ˜¯å¾ˆå¥½ï¼ŒåŠŸèƒ½ä¹Ÿæ²¡æœ‰ pm2 å¼ºå¤§ã€‚å¯åŠ¨åŒåæ–‡ä»¶æ—¶éœ€è¦ --uid å‚æ•°ï¼Œæ¯æ¬¡å¯åŠ¨è¿˜å¾—åŠ  -a ï¼ŒæŒºçƒ¦çš„ã€‚æ›´å¤šè¯·å‚è€ƒï¼š
 
 - [Goodbye node-forever, hello PM2](http://devo.ps/blog/goodbye-node-forever-hello-pm2/)
       
-ÍÆ¼ö£º nodemon  pm2 £¬µ« pm2 µÄ cluster_mode ²»Ì«ÎÈ¶¨£¬½¨ÒéÓÅÏÈÑ¡ fork_mode
+æ¨èï¼š nodemon  pm2 ï¼Œä½† pm2 çš„ cluster_mode ä¸å¤ªç¨³å®šï¼Œå»ºè®®ä¼˜å…ˆé€‰ fork_mode
 
 ## log
 
 https://github.com/winstonjs/winston  
 https://github.com/trentm/node-bunyan  
 
-## Òì²½±à³Ì
+## å¼‚æ­¥ç¼–ç¨‹
 
 Async.js  
 Q  
 FRP(Functional Reactive Programming)  
 
-ÍÆ¼ö´Ó Async ÈëÊÖ£¬¼òµ¥Ç¿´ó£¬±È Q ÈİÒ×ÉÏÊÖ¡£
+æ¨èä» Async å…¥æ‰‹ï¼Œç®€å•å¼ºå¤§ï¼Œæ¯” Q å®¹æ˜“ä¸Šæ‰‹ã€‚
 
-python ÖĞÓĞ asyncio 
+python ä¸­æœ‰ asyncio 
 
-Òì²½±à³ÌÖ®co¡ª¡ªÔ´Âë·ÖÎö http://www.html-js.com/article/3016  
+å¼‚æ­¥ç¼–ç¨‹ä¹‹coâ€”â€”æºç åˆ†æ http://www.html-js.com/article/3016  
 
 ## lib
 
@@ -50,36 +55,36 @@ http://highlandjs.org/
 
 ## Server
 
-**[Harp](http://harpjs.com/)** : The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScript¡ªno configuration necessary.
+**[Harp](http://harpjs.com/)** : The static web server with built-in preprocessing. Harp serves Jade, Markdown, EJS, CoffeeScript, Sass, LESS and Stylus as HTML, CSS & JavaScriptâ€”no configuration necessary.
 
-## ×ÊÔ´¿â
+## èµ„æºåº“
 
 - [Node.JS Modules](https://nodejsmodules.org/)  
 - [Awesome Nodejs](https://github.com/sindresorhus/awesome-nodejs)  
 
-## ¼¼ÊõÎÄÕÂ
+## æŠ€æœ¯æ–‡ç« 
 
-ÊÕÂ¼Ò»Ğ©¾­µäÎÄÕÂ£º
+æ”¶å½•ä¸€äº›ç»å…¸æ–‡ç« ï¼š
 
 - [Farewell Node.js](https://medium.com/code-adventures/farewell-node-js-4ba9e7f3e52b)
 - [Error Handling in Node.js](https://www.joyent.com/developers/node/design/errors)
-- [ÎªÊ²Ã´ Node.js ÕâÃ´»ğ£¬¶øÍ¬ÑùÒì²½Ä£Ê½ Python ¿ò¼Ü Twisted È´Ê®¼¸ÄêÒ»Ö±²»ÎÂ²»»ğ£¿](http://www.zhihu.com/question/23854296/answer/27877645)
-- [ÈçºÎ¿´´ı TJ Ğû²¼ÍË³ö Node.js ¿ª·¢£¬×ªÏò Go](http://www.zhihu.com/question/24373004)
-- [ÈçºÎÆÀ¼ÛÌÔ±¦ UED µÄ Midway Framework Ç°ºó¶Ë·ÖÀë](http://www.zhihu.com/question/23512853)  
+- [ä¸ºä»€ä¹ˆ Node.js è¿™ä¹ˆç«ï¼Œè€ŒåŒæ ·å¼‚æ­¥æ¨¡å¼ Python æ¡†æ¶ Twisted å´åå‡ å¹´ä¸€ç›´ä¸æ¸©ä¸ç«ï¼Ÿ](http://www.zhihu.com/question/23854296/answer/27877645)
+- [å¦‚ä½•çœ‹å¾… TJ å®£å¸ƒé€€å‡º Node.js å¼€å‘ï¼Œè½¬å‘ Go](http://www.zhihu.com/question/24373004)
+- [å¦‚ä½•è¯„ä»·æ·˜å® UED çš„ Midway Framework å‰åç«¯åˆ†ç¦»](http://www.zhihu.com/question/23512853)  
 - https://blog.indutny.com/c.cpp-in-node  
 - https://devcenter.heroku.com/articles/node-best-practices  
 
-**¹ØÓÚ node ÔÚÉú²ú»·¾³²¿ÊğµÄÒ»Ğ©ÌÖÂÛ**  
+**å…³äº node åœ¨ç”Ÿäº§ç¯å¢ƒéƒ¨ç½²çš„ä¸€äº›è®¨è®º**  
 http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/  
 https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/  
 https://medium.com/@bestander_nz/my-node-modules-are-in-git-again-4fb18f5671a#.z1l70778d  
 https://strongloop.com/strongblog/node-js-deploy-production-best-practice/  
-½¨ÒéÔÚ·¢²¼ÊÇÓÃ shrinkwrap Ëø¶¨ÒÀÀµ°æ±¾£¬Ïà¹ØÌÖÂÛ  
+å»ºè®®åœ¨å‘å¸ƒæ˜¯ç”¨ shrinkwrap é”å®šä¾èµ–ç‰ˆæœ¬ï¼Œç›¸å…³è®¨è®º  
 https://addyosmani.com/blog/checking-in-front-end-dependencies/#more-5510  
 
-## ÆäËü
+## å…¶å®ƒ
 
-[fibjs](https://github.com/xicilion/fibjs) Ò»¸öÀàËÆ node µÄ»·¾³£¬fibjs ÊÇÒ»¸ö½¨Á¢ÔÚ Google v8 Javascript ÒıÇæ»ù´¡ÉÏµÄÓ¦ÓÃ·şÎñÆ÷¿ª·¢¿ò¼Ü£¬²»Í¬ÓÚ node.js£¬fibjs ²ÉÓÃ fiber ½â¾ö v8 ÒıÇæµÄ¶àÂ·¸´ÓÃ£¬²¢Í¨¹ı´óÁ¿ c++ ×é¼ş£¬½«ÖØ¸ººÉÔËËãÎ¯ÍĞ¸øºóÌ¨Ïß³Ì£¬ÊÍ·Å v8 Ïß³Ì£¬ÕùÈ¡¸ü´óµÄ²¢·¢Ê±¼ä¡£
+[fibjs](https://github.com/xicilion/fibjs) ä¸€ä¸ªç±»ä¼¼ node çš„ç¯å¢ƒï¼Œfibjs æ˜¯ä¸€ä¸ªå»ºç«‹åœ¨ Google v8 Javascript å¼•æ“åŸºç¡€ä¸Šçš„åº”ç”¨æœåŠ¡å™¨å¼€å‘æ¡†æ¶ï¼Œä¸åŒäº node.jsï¼Œfibjs é‡‡ç”¨ fiber è§£å†³ v8 å¼•æ“çš„å¤šè·¯å¤ç”¨ï¼Œå¹¶é€šè¿‡å¤§é‡ c++ ç»„ä»¶ï¼Œå°†é‡è´Ÿè·è¿ç®—å§”æ‰˜ç»™åå°çº¿ç¨‹ï¼Œé‡Šæ”¾ v8 çº¿ç¨‹ï¼Œäº‰å–æ›´å¤§çš„å¹¶å‘æ—¶é—´ã€‚
 
 [WebSockets the UNIX way](http://websocketd.com/)  
 Full duplex messaging between web browsers and servers
