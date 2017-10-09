@@ -256,6 +256,12 @@ https://github.com/evancz/elm-architecture-tutorial
 http://milinda.pathirage.org/kappa-architecture.com/  
 Kappa Architecture is a software architecture pattern. Rather than using a relational DB like SQL or a key-value store like Cassandra, the canonical data store in a Kappa Architecture system is an append-only immutable log. From the log, data is streamed through a computational system and fed into auxiliary stores for serving.
 
+**TLA**  
+http://lamport.azurewebsites.net/tla/tla.html  
+https://learntla.com/introduction/  
+https://www.hillelwayne.com/post/uncle-bob/  
+TLA stands for the Temporal Logic of Actions, but it has become a shorthand for referring to the TLA+ specification language and the PlusCal algorithm language, together with their associated tools. TLA+ is based on the idea that the best way to describe things formally is with simple mathematics, and that a specification language should contain as little as possible beyond what is needed to write simple mathematics precisely. TLA+ is especially well suited for writing high-level specifications of concurrent and distributed systems.
+
 ### Ext 
 
 #### Java 实践  
