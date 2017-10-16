@@ -1,18 +1,17 @@
-编程基本  
-========  
-
+编程基本
+======== 
 
 ## languages
 
 http://blog.rust-lang.org/  
 https://github.com/rui314/8cc  可以当做学习编译器技术的材料  
 https://github.com/JuliaLang/julia  
-https://kotlinlang.org/ Kotlin 
+https://kotlinlang.org/ Kotlin  
 
 **How We Spent Two Days Making Perl Faster**  
 http://blog.booking.com/making-perl-faster.html  
 
-## Interface Design 
+## Interface Design  
 
 ### HTTP API Design Guide  
 https://github.com/interagent/http-api-design  
@@ -25,34 +24,25 @@ http://nginx.com/blog/microservices-at-netflix-architectural-best-practices/
 
 ## 消息协议
 
-### The Remote Framebuffer Protocol  
+**The Remote Framebuffer Protocol**  
 https://tools.ietf.org/html/rfc6143  
-RFB ("remote framebuffer") is a simple protocol for remote access to
-graphical user interfaces that allows a client to view and control a
-window system on another computer.  Because it works at the
-framebuffer level, RFB is applicable to all windowing systems and
-applications.  This document describes the protocol used to
-communicate between an RFB client and RFB server.  RFB is the
-protocol used in VNC.
+RFB ("remote framebuffer") is a simple protocol for remote access to graphical user interfaces that allows a client to view and control a window system on another computer.  Because it works at the framebuffer level, RFB is applicable to all windowing systems and applications.  This document describes the protocol used to communicate between an RFB client and RFB server.  RFB is the protocol used in VNC. 
 
-### ifps  
-
+**ifps**  
 http://ipfs.io/  
 IPFS is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open. IPFS is an open source project developed by the team at Interplanetary Networks and many contributors from the open source community.
 
-### MQTT  
+**MQTT**  
 http://mqtt.org/  
 MQTT is a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. It was designed as an extremely lightweight publish/subscribe messaging transport. It is useful for connections with remote locations where a small code footprint is required and/or network bandwidth is at a premium. For example, it has been used in sensors communicating to a broker via satellite link, over occasional dial-up connections with healthcare providers, and in a range of home automation and small device scenarios. 
 
-### WAMP  
+**WAMP**  
 http://wamp.ws/  
-WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol:
-Remote Procedure Calls + Publish & Subscribe.
+WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol: Remote Procedure Calls + Publish & Subscribe.
 
-### STOMP  
+**STOMP**  
 http://stomp.github.io/  
 TOMP is the Simple (or Streaming) Text Orientated Messaging Protocol. STOMP provides an interoperable wire format so that STOMP clients can communicate with any STOMP message broker to provide easy and widespread messaging interoperability among many languages, platforms and brokers.
-
 
 ## 数据结构
 
@@ -63,6 +53,10 @@ Open Data Structures covers the implementation and analysis of data structures f
 **Algorithms**  
 https://github.com/arnauddri/algorithms  
 Classic algorithms and data structures implemented in Go. Not for production use, it is mostly an attempt to get comfortable both with Go and key CS concepts.  
+
+**The Intuitive Guide to Data Structures And Algorithms**  
+https://www.interviewcake.com/data-structures-and-algorithms-guide  
+This guide is focused on—giving you a visual, intuitive sense for how data structures and algorithms actually work. So if you've got a big coding interview coming up, or you never learned data structures and algorithms in school, or you did but you're kinda hazy on how some of this stuff fits together... This guide will fill in the gaps in your knowledge and make you say, "Oooh, that's how that works." 
 
 **Swap Two Variables Without Using a Temp Variable (With Math!)**  
 http://chris-taylor.github.io/blog/2013/02/25/xor-trick/  
@@ -80,10 +74,10 @@ http://qing.blog.sina.com.cn/2244218960/85c41050330031zq.html
 **架构师的四种兵器**  
 http://mp.weixin.qq.com/s?__biz=MTEwNTM0ODI0MQ==&mid=204102619&idx=1&sn=baa51b5437a25ce994c801e6454f4b21  
 作者结合自己的经验，从这几方面进行了总结：  
-- KISS
-- Architect vs Gardener
-- Hard Skill and Soft Skill
-- Technology Meaning
+- KISS  
+- Architect vs Gardener  
+- Hard Skill and Soft Skill   
+- Technology Meaning  
 架构是一个综合问题，文末总结的这段相当不错：“一将无能，累死三军。”往往因为架构师对知识广度或深度不够，导致技术选型不当。前瞻性不够，导致拆拆补补。问题分析不够，导致舍本逐末。大量的从后期呈现出来的现象和结果，往往都是因为架构师在前期的考虑不足导致的。有时候架构师会质疑：这是建设的问题，没有按照规范执行。这是运营的问题，运营处理不及时。这是机房环境的问题。甚至说这是天灾、这是人祸。但我们相信，这都是您需要考虑的问题。
 
 **首席技术官：CTO是做什么的**  

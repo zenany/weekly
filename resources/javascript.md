@@ -150,6 +150,14 @@ Webix provides a great number of JavaScript UI widgets with a pefect look and fe
 
 ## Editor
 
+**ProseMirror 1.0**  
+http://marijnhaverbeke.nl/blog/prosemirror-1.html  
+ProseMirror is a Web interface component, and though some of the challenges it tackles are specific to the strengths and (especially) weaknesses of the Web platform, don't think of it as another TinyMCE alternative. Rather, it is a more general take on rich text editing that happens to be implemented in JavaScript for the browser.
+
+**Slate.js**  
+https://github.com/ianstormtaylor/slate  
+Slate lets you build rich, intuitive editors like those in Medium, Dropbox Paper or Canvas—which are becoming table stakes for applications on the web—without your codebase getting mired in complexity. It can do this because all of its logic is implemented with a series of plugins, so you aren't ever constrained by what is or isn't in "core". You can think of it like a pluggable implementation of contenteditable built on top of React and Immutable. It was inspired by libraries like Draft.js, Prosemirror and Quill.
+
 **bootstrap-wysihtml5**  
 http://jhollingworth.github.io/bootstrap-wysihtml5/  
 Simple, beautiful wysiwyg editors  bootstrap-wysihtml5 is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of wysihtml5 and Twitter Bootstrap
