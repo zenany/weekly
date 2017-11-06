@@ -1,6 +1,13 @@
 CSS  
 ========  
 
+
+## Guide 
+
+**The Accessibility Cheatsheet**  
+https://bitsofco.de/the-accessibility-cheatsheet/  
+The guidelines for accessible content have four overarching principles, each with more specific guidelines. You can click on the link to go to the relevant section of this article.
+
 ## frmework
 
 - [bootstrap](http://getbootstrap.com/)
