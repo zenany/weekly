@@ -1,3 +1,19 @@
+**Ten Extras for Great API Documentation**  
+https://alistapart.com/article/ten-extras-for-great-api-documentation  
+If you manage to create amazing API documentation and ensure that developers have a positive experience implementing your API, they will sing the praises of your product. Continuously improving your API documentation is an investment, but it can have a huge impact. Great documentation builds trust, differentiates you from your competition, and provides marketing value.
+
+**THE MAGIC OF CSS**  
+http://adamschwartz.co/magic-of-css/
+CSS is a mess. We all love it, but it’s a mess. I liken it to English: there are a bunch of rules, and you can learn them. But sometimes you’re better off just trying shit and seeing what works and what doesn’t. Magic is a codification of what I’ve learned in that crazy process. The material in this textbook is intermediate-to-advanced. It assumes an understanding of the CSS syntax, cascading and inheritance, and commonly used selectors. It also assumes you’ve had enough experience with CSS to have learned not to make these common mistakes anymore.
+
+**Earth on AWS - Build planetary-scale applications in the cloud with open geospatial data**  
+https://aws.amazon.com/earth/  
+Landsat 8 data is available for anyone to use via Amazon S3. All Landsat 8 scenes from 2015 are available along with a selection of cloud-free scenes from 2013 and 2014. All new Landsat 8 scenes are made available each day, often within hours of production. The satellite images the entire Earth every 16 days at a roughly 30 meter resolution. 
+
+**10 Lessons of an MIT Education**  
+http://www.math.tamu.edu/~cyan/Rota/mitless.html  
+You can and will work at a desk for seven hours straight, routinely. By and large, "knowing how" matters more than "knowing what." You don't have to be a genius to do creative work. The future belongs to the computer-literate-squared... 
+
 **The System Design Primer**  
 https://github.com/donnemartin/system-design-primer
 Learning how to design scalable systems will help you become a better engineer. System design is a broad topic. There is a vast amount of resources scattered throughout the web on system design principles. This repo is an organized collection of resources to help you learn how to build systems at scale.
