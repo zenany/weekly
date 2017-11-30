@@ -1,0 +1,3 @@
+**Introduction to Computer OrganizationARM Assembly Language Using the Raspberry Pi**  
+http://bob.cs.sonoma.edu/IntroCompOrg-RPi/sec-preface.html  
+This book introduces the concepts of how computer hardware works from a programmer`s point of view. A programmer`s job is to design a sequence of instructions that will cause the hardware to perform operations that solve a problem. This book looks at these instructions by exploring how C/C++ language constructs are implemented at the instruction set architecture level.
