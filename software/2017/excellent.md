@@ -1,6 +1,10 @@
 **Web Frameworks: Conclusions**  
 https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/  
 
+**Why ‘mobile first’ may already be outdated**  
+https://blog.intercom.com/why-mobile-first-may-already-be-outdated/
+If “mobile first” is no longer your dogma, then what is? At Intercom our dogma is the Jobs-to-be-Done framework. Focusing on what Jobs your users are trying to do. Servicing those Jobs where they happen. Servicing them with the right depth of product experience: maybe a glance on a watch is best, maybe a 40 inch screen dashboard view is best. Servicing them in a way that takes advantage of the situational context of use – no one is bringing their iMac to the beach, and no-one is writing the board deck on their phone. So think about the screen best suited for input, and the screen best suited for output.
+
 **Ten Extras for Great API Documentation**  
 https://alistapart.com/article/ten-extras-for-great-api-documentation  
 If you manage to create amazing API documentation and ensure that developers have a positive experience implementing your API, they will sing the praises of your product. Continuously improving your API documentation is an investment, but it can have a huge impact. Great documentation builds trust, differentiates you from your competition, and provides marketing value.
