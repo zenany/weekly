@@ -1,3 +1,7 @@
+**Why I No Longer Use MVC Frameworks**  
+http://www.infoq.com/articles/no-more-mvc-frameworks  
+The worst part of my job these days is designing APIs for front-end developers. The conversation goes inevitably as:Dev – So, this screen has data element x,y,z… could you please create an API with the response format {x: , y:, z: } Me – Ok. I don’t even argue anymore. Projects end up with a gazillion APIs tied to screens that change often, which, by “design” require changes in the API and before you know it, you end up with lots of APIs and for each API many form factors and platform variants. A couple of months ago, I started a journey to understand why we ended up here and what could be done about it, a journey that lead me to question the strongest dogma in application architecture, MVC, and where I touched the sheer power of reactive and functional programming, a journey focused on simplicity and scraping the bloat that our industry is so good at producing.
+
 **Web Frameworks: Conclusions**  
 https://www.sitepen.com/blog/2017/11/10/web-frameworks-conclusions/  
 
