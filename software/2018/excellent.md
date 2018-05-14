@@ -28,3 +28,11 @@ THE MODERN WEB contains no shortage of horrors, from ubiquitous ad trackers to a
 **What Will Programming Look Like In The Future?***  
 http://highscalability.com/blog/2018/4/25/update-what-will-programming-look-like-in-the-future.html
 Humans and AIs working together to produce software better than either can separately. The computer as a creative agent, working in tandem with a human partner, to produce software, in a beautiful act of co-creation. What we need is a manufacturing process that puts software production on an exponential curve. The only conceivable tool we have at the moment to put software on an exponential production curve is AI. That's the only way software can truly eat the world.
+
+**Top UX Inspirations of all time!**  
+https://medium.com/sketch-app-sources/top-ui-inspirations-of-all-time-90cb37c61c45
+Good UI design facilitates making the completion of tasks as frictionless as possible and increasing usability. Good design is like a refrigerator — when it works, no one notices, but when it doesn’t, it sure stinks.
+
+**Tech’s Two Philosophies**  
+https://stratechery.com/2018/techs-two-philosophies/
+Tech’s Yin and Yang. That there are two philosophies does not necessarily mean that one is right and one is wrong: the reality is we need both. Some problems are best solved by human ingenuity, enabled by the likes of Microsoft and Apple; others by collective action. That, though, gets at why Google and Facebook are fundamentally more dangerous: collective action is traditionally the domain of governments, the best form of which is bounded by the popular will. Google and Facebook, on the other hand, are accountable to no one. Both deserve all of the recent scrutiny they have attracted, and arguably deserve more.
