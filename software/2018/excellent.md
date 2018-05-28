@@ -23,7 +23,7 @@ Only after we master the ability to materialize things from the air, utilize qua
 
 **It'S Time For An Rss Revival**  
 https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/  
-THE MODERN WEB contains no shortage of horrors, from ubiquitous ad trackers to all-consuming platforms to YouTube comments, generally. Unfortunately, there's no panacea for what ails this internet we've built. But anyone weary of black-box algorithms controlling what you see online at least has a respite, one that's been there all along but has often gone ignored. Tired of Twitter? Facebook fatigued? It's time to head back to RSS. 另附：[RSS is undead](https://techcrunch.com/2018/04/07/rss-is-undead/)、[Now Is The Perfect Time For An RSS Renaissance](https://neflabs.com/blog/rss-renaissance/).
+THE MODERN WEB contains no shortage of horrors, from ubiquitous ad trackers to all-consuming platforms to YouTube comments, generally. Unfortunately, there's no panacea for what ails this internet we've built. But anyone weary of black-box algorithms controlling what you see online at least has a respite, one that's been there all along but has often gone ignored. Tired of Twitter? Facebook fatigued? It's time to head back to RSS. 另附：[RSS is undead](https://techcrunch.com/2018/04/07/rss-is-undead/)、[Now Is The Perfect Time For An RSS Renaissance](https://neflabs.com/blog/rss-renaissance/)、[Winds 2.0: It’s Time to Revive RSS](https://getstream.io/blog/winds-2-0-its-time-to-revive-rss/).
 
 **What Will Programming Look Like In The Future?***  
 http://highscalability.com/blog/2018/4/25/update-what-will-programming-look-like-in-the-future.html
@@ -36,3 +36,6 @@ Good UI design facilitates making the completion of tasks as frictionless as pos
 **Tech’s Two Philosophies**  
 https://stratechery.com/2018/techs-two-philosophies/
 Tech’s Yin and Yang. That there are two philosophies does not necessarily mean that one is right and one is wrong: the reality is we need both. Some problems are best solved by human ingenuity, enabled by the likes of Microsoft and Apple; others by collective action. That, though, gets at why Google and Facebook are fundamentally more dangerous: collective action is traditionally the domain of governments, the best form of which is bounded by the popular will. Google and Facebook, on the other hand, are accountable to no one. Both deserve all of the recent scrutiny they have attracted, and arguably deserve more.
+
+**The Bill Gates Line**  
+https://stratechery.com/2018/the-bill-gates-line/  
