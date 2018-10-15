@@ -17,6 +17,7 @@ weekly
 ## 学习资源
 
 - [Software Architecture Design](resources/software_architecture.md)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## 业界知名 Weekly
 
