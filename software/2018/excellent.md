@@ -1,5 +1,9 @@
 经典之作  
-========  
+======== 
+
+**A Look at the Design of Lua**  
+https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext  
+Though mainly a procedural language, Lua lends itself to several other paradigms, including object-oriented programming, functional programming, and data-driven programming.5 It also offers good support for data description, in the style of JavaScript and JSON. Data description was indeed one of our main motivations for creating Lua, some years before the appearance of XML and JavaScript. 另附：[A Philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html). 
 
 **The Ultimate Guide to JavaScript Frameworks**  
 https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/  
