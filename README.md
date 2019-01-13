@@ -8,6 +8,7 @@ weekly
 
 ## Weekly 汇总
 
+- 2019年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2019> 
 - 2018年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2018> 
 - 2017年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2017>  
 - 2016年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2016>  
