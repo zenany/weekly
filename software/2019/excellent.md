@@ -3,6 +3,10 @@ Excellent
 
 ## 01
 
+**Hacker Tools**  
+https://hacker-tools.github.io/  
+As hackers, we spend a lot of time on our computers, so it makes sense to make that experience as fluid and frictionless as possible. In this class, we’ll help you learn how to make the most of tools that productive programmers use. We’ll show you how to navigate the command line, use a powerful text editor, use version control efficiently, automate mundane tasks, manage packages and software, configure your desktop environment, and more.
+
 **The TypeScript Tax - A Cost vs Benefit Analysis**  
 https://medium.com/javascript-scene/the-typescript-tax-132ff4cb175b  
 As TypeScript stands, I would definitely use it again in small open-source libraries, primarily to make life easier for other TypeScript users. But I will not use the current version of TypeScript in my next large scale application, because the larger the project is, the more the costs of using TypeScript compound.
