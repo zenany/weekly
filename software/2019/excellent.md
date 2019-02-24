@@ -1,6 +1,20 @@
 Excellent  
 ========  
 
+## 02
+
+**“数据主义者”们的毒鸡汤**  
+https://mp.weixin.qq.com/s?__biz=MzA5MzE0NDMyNw==&mid=2651978277&idx=1&sn=87db254c70f51c9c82383d7ecd2f7e3a  
+当我们历数过去十年最激动人心的事件，数据的空前崛起一定要占有一席之地。一夜之间，似乎人人都称呼自己是“数据主义者”，企业纷纷向数字化尤其是其中的数据化快马加鞭地转型。大数据之浪潮风起云涌，AlphaGo的胜利更是在我们每个人的屁股上扎了一针浓浓的鸡血，我们欢呼雀跃，相信数据一定能够带给我们一个非常光明的未来。不过，在走向这个光明的未来之前，我们还得熬过“不那么光明”的现在。不光明，是因为那些自称“数据主义者”的存在，他们所行之事，恰恰与他们所“拥护”的相反。他们的鸡汤越浓，毒性就越大，他们越是激昂高呼，反而越是对数据未来的亵渎。如果他们都算是“数据主义者”，那我们就必须清醒地做一个坚定的“反数据主义者”。无他，只是为了保留一份原初的对数据的敬畏。
+
+**Practical Go: Real world advice for writing maintainable Go programs**  
+https://dave.cheney.net/practical-go/presentations/qcon-china.html  
+My goal over the next two sessions is to give you my advice for best practices writing Go code. This is a workshop style presentation, I’m going to dispense with the usual slide deck and we’ll work directly from the document which you can take away with you today. 
+
+**None of my projects want to be SPAs**  
+https://whatisjasongoldstein.com/writing/help-none-of-my-projects-want-to-be-spas/  
+Back in the early days of SPAs, some people argued that it would be faster to only pass the data you need as JSON than to render whole pages. Nearly a decade later, this is almost never true. I can think of a few things that would benefit from being SPAs. A chat application is a no-brainer. A dashboard of realtime data might not need to be a SPA, but would benefit from a reactive component that updates when the API is polled. Maybe a complicated tool like Trello, a Calendar or a Nonlinear Video Editor could make sense, but even those have distinct screens, so a large reactive component on a particular screen may be a better fit. What’s more interesting is how many apps I’m seeing built as an SPA that really don’t need to be. Why does a website that orders food from restaurants need a Megabyte of javascript? 另附：[You probably don’t need a single-page application](https://journal.plausible.io/you-probably-dont-need-a-single-page-app).
+
 ## 01
 
 **Hacker Tools**  
