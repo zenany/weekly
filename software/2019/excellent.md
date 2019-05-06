@@ -1,6 +1,12 @@
 Excellent  
 ========  
 
+## 05
+
+**Local-first software - You own your data, in spite of the cloud**  
+https://www.inkandswitch.com/local-first.html  
+In this article we propose “local-first software”: a set of principles for software that enables both collaboration and ownership for users. Local-first ideals include the ability to work offline and collaborate across multiple devices, while also improving the security, privacy, long-term preservation, and user control of data.
+
 ## 03
 
 **百度的春晚战事**  
