@@ -3,6 +3,10 @@ Excellent
 
 ## 05
 
+**SQLFlow: Motivations and the Design**  
+https://medium.com/@SQLFlow/sqlflow-motivations-and-the-design-e11bb6aa122c  
+[SQLFlow](https://sql-machine-learning.github.io/) allows users to write standard SQL statements, which are acceptable by the SQL engine, and statements with extended syntax to support AI functionality.  
+
 **Local-first software - You own your data, in spite of the cloud**  
 https://www.inkandswitch.com/local-first.html  
 In this article we propose “local-first software”: a set of principles for software that enables both collaboration and ownership for users. Local-first ideals include the ability to work offline and collaborate across multiple devices, while also improving the security, privacy, long-term preservation, and user control of data.
