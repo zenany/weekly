@@ -1,6 +1,36 @@
 Excellent  
 ========  
 
+## 06
+
+**How to Be Great? Just Be Good, Repeatably**  
+https://blog.stephsmith.io/how-to-be-great/  
+Over the years, we’ve all encountered our fair share of successes and failures. As I’ve acquired more of both under my name, I’ve started to contemplate which experiences were truly “great” and why.
+
+**From design patterns to category theory**  
+https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/  
+Design Patterns was a great effort in 1994, and I've personally benefited from it. The catalogue was an attempt to discover good abstractions. What's a good abstraction? As already quoted, it's a model that amplifies the essentials, etcetera. I think a good abstraction should also be intuitive. What's the most intuitive abstractions ever? Mathematics.
+
+**Desktop Neo - Rethinking the desktop interface for productivity**  
+https://desktopneo.com/  
+The desktop computer hasn’t changed much in the last 30 years. It’s still built on windows, folders and mouse input. But we have changed. We now use smartphones and tablets most of the time, since they are much easier to use. The traditional desktop computer is struggling to adapt the simple interfaces of mobile devices while also keeping its focus on productivity. With people switching to mobile devices for mundane tasks, we have the opportunity to rethink the desktop computer with a focus on getting professional work done.
+
+**No Kings: How Do You Make Good Decisions Efficiently in a Flat Organization?**  
+https://doist.com/blog/decision-making-flat-organization/  
+This article started out as an internal conversation on a thread around how our team could learn to ask and give feedback more mindfully. It explores how we can balance making decisions quickly while maintaining our openness to feedback to ensure our decisions are good ones.
+
+**Introducing Matrix 1.0 and the Matrix.org Foundation**  
+https://matrix.org/blog/2019/06/11/introducing-matrix-1-0-and-the-matrix-org-foundation  
+Matrix is an open source project that publishes the [Matrix open standard](https://matrix.org/docs/spec) for secure, decentralised, real-time communication, and its Apache licensed reference implementations. Maintained by the non-profit Matrix.org Foundation, we aim to create an open platform which is as independent, vibrant and evolving as the Web itself... but for communication.
+
+**Always Own Your Platform**  
+http://www.alwaysownyourplatform.com/  
+The original dream of the web is dying. Facebook, Google, Twitter, Medium, and YouTube entice us to give them our creative work. They control what gets amplified and what gets monetized. A few conference rooms in Silicon Valley dictate our online culture. It's time to take it back.
+
+**The Open Source Seed Initiative**  
+https://osseeds.org/  
+Inspired by the free and open source software movement that has provided alternatives to proprietary software, OSSI was created to free the seed – to make sure that the genes in at least some seed can never be locked away from use by intellectual property rights. 
+
 ## 05
 
 **SQLFlow: Motivations and the Design**  

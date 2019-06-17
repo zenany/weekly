@@ -234,6 +234,16 @@ DCI 的架构理念：
 
 OO 衍生出很多概念、模式，有时候不由得让人会想：需要搞这么复杂吗？已经有一些高人跳出来试图简化概念和术语，让大家能用简单一致的语言交流和编写代码。函数式编程也正在渐渐兴起，有很多人更认为这是编程的未来。还是 对编程模式有兴趣的同学可以顺着这个话题去研究：[Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 
+
+### Category theory  
+
+> 待研究和完善
+
+**From design patterns to category theory**  
+https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/  
+Design Patterns was a great effort in 1994, and I've personally benefited from it. The catalogue was an attempt to discover good abstractions. What's a good abstraction? As already quoted, it's a model that amplifies the essentials, etcetera. I think a good abstraction should also be intuitive. What's the most intuitive abstractions ever? Mathematics.
+
+
 ### 优秀文章
 
 **每个架构师都应该研究下康威定律**  
