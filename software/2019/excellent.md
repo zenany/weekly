@@ -3,6 +3,10 @@ Excellent
 
 ## 06
 
+**Serverless is a Doctrine, not a Technology**  
+https://medium.com/@PaulDJohnston/serverless-is-a-doctrine-not-a-technology-4193ccb66cfc  
+Serverless is a doctrine. What is doctrine? For our purposes, a doctrine is a set of principles that you have learned from experience, and codified into some written form e.g. a set of best practices… like my best practices blog post…
+
 **How to Be Great? Just Be Good, Repeatably**  
 https://blog.stephsmith.io/how-to-be-great/  
 Over the years, we’ve all encountered our fair share of successes and failures. As I’ve acquired more of both under my name, I’ve started to contemplate which experiences were truly “great” and why.
