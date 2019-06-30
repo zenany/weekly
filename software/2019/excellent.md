@@ -1,6 +1,16 @@
 Excellent  
 ========  
 
+## 07 
+
+**Svelte • Cybernetically enhanced web apps**  
+https://svelte.dev/  
+Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+
+**Riot.js - Simple and elegant component-based UI library**  
+https://riot.js.org/  
+Riot.js is Web Components for everyone. Think React + Polymer but without the bloat. Its API is heavily inspired by Vue.js but it contains instead just the bare minimum to build a modern frontend project. It’s intuitive to use and it weighs almost nothing. And it works today. No reinventing the wheel, but rather taking the good parts of what’s there and making the simplest tool possible. The Riot.js design was driven by The Zen of Python, by Tim Peters philosophy.
+
 ## 06
 
 **Serverless is a Doctrine, not a Technology**  
