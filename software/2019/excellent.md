@@ -3,6 +3,14 @@ Excellent
 
 ## 07 
 
+**The future of productivity: People and tools that grow together**  
+https://www.microsoft.com/en-us/research/blog/the-future-of-productivity-people-and-tools-that-grow-together/  
+Understanding how people and their tools can grow together to get things done is the goal of this year’s Microsoft Research Faculty Summit: The future of work and the driving force behind the $1 million Microsoft Productivity Research (MPR) RFP, unveiled at the summit today. With this RFP, we’re excited to partner with the academic community in shaping the future of productivity in four key areas: interaction and sensing; machine learning and machine teaching; attention and engagement; and collaboration and human learning.
+
+**frontend design, react, and a bridge over the great divide**  
+http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/  
+“Frontend development” is now so loaded that I quipped that as a frontend designer I live on the “front of the frontend”, while there are plenty of other developers living on the “back of the frontend”. I’d like to lean into that distinction because this great divide is played out in a very real way in JavaScript frameworks like React.
+
 **Svelte • Cybernetically enhanced web apps**  
 https://svelte.dev/  
 Svelte is a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
