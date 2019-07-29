@@ -3,6 +3,10 @@ Excellent
 
 ## 07 
 
+**Mithril.js 2: A JavaScript Framework for Building Brilliant Applications**  
+https://mithril.js.org/  
+Mithril is a modern client-side JavaScript framework for building Single Page Applications. It's small (< 10kb gzip), fast and provides routing and XHR utilities out of the box.
+
 **The future of productivity: People and tools that grow together**  
 https://www.microsoft.com/en-us/research/blog/the-future-of-productivity-people-and-tools-that-grow-together/  
 Understanding how people and their tools can grow together to get things done is the goal of this year’s Microsoft Research Faculty Summit: The future of work and the driving force behind the $1 million Microsoft Productivity Research (MPR) RFP, unveiled at the summit today. With this RFP, we’re excited to partner with the academic community in shaping the future of productivity in four key areas: interaction and sensing; machine learning and machine teaching; attention and engagement; and collaboration and human learning.
