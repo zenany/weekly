@@ -1,7 +1,36 @@
 Excellent  
 ========  
 
+## 08
+
+**What Every Developer Should Learn Early On**  
+https://stackoverflow.blog/2019/08/07/what-every-developer-should-learn-early-on/  
+Languages aren’t necessarily “Good” or “Bad”; Reading Other People’s Code is Hard; You’ll Never Write “Perfect” Code; Working as a Programmer Doesn’t Mean 8 Hours of Programming a Day.
+
+**How to Make Your Open Source Project Successful**  
+https://dmitripavlutin.com/how-to-make-your-open-source-project-successful/  
+I’ve built an open source library vocajs.com that managed to rise to the top trending repositories on GitHub. Along the way, I learned some important principles of how to make a quality open source project. I want to share these ideas:
+- 1. No one cares about your project
+- 2. Solve a real problem
+- 3. Put an accent on quality
+- 4. Excellent README.md and documentation
+- 5. Showcase with demos and screenshots
+- 6. Try building a community
+- 7. Let the world know
+
+**Silk**  
+http://weavesilk.com/  
+Interactive generative art.
+
+**Linux Journal Ceases Publication: An Awkward Goodbye**  
+https://www.linuxjournal.com/  
+On August 7, 2019, Linux Journal shut its doors for good. All staff were laid off and the company is left with no operating funds to continue in any capacity. The website will continue to stay up for the next few weeks, hopefully longer for archival purposes if we can make it happen. 
+
 ## 07 
+
+**Why is modern web development so complicated? A long yet hasty explanation: Part 1!**  
+https://www.vrk.dev/2019/07/11/why-is-modern-web-development-so-complicated-a-long-yet-hasty-explanation-part-1/  
+Recently I’ve been needing to explain “modern web development workflows” to folks who only have a cursory of vanilla web development workflows and…… It is a LOT to explain! Even a hasty explanation ends up being pretty long. So in the effort of writing more of my explanations down, here is the beginning of a long yet hasty explanation of the evolution of web development: Part 1: How we got from static websites to babel.
 
 **Mithril.js 2: A JavaScript Framework for Building Brilliant Applications**  
 https://mithril.js.org/  
