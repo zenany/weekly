@@ -3,6 +3,11 @@ Excellent
 
 ## 08
 
+**Better Software Engineering Debates**  
+https://www.nemil.com/musings/betterdebates.html  
+https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt  
+When I first became a software engineer, I was surprised by the term “religious war” to refer to the angry technical debates that could be had. I wanted to understand what made certain engineering arguments a “religious war” rather than something more consistent with our engineering roots (namely, empiricism and the scientific method). I also became alarmed at the poor engineering choices made after weak technical debates with strong emotions.
+
 **What Every Developer Should Learn Early On**  
 https://stackoverflow.blog/2019/08/07/what-every-developer-should-learn-early-on/  
 Languages aren’t necessarily “Good” or “Bad”; Reading Other People’s Code is Hard; You’ll Never Write “Perfect” Code; Working as a Programmer Doesn’t Mean 8 Hours of Programming a Day.
