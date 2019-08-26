@@ -3,6 +3,10 @@ Excellent
 
 ## 08
 
+**Software Architecture Guide**  
+https://martinfowler.com/architecture/  
+When people in the software industry talk about “architecture”, they refer to a hazily defined notion of the most important aspects of the internal design of a software system. A good architecture is important, otherwise it becomes slower and more expensive to add new capabilities in the future. This page outlines my view of software architecture and points you to more material about architecture on this site.
+
 **Better Software Engineering Debates**  
 https://www.nemil.com/musings/betterdebates.html  
 https://engineering.squarespace.com/blog/2019/three-kinds-of-good-tech-debt  
