@@ -1,6 +1,20 @@
 Excellent  
 ========  
 
+## 09
+
+**Salsify**  
+https://snr.stanford.edu/salsify/  
+Salsify is a new design for real-time Internet video that jointly controls a video codec and a network transport protocol. Current systems (Skype, Facetime, WebRTC) run these components independently, which produces more glitches and stalls when the network is unpredictable. In testing, Salsify consistently outperformed today’s real-time video systems in both quality and delay.
+
+**Please Add RSS Support To Your Site**  
+https://kevq.uk/please-add-rss-support-to-your-site  
+If you own a blog, please make sure it supports RSS.
+
+**Things I Learnt from a Senior Software Engineer**  
+https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html  
+Every day, whenever I came across an interesting situation, I logged it. All thanks to sitting next to a senior software engineer, I could closely observe what they were doing, and how it was different from what I would do. We pair-programmed a lot, which made doing this easier. Further, in my team culture it’s not frowned upon to “snoop behind” people writing code. Whenever I sensed something interesting going on, I’d roll around and watch what was happening. I always had the context, thanks to regular standups. I sat next to a senior software engineer for a year. Here’s what I learnt.
+
 ## 08
 
 **Software Architecture Guide**  
