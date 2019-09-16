@@ -15,6 +15,10 @@ If you own a blog, please make sure it supports RSS.
 https://neilkakkar.com/things-I-learnt-from-a-senior-dev.html  
 Every day, whenever I came across an interesting situation, I logged it. All thanks to sitting next to a senior software engineer, I could closely observe what they were doing, and how it was different from what I would do. We pair-programmed a lot, which made doing this easier. Further, in my team culture it’s not frowned upon to “snoop behind” people writing code. Whenever I sensed something interesting going on, I’d roll around and watch what was happening. I always had the context, thanks to regular standups. I sat next to a senior software engineer for a year. Here’s what I learnt.
 
+**陆奇：要对长期价值保持信心**  
+https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247511505&idx=2&sn=be982757966e83b9737d8dc7c2a63ee3  
+YC中国举办的YC中国创业者见面会上，YC中国创始人及首席执行官、YC全球研究院院长陆奇进行了以“技术驱动创新带来的创业机遇”为主题的精彩分享。创业需要哪些准备？我们为什么要关注科技发展方向？中国机会在哪里？对于这些问题，陆奇给出了他的思考。
+
 ## 08
 
 **Software Architecture Guide**  
