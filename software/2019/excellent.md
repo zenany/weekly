@@ -3,6 +3,10 @@ Excellent
 
 ## 09
 
+**The Power of Community on Reddit**  
+https://redditblog.com/2019/09/20/the-power-of-community-on-reddit/  
+The social media landscape is changing. In an era of distrust and perfectly-polished online personas, tools that are supposed to bring us together are often making us feel more isolated and distant from one another. At Reddit however, we’ve noticed something different. From page views to time spent on our site and apps, over the past year we’ve seen significant growth in user engagement and conversations—demonstrating that users are deepening their relationships with each other and with Reddit communities. Our users are finding more reasons to visit Reddit, more reasons to become active members of our communities, and more reasons to share the ideas they glean with others.
+
 **Salsify**  
 https://snr.stanford.edu/salsify/  
 Salsify is a new design for real-time Internet video that jointly controls a video codec and a network transport protocol. Current systems (Skype, Facetime, WebRTC) run these components independently, which produces more glitches and stalls when the network is unpredictable. In testing, Salsify consistently outperformed today’s real-time video systems in both quality and delay.
@@ -18,6 +22,10 @@ Every day, whenever I came across an interesting situation, I logged it. All tha
 **陆奇：要对长期价值保持信心**  
 https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247511505&idx=2&sn=be982757966e83b9737d8dc7c2a63ee3  
 YC中国举办的YC中国创业者见面会上，YC中国创始人及首席执行官、YC全球研究院院长陆奇进行了以“技术驱动创新带来的创业机遇”为主题的精彩分享。创业需要哪些准备？我们为什么要关注科技发展方向？中国机会在哪里？对于这些问题，陆奇给出了他的思考。
+
+**下一个10年，解决问题靠“大脑”！**  
+https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654637523&idx=2&sn=c32ced384546876f19e50cd95e771edf  
+关于人工智能与人类的关系问题，现在有两个阵营。一方阵营以物理学家霍金、马斯克、孙正义和比尔盖茨为代表，对人工智能是否超越人类保持警惕性。另一方阵营是以计算机领域的很多专家为主，国外的很多实验室主任，还有国内的谭铁牛院土、王飞跃和刘伟老师等，不认同人工智能会全面超越人类。在关于人工智能是否超越人类的争论当中，一种被称之为超级智能的新形式正在悄然兴起。什么意思？就是通过我们对互联网大脑的结构的研究，重新给予了超级智能一个和原来的人工智能领域的超级智能的想法不太一样的定义。那具体是什么，接下来会阐述。
 
 ## 08
 
