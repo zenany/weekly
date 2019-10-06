@@ -27,6 +27,10 @@ YC中国举办的YC中国创业者见面会上，YC中国创始人及首席执�
 https://mp.weixin.qq.com/s?__biz=MzIxNTAzNzU0Ng==&mid=2654637523&idx=2&sn=c32ced384546876f19e50cd95e771edf  
 关于人工智能与人类的关系问题，现在有两个阵营。一方阵营以物理学家霍金、马斯克、孙正义和比尔盖茨为代表，对人工智能是否超越人类保持警惕性。另一方阵营是以计算机领域的很多专家为主，国外的很多实验室主任，还有国内的谭铁牛院土、王飞跃和刘伟老师等，不认同人工智能会全面超越人类。在关于人工智能是否超越人类的争论当中，一种被称之为超级智能的新形式正在悄然兴起。什么意思？就是通过我们对互联网大脑的结构的研究，重新给予了超级智能一个和原来的人工智能领域的超级智能的想法不太一样的定义。那具体是什么，接下来会阐述。
 
+**SA website coding itself live**  
+https://www.strml.net/  
+Hey. My name's Samuel Reed. I'm CTO of BitMEX.com and an occasional freelance contractor. I build interactive websites. How about some live coding? Let's begin. We start by animating... well, everything.
+
 ## 08
 
 **Software Architecture Guide**  
