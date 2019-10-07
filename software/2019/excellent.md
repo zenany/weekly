@@ -1,6 +1,20 @@
 Excellent  
 ========  
 
+## 10
+
+**What are weird and/or novel ways to do web UIs?**  
+https://news.ycombinator.com/item?id=21144228  
+Do you know any websites that have weird UIs ? Something like a [ZUI](https://en.wikipedia.org/wiki/Zooming_user_interface) for example.
+
+**Richard Stallman Has Been Vilified by Those Who Don’t Know Him**  
+https://medium.com/@whoisylvia/richard-stallman-has-been-vilified-by-those-who-dont-know-him-a3907b25b4c7  
+https://geoff.greer.fm/2019/09/30/in-defense-of-richard-stallman/  
+
+**X3DOM**  
+https://www.x3dom.org/  
+Integrate 3D content seamlessly into your webpage - the scene is directly written into the HTML markup. No Plugins needed. Simply include a javascript file. Free for non-commercial and commercial purposes. 另附：[How to Make 3D Charts for the Web Using D3 and X3DOM](https://blog.scottlogic.com/2019/10/03/how-to-make-3d-charts-for-the-web-using-d3-and-x3dom.html)
+
 ## 09
 
 **The Power of Community on Reddit**  
