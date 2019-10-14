@@ -15,6 +15,10 @@ https://geoff.greer.fm/2019/09/30/in-defense-of-richard-stallman/
 https://www.x3dom.org/  
 Integrate 3D content seamlessly into your webpage - the scene is directly written into the HTML markup. No Plugins needed. Simply include a javascript file. Free for non-commercial and commercial purposes. 另附：[How to Make 3D Charts for the Web Using D3 and X3DOM](https://blog.scottlogic.com/2019/10/03/how-to-make-3d-charts-for-the-web-using-d3-and-x3dom.html)
 
+**稻盛和夫：真正塑造人格的并非天资和学历，而是所经历的挫折和苦难**  
+https://mp.weixin.qq.com/s?__biz=MjM5NDg2NjA4MQ==&mid=2650944626&idx=1&sn=a1a3124788c6258412477cd34b8054a4
+人生之路没有像自动扶梯那样的便利工具，只能依靠自己，一步一个脚印地前行。另附：[一种神奇而罕见的能力——“略”](https://mp.weixin.qq.com/s?__biz=MzI5MjMyNjk2Mg==&mid=2247489359&idx=1&sn=b0c489c4dbc12655b3f97fece0cb9d98)，论战略不得不提一下毛主席，绝对是 500 年一遇的雄才大略之人，见 [为什么有的人年纪轻轻，思想深度却远高于常人](https://mp.weixin.qq.com/s?__biz=MzA5NzQ2MjMxMQ==&mid=2705043119&idx=1&sn=968b2bb27bcf05352ee3668d4f50bc7d)。
+
 ## 09
 
 **The Power of Community on Reddit**  
