@@ -3,6 +3,15 @@ Excellent
 
 ## 10
 
+**An Illustrated Guide to Some Useful Command Line Tools**  
+https://www.wezm.net/technical/2019/10/useful-command-line-tools/  
+This post is a living document and will be updated over time. It should be obvious that I have a strong preference for fast tools without a large runtime dependency like Python or node.js. Most of these tools are portable to *BSD, Linux, macOS. Many also work on Windows. For OSes that ship up to date software many are available via the system package repository.
+
+**Quantitative Engineering Design**  
+https://qed.ai/  
+https://www.weibo.com/ttarticle/p/show?id=2309404384955969964567  
+Scientific Computing for Health and Agriculture. QED builds data systems and AI for health and agriculture. Our partners include hospitals, labs, farmers, and factories in Africa and Asia. We help organizations lower costs and scale operations through automation.
+
 **What are weird and/or novel ways to do web UIs?**  
 https://news.ycombinator.com/item?id=21144228  
 Do you know any websites that have weird UIs ? Something like a [ZUI](https://en.wikipedia.org/wiki/Zooming_user_interface) for example.
