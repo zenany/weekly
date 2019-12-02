@@ -1,6 +1,29 @@
 Excellent  
 ========  
 
+## 11  
+
+**A Programmer's Introduction to Mathematics**  
+https://pimbook.org/  
+https://jeremykun.com/2019/12/01/a-good-year-for-a-programmers-introduction-to-mathematics/  
+
+**[译]React过誉了吗？**  
+https://mp.weixin.qq.com/s/15b8jzfeakj5PUAkSBpoaw  
+当我也成长为老一代开发者，看过了那么多项目花开花谢，我再学习新技术时就不会把它们当成已有事物的终极解决方案了，而只会把它们看作是升级更新，并加入到我自己的知识库里。React 本身也不是全新的东西。它只是将 JavaScript、HTML 和 CSS 打包在一起的另一种途径。Angular 刚出来的时候用的也是这种方法，之前的 jQuery 也一样。业界永远都在追捧下一个热点，但最佳方法就是学习如何正确地编写代码，然后把这件事做好即可——因为不管现在的热点是什么框架、库、支架之类花哨的东西，都是无关紧要的。作为开发人员，你的水平取决于你能以多快的速度，凭借良好的编程基础来适应当前的需求和环境。
+
+**心性：架构师的修炼之道**  
+https://mp.weixin.qq.com/s?__biz=MzA5MTAxNDg0OQ==&mid=2247484336&idx=1&sn=9c3f88d10f6ac6d28b21d5b043e65e85  
+怎么成为优秀的架构师？架构师的修炼之道究竟是什么？我的答案是：修心。心性，是架构师区别于一般软件工程师的地方。也是为什么他能够看到那么多人看不到的关键点的原因。架构师成长之旅，是心性修炼之旅。我们需要记得，并不是理解了架构思维的原则，就能够做好架构。架构之道，是虚实结合之道。理论与实践相结合。从实悟虚，从虚就实，运用得当方得升华。架构思维的感悟并不能一步到位，永远有进步的空间，需要我们在不断实践中感悟，升华自己的认知。
+
+**Fibery.io - Yet another collaboration tool**  
+https://fibery.io/  
+https://medium.com/fibery/fibery-getting-started-64bd0839c85a  
+https://news.ycombinator.com/item?id=21643683  
+Platform that adapts and grows with your company:  
+- Build your own workspace: Create connected no-code Apps that adapt and grow with your company.
+- Freedom to work your way: Create your own collaboration tool with no code.
+- Create to connect: Build your own workspace with no code to replace isolated tools and bring everyone together.
+
 ## 10
 
 **An Illustrated Guide to Some Useful Command Line Tools**  
