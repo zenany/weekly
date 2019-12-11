@@ -1,6 +1,16 @@
 Excellent  
 ========  
 
+## 12
+
+**Urbit - Your last computer**  
+https://urbit.org/  
+Imagine that you can login from anywhere with one name and password. And when you do, your entire OS appears. Inside is your whole digital life. All of your communities, conversations, and connections. All of your biometric data and devices. Your entire personal archive in one place that’s secure, private, and designed to last forever. You own and control this OS completely. It’s yours. No one else can look at it without your permission, it can never show you ads. This is what Urbit is. Your Urbit is a simple, durable computer that belongs to you 100% and forever. Urbit is not vaporware. It's real and it works. Two separate companies and a community of contributors are working together to build the Urbit future.
+
+**GNUnet**  
+https://gnunet.org/  
+GNUnet is a new network protocol stack for building secure, distributed, and privacy-preserving applications. With strong roots in academic research, our goal is to replace the old insecure Internet protocol stack. GNUnet is typically run as an overlay network on top of the existing Internet infrastructure forming the basis of a hybrid peer-to-peer mesh and relay backbone for applications to run on. It could just as well be run independently of the Internet, over dedicated radio and cable. GNUnet is made for a free and open society: It's a self-organizing network and it is free software as in
+
 ## 11  
 
 **A Programmer's Introduction to Mathematics**  
@@ -9,6 +19,7 @@ https://jeremykun.com/2019/12/01/a-good-year-for-a-programmers-introduction-to-m
 
 **[译]React过誉了吗？**  
 https://mp.weixin.qq.com/s/15b8jzfeakj5PUAkSBpoaw  
+https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644  
 当我也成长为老一代开发者，看过了那么多项目花开花谢，我再学习新技术时就不会把它们当成已有事物的终极解决方案了，而只会把它们看作是升级更新，并加入到我自己的知识库里。React 本身也不是全新的东西。它只是将 JavaScript、HTML 和 CSS 打包在一起的另一种途径。Angular 刚出来的时候用的也是这种方法，之前的 jQuery 也一样。业界永远都在追捧下一个热点，但最佳方法就是学习如何正确地编写代码，然后把这件事做好即可——因为不管现在的热点是什么框架、库、支架之类花哨的东西，都是无关紧要的。作为开发人员，你的水平取决于你能以多快的速度，凭借良好的编程基础来适应当前的需求和环境。
 
 **心性：架构师的修炼之道**  
