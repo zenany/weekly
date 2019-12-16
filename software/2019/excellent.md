@@ -3,6 +3,37 @@ Excellent
 
 ## 12
 
+**Contract for the Web - A global plan of action to make our online world safe and empowering for everyone**  
+https://contractfortheweb.org/  
+https://webfoundation.org/2019/12/i-invented-the-world-wide-web-heres-how-we-can-fix-it/  
+The Web was designed to bring people together and make knowledge freely available. It has changed the world for good and improved the lives of billions. Yet, many people are still unable to access its benefits and, for others, the Web comes with too many unacceptable costs. Everyone has a role to play in safeguarding the future of the Web. The Contract for the Web was created by representatives from over 80 organizations, representing governments, companies and civil society, and sets out commitments to guide digital policy agendas. To achieve the Contract’s goals, governments, companies, civil society and individuals must commit to sustained policy development, advocacy, and implementation of the Contract text.
+
+**Develop, Debug, Learn? A time to re-think our tooling**  
+https://christianheilmann.com/2019/12/12/develop-debug-learn-a-time-to-re-think-our-tooling/  
+I don’t have all the answers we seek to make development a simpler task. But I think we are well on the way. With an open mind, open ears and open source we can fix a lot of the things that both tire us and make our market appear less appealing. People are worried about automation and computers taking their jobs. They also are worried about large tech companies ruling the world without opening the doors to people who haven’t got the same education and experience as the ones working in them. By changing our tools to be more all-encompassing and making our accumulated knowledge part of the development process we make a good start to changing that. And we make it easier for the next generation of developers to focus on delivery, not on knowing all about the toolchain.
+
+**DoltHub**  
+https://www.dolthub.com/  
+Dolt and DoltHub let users collaborate on databases in the same way they collaborate on source code. Dolt is a relational database combined with the version control concepts of Git. DoltHub provides a central place to store and share data in Dolt format. Dolt is Git for data. Git versions files.
+
+**Challenging projects every programmer should try**  
+http://web.eecs.utk.edu/~azh/blog/challengingprojects.html  
+I talk to a lot of students and professional developers that often want to start a side project, but aren't sure what to build. Below is a handful of software projects that taught me a lot. In fact, they're great because you could build them multiple times and learn new things each time. So whenever I don't know what to build or I want to learn a new programming language or framework, I start with one of these:
+- Text editor
+- 2D game - Space Invaders
+- Compiler - Tiny BASIC
+- Mini operating system
+- Spreadsheet (hard!)
+- Video game console emulator (hard!)
+
+**The Product-Minded Software Engineer**  
+https://blog.pragmaticengineer.com/the-product-minded-engineer/  
+Product-minded engineers are developers with lots of interest in the product itself. They want to understand why decisions are made, how people use the product, and love to be involved in making product decisions. They're someone who would likely make a good product manager if they ever decide to give up the joy of engineering. I've worked with many great product-minded engineers and consider myself to be this kind of developer. At companies building world-class products, product-minded engineers take teams to a new level of impact.
+
+**Instadeq - Data Analysis and Visualization for Everyone**  
+https://instadeq.com/  
+Data analysis, visualization and collaboration for individuals and teams. 
+
 **Urbit - Your last computer**  
 https://urbit.org/  
 Imagine that you can login from anywhere with one name and password. And when you do, your entire OS appears. Inside is your whole digital life. All of your communities, conversations, and connections. All of your biometric data and devices. Your entire personal archive in one place that’s secure, private, and designed to last forever. You own and control this OS completely. It’s yours. No one else can look at it without your permission, it can never show you ads. This is what Urbit is. Your Urbit is a simple, durable computer that belongs to you 100% and forever. Urbit is not vaporware. It's real and it works. Two separate companies and a community of contributors are working together to build the Urbit future.
