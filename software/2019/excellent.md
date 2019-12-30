@@ -3,6 +3,10 @@ Excellent
 
 ## 12
 
+**This Page is Designed to Last - A Manifesto for Preserving Content on the Web**  
+https://jeffhuang.com/designed_to_last/  
+My proposal is seven unconventional guidelines in how we handle websites designed to be informative, to make them easy to maintain and preserve. The guiding intention is that the maintainer will try to keep the website up for at least 10 years, maybe even 20 or 30 years. These are not controversial views necessarily, but are aspirations that are not mainstream—a manifesto for a long-lasting website.
+
 **Contract for the Web - A global plan of action to make our online world safe and empowering for everyone**  
 https://contractfortheweb.org/  
 https://webfoundation.org/2019/12/i-invented-the-world-wide-web-heres-how-we-can-fix-it/  
@@ -33,6 +37,11 @@ Product-minded engineers are developers with lots of interest in the product its
 **Instadeq - Data Analysis and Visualization for Everyone**  
 https://instadeq.com/  
 Data analysis, visualization and collaboration for individuals and teams. 
+
+**Metabase**  
+https://www.metabase.com/  
+https://sspai.com/post/58074  
+Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
 **Urbit - Your last computer**  
 https://urbit.org/  
