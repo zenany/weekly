@@ -1,6 +1,10 @@
 Excellent  
 ========  
 
+
+**Are there any openly available software architecture documents?**  
+https://news.ycombinator.com/item?id=22011743  
+
 **Good times create weak men**  
 https://tonsky.me/blog/good-times-weak-men/  
 In [Software Disenchantment](https://tonsky.me/blog/disenchantment/) we’ve seen how software has degraded in the past two decades. Recently Jonathan Blow gave a talk where he explained why it might be happening. In programming, we are developing abstractions at an alarming rate. When enough of those are stacked, it becomes impossible to figure out or control what’s going on down the stack. This is where my contribution begins: I believe I have found some pretty vivid examples of how the ladder of abstractions has started to fall and nobody can do anything about it now because we all are used to work only at the very tip of it.
