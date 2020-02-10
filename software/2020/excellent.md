@@ -1,6 +1,22 @@
 Excellent  
 ========  
 
+## 202002
+
+**Old CSS, new CSS**  
+https://eev.ee/blog/2020/02/01/old-css-new-css/  
+I first got into web design/development in the late 90s, and only as I type this sentence do I realize how long ago that was. And boy, it was horrendous. I mean, being able to make stuff and put it online where other people could see it was pretty slick, but we did not have very much to work with. I’ve been taking for granted that most folks doing web stuff still remember those days, or at least the decade that followed, but I think that assumption might be a wee bit out of date. Some time ago I encountered a tweet marvelling at what we had to do without border-radius. I still remember waiting with bated breath for it to be unprefixed! But then, I suspect I also know a number of folks who only tried web design in the old days, and assume nothing about it has changed since. I’m here to tell all of you to get off my lawn. Here’s a history of CSS and web design, as I remember it.
+
+**Things I Believe About Software Engineering**  
+https://blog.wesleyac.com/posts/engineering-beliefs  
+Inspired by [Jan Stette's "Things I Believe" post](https://gist.github.com/stettix/5bb2d99e50fdbbd15dd9622837d14e2b), I decided to write down some of the more contentious beliefs I have about software engineering. I've selected some of my more extreme opinions here, so I expect reasonable people to disagree with me. 
+
+**What is SAP**  
+https://retool.com/  
+https://retool.com/blog/erp-for-engineers/  
+ERP is where companies store their core operational data. We’re talking about sales projections, purchase orders, and inventory, as well as the processes that act upon that data (e.g. paying out vendors when a purchase order is issued). In a sense, ERP is the “brain” of a company — it stores all important pieces of data and all of the actions possible in data-driven workflows. But before taking over the modern business world, how did ERP software get started? The story of ERP begins with major automation efforts of the 1960s: while the 1940s and 50s were focused on mechanical automation of blue collar work — think General Motors establishing their automation department in 1947 — the automation of white collar work (often via the computer!) began in the 1960s.
+
+## 202001
 
 **Today, the Trident Era Ends**  
 https://schepp.dev/posts/today-the-trident-era-ends/  
