@@ -1,6 +1,16 @@
 Excellent  
 ========  
 
+## 202003
+
+**Please stop recommending Git Flow!**  
+https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/  
+Git-flow is a branching and merging methodology popularized by this blog post, entitled “A Successful Git branching model”. In the last ten years, countless teams have been snookered by the headline and dare I say lied to. If you read the blog post, the author claims they successfully introduced it in their projects, but purposefully doesn’t talk about the project details that made it successful. The end, right? Well, not quite. I can tell a few of you are unconvinced by this line of reasoning, so let’s dig deeper into why the gitflow branching model should die in a fire.
+
+**The History of the URL**  
+https://blog.cloudflare.com/the-history-of-the-url/  
+In the world of web applications, it can be a little odd to think of the basis for the web being the hyperlink. It is a method of linking one document to another, which was gradually augmented with styling, code execution, sessions, authentication, and ultimately became the social shared computing experience so many 70s researchers were trying (and failing) to create. Ultimately, the conclusion is just as true for any project or startup today as it was then: all that matters is adoption. If you can get people to use it, however slipshod it might be, they will help you craft it into what they need. The corollary is, of course, no one is using it, it doesn’t matter how technically sound it might be. There are countless tools which millions of hours of work went into which precisely no one uses today.
+
 ## 202002
 
 **Towards Goal-Centric Design**  
