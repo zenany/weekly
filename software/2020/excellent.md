@@ -11,6 +11,10 @@ Git-flow is a branching and merging methodology popularized by this blog post, e
 https://blog.cloudflare.com/the-history-of-the-url/  
 In the world of web applications, it can be a little odd to think of the basis for the web being the hyperlink. It is a method of linking one document to another, which was gradually augmented with styling, code execution, sessions, authentication, and ultimately became the social shared computing experience so many 70s researchers were trying (and failing) to create. Ultimately, the conclusion is just as true for any project or startup today as it was then: all that matters is adoption. If you can get people to use it, however slipshod it might be, they will help you craft it into what they need. The corollary is, of course, no one is using it, it doesn’t matter how technically sound it might be. There are countless tools which millions of hours of work went into which precisely no one uses today.
 
+**The Life of a Data Byte**  
+https://blog.jessfraz.com/post/the-life-of-a-data-byte/  
+In this issue we move from URLs to mere bytes. This is a fun trip through time of various storage technologies and how bits and bytes have formed our storage world.
+
 ## 202002
 
 **Towards Goal-Centric Design**  
