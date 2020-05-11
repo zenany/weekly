@@ -1,6 +1,33 @@
 Excellent  
 ========  
 
+## 202005  
+
+**Complexity Has to Live Somewhere**  
+https://ferd.ca/complexity-has-to-live-somewhere.html  
+https://ethanmarcotte.com/wrote/gardened/  
+Fighting complexity is a recurring theme of software development I've seen repeat itself over and over again. It's something I keep seeing debated at all levels: just how much commenting should go on in functions and methods? What's the ideal amount of abstraction? When does a framework start having "too much magic"? When are there too many languages in an organisation? We try to get rid of the complexity, control it, and seek simplicity. I think framing things that way is misguided. Complexity has to live somewhere.
+
+**Software Folklore**  
+http://beza1e1.tuxen.de/lore/index.html  
+Sometimes bugs have symptoms beyond belief. This is a collection of such stories from around the web.
+
+## 202004
+
+**The Cost of Javascript Frameworks**  
+https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/  
+https://ethanmarcotte.com/wrote/gardened/  
+There is no faster (pun intended) way to slow down a site than to use a bunch of JavaScript. The thing about JavaScript is you end up paying a performance tax no less than four times:  
+- The cost of downloading the file on the network  
+- The cost of parsing and compiling the uncompressed file once downloaded  
+- The cost of executing the JavaScript  
+- The memory cost  
+
+**Userscripts Are Fun And Are Still Very Much Relevant**  
+https://dutzi.party/userscripts-are-fun/  
+https://github.com/dutzi/userscripts/  
+A userscript is a script that usually helps make the web a better place. Want to use J and K keys to scroll through the new Facebook UI? There’s a userscript for that! Need that YouTube video on your drive? Guess what? You can!
+
 ## 202003
 
 **Please stop recommending Git Flow!**  
