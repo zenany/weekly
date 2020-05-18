@@ -12,6 +12,31 @@ Fighting complexity is a recurring theme of software development I've seen repea
 http://beza1e1.tuxen.de/lore/index.html  
 Sometimes bugs have symptoms beyond belief. This is a collection of such stories from around the web.
 
+**Driving engineers to an arbitrary date is a value destroying mistake**  
+https://iism.org/article/driving-engineers-to-an-arbitrary-date-is-a-value-destroying-mistake-49  
+In this article we'll be concentrating on high value software projects and why driving engineers to create detailed estimates for these projects, and then pressuring them to complete the software according to those estimates, is a value destroying mistake.
+
+**Rebuilding our tech stack for the new Facebook.com**  
+https://engineering.fb.com/web/facebook-redesign/  
+译文 https://www.yuque.com/docs/share/6aee9dd5-da3f-462b-b4bd-caec0ec6f60e  
+When we thought about how we would build a new web app — one designed for today’s browsers, with the features people expect from Facebook — we realized that our existing tech stack wasn’t able to support the app-like feel and performance we needed. A complete rewrite is extremely rare, but in this case, since so much has changed on the web over the course of the past decade, we knew it was the only way we’d be able to achieve our goals for performance and sustainable future growth. Today, we’re sharing the lessons we’ve learned while rearchitecting Facebook.com, using React (a declarative JavaScript library for building user interfaces) and Relay (a GraphQL client for React).
+
+**Code Principles Every Programmer Should Follow**  
+https://blog.bitsrc.io/code-principles-every-programmer-should-follow-e01bfe976daf  
+YAGNI, Law of Demeter, Single Responsibility and other useful principles for better coding.
+
+**前端开发的瓶颈与未来之路**  
+https://zhuanlan.zhihu.com/p/139731168  
+前端开发的瓶颈到底在哪里，前端技术是否已经走到一个十字路口，全栈化的系统架构是否能改变目前的窘境？本文将根据我自己的开发经历谈谈当下前端开发中遇到的一些问题和想法。我们再回到前端，那么未来的前端到底会发展成什么样？长期而言充满了未知数，谁也没法预测，但是短期来讲我比较关注几个东西：ESBuild、Deno、Figma。如果你仔细研究一番，上面的这些新鲜东西，都是起源于前端，但又不把视野局限在前端。或许这就是前端未来的发展方向吧。
+
+**Second-guessing the modern web**  
+https://macwright.org/2020/05/10/spa-fatigue.html  
+There is a sweet spot of React: in moderately interactive interfaces. Complex forms that require immediate feedback, UIs that need to move around and react instantly. That’s where it excels. I helped build the editors in Mapbox Studio and Observable and for the most part, React was a great choice. But there’s a lot on either side of that sweet spot. The high performance parts aren’t React.
+
+**It’s Time to Get Back Into RSS**  
+https://danielmiessler.com/blog/its-time-to-get-back-into-rss/  
+We all mourned when Reader died and took RSS with it, but it's time to return to what made it great. A lot of people who were on the internet in the early 2000’s remember something called RSS. It stands for really simple syndication, and it allowed content creators to publish updates to the world in a well-understood format. The idea—which seems strange to type out—is that millions of people in the world could create and publish ideas, thoughts, and content…and then people who enjoyed that content would collect sources into a reader, which was called, well, an RSS Reader.
+
 ## 202004
 
 **The Cost of Javascript Frameworks**  
