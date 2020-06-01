@@ -31,6 +31,9 @@ https://zhuanlan.zhihu.com/p/139731168
 
 **Second-guessing the modern web**  
 https://macwright.org/2020/05/10/spa-fatigue.html  
+https://twitter.com/dan_abramov/status/1259614150386425858  
+https://dev.to/richharris/in-defense-of-the-modern-web-2nia  
+https://css-tricks.com/the-modern-web/  
 There is a sweet spot of React: in moderately interactive interfaces. Complex forms that require immediate feedback, UIs that need to move around and react instantly. That’s where it excels. I helped build the editors in Mapbox Studio and Observable and for the most part, React was a great choice. But there’s a lot on either side of that sweet spot. The high performance parts aren’t React.
 
 **It’s Time to Get Back Into RSS**  
