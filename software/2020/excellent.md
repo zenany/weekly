@@ -1,6 +1,12 @@
 Excellent  
 ========  
 
+## 202006
+
+**htmlx - high power tools for HTML**  
+https://htmx.org/  
+htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext. htmx is small (~7k min.gz'd), dependency-free, extendable & IE11 compatible
+
 ## 202005  
 
 **Complexity Has to Live Somewhere**  
