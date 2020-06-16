@@ -7,7 +7,15 @@ Excellent
 https://htmx.org/  
 htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext. htmx is small (~7k min.gz'd), dependency-free, extendable & IE11 compatible
 
+**After 10 Years in Tech Isolation, I’m Now Outsider to Things I Once Had Mastered**  
+https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/  
+For me, I stepped out into an uncertain future. I don’t really see meaningful human interaction anymore. I see a society that is impossibly distracted by likes and selfies, smartphones, and similar technologies, and I often find it frustrating to find my place in the midst of this new interconnected world simply because I was not there to naturally evolve with it. I was somewhere outside of time, on the other side of the looking glass. Waiting. Counting fractions of what felt like forever, for when I would be released back into society again. Only to discover a world I do not know.
+
 ## 202005  
+
+**The Need for Speed, 23 Years Later**  
+https://www.nngroup.com/articles/the-need-for-speed/  
+Summary: In spite of an increase in Internet speed, webpage speeds have not improved over time. 另附：[What's New in Lighthouse 6.0](https://web.dev/lighthouse-whats-new-6.0/), New metrics, Performance score update, new audits, and more.
 
 **Complexity Has to Live Somewhere**  
 https://ferd.ca/complexity-has-to-live-somewhere.html  
