@@ -7,11 +7,25 @@ Excellent
 https://htmx.org/  
 htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext. htmx is small (~7k min.gz'd), dependency-free, extendable & IE11 compatible
 
+**The rise of embarrassingly parallel serverless compute**  
+https://davidwells.io/blog/rise-of-embarrassingly-parallel-serverless-compute  
+We’ve entered an era of the [serverless supercomputer](https://read.acloud.guru/https-medium-com-timawagner-the-serverless-supercomputer-555e93bbfa08?gi=383c4d481749). A world where embarrassingly parallel compute is not only possible but accessible to everyone.
+
 **After 10 Years in Tech Isolation, I’m Now Outsider to Things I Once Had Mastered**  
 https://forklog.media/after-10-years-in-tech-isolation-im-now-outsider-to-things-i-once-had-mastered/  
 For me, I stepped out into an uncertain future. I don’t really see meaningful human interaction anymore. I see a society that is impossibly distracted by likes and selfies, smartphones, and similar technologies, and I often find it frustrating to find my place in the midst of this new interconnected world simply because I was not there to naturally evolve with it. I was somewhere outside of time, on the other side of the looking glass. Waiting. Counting fractions of what felt like forever, for when I would be released back into society again. Only to discover a world I do not know.
 
+**The Web We Lost: Volume One**  
+http://www.zeldman.com/2020/05/29/the-web-we-lost-volume-one/  
+Flash 兴衰史 https://www.ifanr.com/1271718
+Idon’t miss Flash but I sure miss this level of creativity and experimentation on the web. As today’s “The Web We’ve Lost” exercise for designers, please take a look back at Matt Owens’s historic Volume One project—outstanding design work Matt created in Flash during the 1990s and early 2000s, now memorialized in screenshots.
+
+**On Coding, Ego and Attention**  
+https://josebrowne.com/on-coding-ego-and-attention/  
+My thoughts on coding, ego and attention. How I learned to get out of my own way by learning about this link between ego and attention.
+
 ## 202005  
+
 
 **The Need for Speed, 23 Years Later**  
 https://www.nngroup.com/articles/the-need-for-speed/  
