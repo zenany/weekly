@@ -3,6 +3,10 @@ Excellent
 
 ## 202006
 
+**What is Developer Experience (DX)?**  
+https://css-tricks.com/what-is-developer-experience-dx/  
+Developer Experience¹ is a term² with a self-declaring meaning — the experience of developers — but it eludes definition in the sense that people invoke it at different times for different reasons referring to different things. For instance, our own Sarah Drasner’s current job title is “VP of Developer Experience” at Netlify, so it’s a very real thing. But a job title is just one way the term is used. Let’s dig in a bit and apply it to the different ways people think about and use the term.
+
 **htmlx - high power tools for HTML**  
 https://htmx.org/  
 htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes, so you can build modern user interfaces with the simplicity and power of hypertext. htmx is small (~7k min.gz'd), dependency-free, extendable & IE11 compatible
