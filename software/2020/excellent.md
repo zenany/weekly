@@ -1,6 +1,20 @@
 Excellent  
 ========  
 
+## 202007 
+
+**Unit Testing is Overrated**  
+https://tyrrrz.me/blog/unit-testing-is-overrated  
+Unit testing is a popular approach for testing software, but mostly for the wrong reasons. It’s often touted as an effective way for developers to test their code while also enforcing best design practices, however many find it encumbering and superficial. It’s important to understand that development testing does not equate to unit testing. The primary goal is not to write tests which are as isolated as possible, but rather to gain confidence that the code works according to its functional requirements. And there are better ways to achieve that. Writing high-level tests that are driven by user behavior will provide you with much higher return on investment in the long run, and it isn’t as hard as it seems. Find an approach that makes the most sense for your project and stick to it.
+
+**Always bet on HTML – being misunderstood**  
+https://christianheilmann.com/2020/07/06/always-bet-on-html-being-misunderstood/  
+That said, to me the argument of HTML vs. JavaScript is boring and we’ve spent years running in circles around it. The job we have now is to battle some of the old prejudices against HTML with facts and good examples. Not by telling people off for relying on JavaScript. Often the best way is to ask why they chose to do that. If there is a lack of education or HTML knowledge, we can follow up with good resources. I’m pretty sure the image of the “I don’t care about end users, the only thing I care about is developer convenience” code-Bro isn’t as common as we think it is.
+
+**Just Too Efficient**  
+https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient  
+Bruce is pointing out that overoptimizing efficiency doesn’t just burn people out, it also too often requires cutting into what you later realize were prudent safety margins. It’s hard to think of a position more radical than being “against efficiency”. And I’m not. Efficiency is a good, and like most good things, has to be bought somehow, and paid for. There is a point where the price is too high, and we’ve passed it.
+
 ## 202006
 
 **What is Developer Experience (DX)?**  
