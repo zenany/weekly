@@ -3,6 +3,10 @@ Excellent
 
 ## 202007 
 
+**The Future Vision of Microsoft 365**  
+https://medium.com/microsoft-design/m365future-815cf30a8be  
+On designing experiences that encompass your wellbeing.
+
 **Unit Testing is Overrated**  
 https://tyrrrz.me/blog/unit-testing-is-overrated  
 Unit testing is a popular approach for testing software, but mostly for the wrong reasons. It’s often touted as an effective way for developers to test their code while also enforcing best design practices, however many find it encumbering and superficial. It’s important to understand that development testing does not equate to unit testing. The primary goal is not to write tests which are as isolated as possible, but rather to gain confidence that the code works according to its functional requirements. And there are better ways to achieve that. Writing high-level tests that are driven by user behavior will provide you with much higher return on investment in the long run, and it isn’t as hard as it seems. Find an approach that makes the most sense for your project and stick to it.
