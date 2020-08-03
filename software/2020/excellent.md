@@ -3,6 +3,10 @@ Excellent
 
 ## 202007 
 
+**Dark Ages of the Web**  
+https://pavellaptev.github.io/web-dark-ages/  
+The year 1994 when all began and the great era when the web we know today was born. It was the time when developers and designers only learn how to do web, collect and create a web experience from scratch - before landing pages, burger menu, Z and F-Pattern, adaptive design, flat design, eCommerce, functional animation and micro-interactions… Let's watch what we used in the past Web…
+
 **The Future Vision of Microsoft 365**  
 https://medium.com/microsoft-design/m365future-815cf30a8be  
 On designing experiences that encompass your wellbeing.
@@ -39,7 +43,8 @@ For me, I stepped out into an uncertain future. I don’t really see meaningful 
 
 **The Web We Lost: Volume One**  
 http://www.zeldman.com/2020/05/29/the-web-we-lost-volume-one/  
-Flash 兴衰史 https://www.ifanr.com/1271718
+Flash 兴衰史 https://www.ifanr.com/1271718  
+How Flash games shaped the video game industry https://www.flashgamehistory.com/  
 Idon’t miss Flash but I sure miss this level of creativity and experimentation on the web. As today’s “The Web We’ve Lost” exercise for designers, please take a look back at Matt Owens’s historic Volume One project—outstanding design work Matt created in Flash during the 1990s and early 2000s, now memorialized in screenshots.
 
 **On Coding, Ego and Attention**  
