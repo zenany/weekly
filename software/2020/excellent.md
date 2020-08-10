@@ -1,6 +1,14 @@
 Excellent  
 ========  
 
+## 202008
+
+**Godot Engine - Free and open source 2D and 3D game engine**  
+https://godotengine.org/  
+https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b  
+https://news.ycombinator.com/item?id=24043427  
+Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. Godot is completely free and open-source under the very permissive MIT license. No strings attached, no royalties, nothing. Your game is yours, down to the last line of engine code
+
 ## 202007 
 
 **Dark Ages of the Web**  
@@ -53,9 +61,9 @@ My thoughts on coding, ego and attention. How I learned to get out of my own way
 
 ## 202005  
 
-
 **The Need for Speed, 23 Years Later**  
 https://www.nngroup.com/articles/the-need-for-speed/  
+https://news.ycombinator.com/item?id=24050980  
 Summary: In spite of an increase in Internet speed, webpage speeds have not improved over time. 另附：[What's New in Lighthouse 6.0](https://web.dev/lighthouse-whats-new-6.0/), New metrics, Performance score update, new audits, and more.
 
 **Complexity Has to Live Somewhere**  
