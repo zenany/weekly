@@ -3,6 +3,19 @@ Excellent
 
 ## 202008
 
+**Web History — Chapter 1: Birth**  
+https://css-tricks.com/chapter-1-birth/  
+Information is the web’s core function. A series of bytes stream across the world and at the end of it is knowledge. The mechanism for this transfer — what we know as the web — was created by the intersection of two things. The first is the Internet, the technology that makes it all possible. The second is hypertext, the concept that grounds its use. They were brought together by Sir Tim Berners-Lee. And when he was done he did something truly spectacular. He gave it away to everyone to use for free.
+
+**Flume - Extract business logic into JSON graphs**  
+https://flume.dev/  
+Build apps that are resilient to changing requirements by modeling your business logic as a JSON graph. Flume provides a sleek UI for creating and editing these graphs. Flume provides a blazing fast engine for running your logic in a browser, on your server, or in any Javascript environment. Not using a node server? Your logic graphs can also be used in any environment that supports JSON.
+
+**We Can Do Better Than SQL**  
+https://edgedb.com/blog/we-can-do-better-than-sql/  
+https://news.ycombinator.com/item?id=24106608  
+The questions we often hear are “Why create a new query language?” and “What’s wrong with SQL?”. This post contains answers to both. Before we begin, let’s overview some of the history of how the relational model came to be, and how SQL was created.
+
 **Godot Engine - Free and open source 2D and 3D game engine**  
 https://godotengine.org/  
 https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applications-b1cfb941df3b  
