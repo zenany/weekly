@@ -3,6 +3,11 @@ Excellent
 
 ## 202008
 
+**Build tools around workflows, not workflows around tools**  
+https://thesephist.com/posts/tools/  
+https://news.ycombinator.com/item?id=24244329  
+Search for tools that view the world and your work the way your mind does, and prefer tools that can grow with you over time, the way that works best for you. I think it’s in this kind of a harmonious symbiosis between our tools and our minds that we can do great work and imagine our best futures.
+
 **Web History — Chapter 1: Birth**  
 https://css-tricks.com/chapter-1-birth/  
 Information is the web’s core function. A series of bytes stream across the world and at the end of it is knowledge. The mechanism for this transfer — what we know as the web — was created by the intersection of two things. The first is the Internet, the technology that makes it all possible. The second is hypertext, the concept that grounds its use. They were brought together by Sir Tim Berners-Lee. And when he was done he did something truly spectacular. He gave it away to everyone to use for free.
