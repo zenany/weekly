@@ -27,6 +27,11 @@ https://medium.com/swlh/what-makes-godot-engine-great-for-advance-gui-applicatio
 https://news.ycombinator.com/item?id=24043427  
 Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel. Godot is completely free and open-source under the very permissive MIT license. No strings attached, no royalties, nothing. Your game is yours, down to the last line of engine code
 
+**A clean start for the web**  
+https://macwright.com/2020/08/22/clean-starts-for-the-web.html  
+https://macwright.com/2020/09/01/recently.html  
+The web is in need of some reinvention right now. The web’s evolution over the last decade has mirrored the American economy. All of the essential indicators are going “up and to the right,” a steady stream of fundamental advances reassure use that there “is progress,” but the actual experience and effects for individuals stagnates or regresses. The crisis affects platforms, creators, and consumers alike.
+
 ## 202007 
 
 **Dark Ages of the Web**  
