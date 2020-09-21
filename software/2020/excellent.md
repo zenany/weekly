@@ -1,6 +1,16 @@
 Excellent  
 ========  
 
+## 202009  
+
+**Tools should not only be for experts – they should turn us into them**  
+https://christianheilmann.com/2020/09/15/tools-should-not-only-be-for-experts-they-should-turn-us-into-them/  
+I think it is high time we moved away from the concept of “tools for experts” towards one of “using this tool over time makes you an expert”. To put it in other words: Our tools should never make people feel “too stupid” to use them or wonder why some features are even there. As an example, let’s take a look at the developer tools bundled with browsers these days. These are excellent. It is wonderful to have all you need to build and test your web products in the tool you use to surf the web. Releated: [Tools should not only be for experts – they should turn us into them](https://christianheilmann.com/2020/09/15/tools-should-not-only-be-for-experts-they-should-turn-us-into-them/).
+
+**Disrespectful Design—Users aren’t stupid or lazy**  
+https://somehowmanage.com/2020/09/13/disrespectful-design-users-arent-stupid-or-lazy/  
+It’s a common narrative in tech to design products with the assumption that users are stupid and lazy. I think that is both disrespectful and wrong. The idea is rooted in a lot of research around product usability, but it has been bastardized. Thing of it as a perversion of the Don’t Make Me Think thesis.
+
 ## 202008
 
 **Build tools around workflows, not workflows around tools**  
