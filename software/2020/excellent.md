@@ -1,6 +1,20 @@
 Excellent  
 ========  
 
+## 202010
+
+**The Developer Experience Gap**  
+https://redmonk.com/sogrady/2020/10/06/developer-experience-gap/  
+If there is and can be no Apple-equivalent enterprise vendor arriving to make sure the enterprise telephone app team plays nicely with the enterprise music player team, what progress can be expected? It’s early, and the next few quarters should provide hints at who has accurately identified the depth of the problem and taken steps to address it. In the meantime, here are five adjectives that will describe the next generation of developer experience: Comprehensive, Developer Native, Elegant, Multi-Runtime, Multi-Vendor.
+
+**Good sleep, good learning, good life**  
+https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life  
+This e-book attempts to produce a synthesis of what is known about sleep with a view to practical applications, esp. in people who need top-quality sleep for their learning or creative achievements. Neurophysiology of sleep is an explosively growing branch of science. Many theories that are currently contested will soon be forgotten as a result of new findings.
+
+**The Widening Responsibility for Front-End Developers**  
+https://css-tricks.com/the-widening-responsibility-for-front-end-developers/  
+Front-end development is at the intersection of art and logic. A cross of business and expression. Both left and right brain. A cocktail of design and nerdery. I love it.
+
 ## 202009  
 
 **Tools should not only be for experts – they should turn us into them**  
