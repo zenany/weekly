@@ -3,6 +3,18 @@ Excellent
 
 ## 202010
 
+**The Tyranny of Metrics**  
+https://nemethgergely.com/blog/the-tyranny-of-metrics  
+There seems to be a growing trend in technology--and in all aspects of our lives, really--to measure everything: business outcomes, organizational success, and individual performance. I wrote about engineering productivity and how I disagree with measuring individual performance based on metrics before, so I was excited to start reading [The Tyranny of Metrics](https://nemethgergely.com/blog/the-tyranny-of-metrics) by Jerry Z. Muller. In the book, Muller draws on both Campbell and Goodhart's expertise, then provides more insights on metrics fixation and the detrimental effects they have on our everyday life. Sometimes, the best metric is no metric.
+
+**Svelte for Sites, React for Apps**  
+https://www.swyx.io/svelte-sites-react-apps/  
+Why we should stop trying to use the same tool for different jobs. In 2020, my personal recommendation to web developers is to use Svelte for Sites, and React for Apps. This is, remarkably, a nuanced enough opinion that it pisses off fans of either of them.
+
+**Writing JavaScript tools in other languages – a new trend?**  
+https://2ality.com/2020/10/js-plus-other-languages.html  
+Recently, we have seen an uptick of JavaScript tools being written in languages other than JavaScript. This blog post lists a few examples and explains the appeal of not using JavaScript. Releated: [Rust meets the web - a clash of programming paradigms](https://www.jakobmeier.ch/blogging/Rust_on_the_Web.html).
+
 **The Developer Experience Gap**  
 https://redmonk.com/sogrady/2020/10/06/developer-experience-gap/  
 If there is and can be no Apple-equivalent enterprise vendor arriving to make sure the enterprise telephone app team plays nicely with the enterprise music player team, what progress can be expected? It’s early, and the next few quarters should provide hints at who has accurately identified the depth of the problem and taken steps to address it. In the meantime, here are five adjectives that will describe the next generation of developer experience: Comprehensive, Developer Native, Elegant, Multi-Runtime, Multi-Vendor.
