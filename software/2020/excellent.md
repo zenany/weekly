@@ -1,6 +1,17 @@
 Excellent  
 ========  
 
+## 202011
+
+**If not SPAs, What?**  
+https://macwright.com/2020/10/28/if-not-spas.html  
+A few months ago, I wrote an article about [how the SPA pattern has failed to simplify web development](https://macwright.com/2020/05/10/spa-fatigue.html). The SPA pattern (Single-Page Apps), I tried to define, was about the React model, which also covers, to a large extent, the model of Vue, Angular, and other frontend frameworks. Like any critique, it begs for a prescription and I didn’t give one, other than gesturing toward server-side frameworks like Rails and Django. But I think there are some trends starting to form. I had queued up some time to really dive into the frameworks, but things like walking in parks have taken priority, so here’s just a grand tour. If you’re not a fan of the SPA approach, what else can you do? Turns out there are numerous modern alternatives from [Stimulus](https://stimulusjs.org/) to [RedwoodJS](https://redwoodjs.com/).
+
+**Think and Develop Serverless Applications as ‘Set-Pieces’**  
+https://medium.com/lego-engineering/think-and-develop-serverless-applications-as-set-pieces-4fa36d79ac3f  
+Visualize your serverless applications as a collection of set-pieces. Serverless gives us functional and granular level service features. By utilizing these unique characteristics, we can easily shift our thinking from a coarse-grained microservice to fine-grained serverless services. When you start your serverless development, free your mind to go beyond the tradition to bring fresh ideas. New technology requires new thinking. If serverless gives you wings, then make full use of them and accelerate your cloud journey to enter new territories.
+Go Build Serverless!
+
 ## 202010
 
 **The Tyranny of Metrics**  
