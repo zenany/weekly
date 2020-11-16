@@ -12,6 +12,11 @@ https://medium.com/lego-engineering/think-and-develop-serverless-applications-as
 Visualize your serverless applications as a collection of set-pieces. Serverless gives us functional and granular level service features. By utilizing these unique characteristics, we can easily shift our thinking from a coarse-grained microservice to fine-grained serverless services. When you start your serverless development, free your mind to go beyond the tradition to bring fresh ideas. New technology requires new thinking. If serverless gives you wings, then make full use of them and accelerate your cloud journey to enter new territories.
 Go Build Serverless!
 
+**Software development: should we stop? Maybe we should**  
+https://news.ycombinator.com/item?id=25044031  
+http://blog.spencermounta.in/2020/should-we-stop/index.html  
+Software is not impossible. it hasn't begun yet, though. Software doesn't work right now, and today, *making more software* is not a solution.
+
 ## 202010
 
 **The Tyranny of Metrics**  
