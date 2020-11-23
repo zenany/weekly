@@ -3,6 +3,10 @@ Excellent
 
 ## 202011
 
+**Beyond the Database, and Beyond the Stream Processor: What's the Next Step for Data Management?**  
+https://www.infoq.com/articles/whats-the-next-step-for-data-management/  
+As companies become more automated, and their business processes become more automated, we end up with many applications talking to one another. This is a humongous shift in system design as it’s about doing the work in a fully automated fashion by machines. We need to rethink what a database is, what it means to us, and how we interact with both the data it contains and the event streams that connect it all together.
+
 **If not SPAs, What?**  
 https://macwright.com/2020/10/28/if-not-spas.html  
 A few months ago, I wrote an article about [how the SPA pattern has failed to simplify web development](https://macwright.com/2020/05/10/spa-fatigue.html). The SPA pattern (Single-Page Apps), I tried to define, was about the React model, which also covers, to a large extent, the model of Vue, Angular, and other frontend frameworks. Like any critique, it begs for a prescription and I didn’t give one, other than gesturing toward server-side frameworks like Rails and Django. But I think there are some trends starting to form. I had queued up some time to really dive into the frameworks, but things like walking in parks have taken priority, so here’s just a grand tour. If you’re not a fan of the SPA approach, what else can you do? Turns out there are numerous modern alternatives from [Stimulus](https://stimulusjs.org/) to [RedwoodJS](https://redwoodjs.com/).
