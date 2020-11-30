@@ -3,6 +3,18 @@ Excellent
 
 ## 202011
 
+**FrontPage: The Good, The Bad, and The Ugly**  
+https://invisibleup.com//articles/33/  
+We need a new FrontPage. A FrontPage that uses HTML5 and CSS3 and modern JavaScript and cool PHP stuff. A FrontPage that follows modern design principles like semantic HTML and powerful CSS styling. A FrontPage that is totally open, totally not a pawn in world domination schemes, totally not locked down to one greedy vendor, and totally not abandoned. A FrontPage that outputs usable, sensical, and simple HTML and CSS. A FrontPage that integrates with version control software like Git and planning programs like KPlan and communications programs like email or IRC to allow planned, meaningful collaboration. A FrontPage that lets people write and share useful and versatile WebBots like people do WordPress plugins today. (Probably using JavaScript instead of custom server-side plugins, though.) In summary, we need a FrontPage that lets the incredibly talented common folk retake the internet with creativity and originality. Because as nice as Facebook and Twitter are, let's face it, we all kind of miss the old days of lovably terrible hand-crafted sites.
+
+**Flash Animations Live Forever at the Internet Archive**  
+http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/  
+Great news for everyone concerned about the Flash end of life planned for end of 2020: The Internet Archive is now emulating Flash animations, games and toys in our software collection. Utilizing an in-development Flash emulator called [Ruffle](https://ruffle.rs/), we have added Flash support to the Internet Archive’s Emularity system, letting a subset of Flash items play in the browser as if you had a Flash plugin installed. While Ruffle’s compatibility with Flash is less than 100%, it will play a very large portion of historical Flash animation in the browser, at both a smooth and accurate rate.
+
+**The Tech Stack of a One-Man SaaS**  
+https://panelbear.com/blog/tech-stack/  
+Being an engineer at heart, each time I see a company write about their tech stack, I brew a fresh cup of coffee, sit back and enjoy reading the newfound little treat. A couple of months ago I started working on yet another private analytics service, a project which has gone through numerous iterations, and I feel lucky that 400+ websites have already integrated with it, even though it's still in the early stages. That’s why, in the same spirit as Jake Lazaroff’s Tools and Services I Use to Run My SaaS, I thought it’s now my turn to do a short write up of the technologies I’m using to run this new service.
+
 **Beyond the Database, and Beyond the Stream Processor: What's the Next Step for Data Management?**  
 https://www.infoq.com/articles/whats-the-next-step-for-data-management/  
 As companies become more automated, and their business processes become more automated, we end up with many applications talking to one another. This is a humongous shift in system design as it’s about doing the work in a fully automated fashion by machines. We need to rethink what a database is, what it means to us, and how we interact with both the data it contains and the event streams that connect it all together.
