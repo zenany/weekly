@@ -1,6 +1,21 @@
 Excellent  
 ========  
 
+## 202002 
+
+**The web is something different**  
+https://daverupert.com/2021/02/the-web-is-something-different/  
+To be clear, I hate the “The web is for documents” take as much as I hate the “I build web apps, not websites” take as much as the “The web is a compile target” take as much as I hate the “The web has to compete with native apps” take. Those takes always seem to end up as some kind of scaffolding for a pissing contest, an attempt to denigrate someone else’s line of work.
+
+**Complexity Explained**  
+https://complexityexplained.github.io/
+Complexity science, also called complex systems science, studies how a large collection of components – locally interacting with each other at small scales – can spontaneously self-organize to exhibit non-trivial global structures and behaviors at larger scales, often without external intervention, central authorities or leaders. The properties of the collection may not be understood or predicted from the full knowledge of its constituents alone. Such a collection is called a complex system and it requires new mathematical frameworks and scientific methodologies for its investigation. Releated: [ARCHITECTURE.md](https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html).
+
+**How to hire senior developers: Give them more autonomy**  
+https://hiringengineersbook.com/post/autonomy/  
+https://news.ycombinator.com/item?id=26027448  
+If we agree with Naur’s assessment of programming, what follows is that the value of a high tech company is inseparably interwoven with the development team, and the model of the problem domain in their heads. What this means, in essence: The main value of a software company is the mapping of source code and problem space in the developer’s heads. This conclusion has important consequences for many aspects of a software company, but especially for management, hiring and overall culture.
+
 ## 202101
 
 **Maximizing Developer Effectiveness**  
