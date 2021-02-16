@@ -3,9 +3,17 @@ Excellent
 
 ## 202002 
 
+**What Saul Bass Can Teach Us About Web Design**  
+https://www.smashingmagazine.com/2021/02/saul-bass-teach-web-design/  
+Film credits, brand logos, posters… Saul Bass did it all, and the principles that informed his work are just as valuable now as they were 50 years ago.
+
+**Organic, Homegrown HTML**  
+https://atthis.link/blog/2021/html.html  
+Despite increasing leniency on frameworks being the only way to build for the web1, hand-written HTML never disappeared and I feel is still a perfectly suitable way to build a personal website.
+
 **The web is something different**  
 https://daverupert.com/2021/02/the-web-is-something-different/  
-To be clear, I hate the “The web is for documents” take as much as I hate the “I build web apps, not websites” take as much as the “The web is a compile target” take as much as I hate the “The web has to compete with native apps” take. Those takes always seem to end up as some kind of scaffolding for a pissing contest, an attempt to denigrate someone else’s line of work.
+To be clear, I hate the “The web is for documents” take as much as I hate the “I build web apps, not websites” take as much as the “The web is a compile target” take as much as I hate the “The web has to compete with native apps” take. Those takes always seem to end up as some kind of scaffolding for a pissing contest, an attempt to denigrate someone else’s line of work. Releated: [Front-End Dissatisfaction (and Backing Off)](https://css-tricks.com/front-end-dissatisfaction-and-backing-off/).  
 
 **Complexity Explained**  
 https://complexityexplained.github.io/
