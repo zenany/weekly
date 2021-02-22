@@ -1,13 +1,17 @@
-weekly
+Weekly
 ======
 
 汇总平时看到优质文章和资源，技术、产品、管理均有，尽可能一周一篇。  
 同时分门别类收录前端研发相关的 javascript、css、php、python、管理等方面的高质量文章、类库。  
 欢迎大家在 [resources](resources) 中补充优质资源。  
 
+太忙时会忘了提交 Github，欢迎关注语雀知识库： https://www.yuque.com/awesome/fe_weekly 并补充在个人账户设置中补充邮箱，这样就可以第一时间可看到 Weekly。
+
 
 ## Weekly 汇总
 
+- 2020年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2020> 
+- 2019年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2019> 
 - 2018年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2018> 
 - 2017年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2017>  
 - 2016年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2016>  
@@ -17,6 +21,7 @@ weekly
 ## 学习资源
 
 - [Software Architecture Design](resources/software_architecture.md)
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## 业界知名 Weekly
 
@@ -43,8 +48,10 @@ Architects look at thousands of buildings during their training, and study criti
 
 ### 职业规划
 
+- [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)  
 - [迄今为止见过最好的职业规划](http://www.360doc.com/content/13/0512/16/3125585_284829243.shtml)  
 - [寒门再难出贵子](http://www.mtyyw.com/7013/)  
+- [寒门难贵，豪门难败](https://mp.weixin.qq.com/s/89d42mC3RBKAHuoSCX6rEA)
 
 ## 优质网站
 

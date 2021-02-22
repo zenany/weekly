@@ -1,0 +1,76 @@
+ref: http://phrack.org/  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+       _________ _____________________  __________________________
+       \_   ___ \\_   _____/\______   \ \______   \______  \   _  \
+       /    \  \/ |    __)   |     ___/  |     ___/   /    /  /_\  \
+       \     \____|     \    |    |      |    |      /    /\  \_/   \
+        \______  /\___  /    |____|      |____|     /____/  \_____  /
+               \/     \/                                          \/
+
+                       ____
+                    _.' :  `._
+                .-.'`.  ;   .'`.-.
+       __      / : ___\ ;  /___ ; \      __    Release, we did. We know,
+     ,'_ ""--.:__;".-.";: :".-.":__;.--"" _`,   it's been a while. But we
+     :' `.t""--.. '<@.`;_  ',@>` ..--""j.' `;   are back with a new
+          `:-.._J '-.-'L__ `-- ' L_..-;'        release for you! Now before
+            "-.__ ;  .-"  "-.  : __.-"          clicking on the issues link
+                L ' /.------.\ ' J              above because you can't
+                 "-.   "--"   .-"               wait, please read this :)
+                __.l"-:_JL_;-";.__
+             .-j/'.;  ;""""  / .'\"-.           This is the official CFP
+           .' /:`. "-.:     .-" .';  `.         for P70. Phrack is an
+        .-"  / ;  "-. "-..-" .-"  :    "-.      underground zine, from
+     .+"-.  : :      "-.__.-"      ;-._   \     hackers for hackers.
+     ; \  `.; ;                    : : "+. ;    Therefore, we depend on
+     :  ;   ; ;                    : ;  : \:    your contributions.
+     ;  :   ; :                    ;:   ;  :
+    : \  ;  :  ;                  : ;  /  ::    You probably already know
+    ;  ; :   ; :                  ;   :   ;:    the rules:
+    :  :  ;  :  ;                : :  ;  : ;    + 7-bit ASCII
+    ;\    :   ; :                ; ;     ; ;    + English language
+    : `."-;   :  ;              :  ;    /  ;    + DO USE OUR PGP KEY BELOW
+     ;    -:   ; :              ;  : .-"   :    + AND DO INCLUDE THE
+     :\     \  :  ;            : \.-"      :      ANTISPAM KEYWORD
+      ;`.    \  ; :            ;.'_..--  / ;
+      :  "-.  "-:  ;          :/."      .'  :   Any subject could be
+       \         \ :          ;/  __        :   eligible. Please get in
+        \       .-`.\        /t-""  ":-+.   :   touch with us in case of
+         `.  .-"    `l    __/ /`. :  ; ; \  ;   questions.
+           \   .-" .-"-.-"  .' .'j \  /   ;/
+            \ / .-"   /.     .'.' ;_:'    ;
+             :-""-.`./-.'     /    `.___.'
+                   \ `t  ._  /
+                    "-.t-._:'
+
+We have lost our patience after p69. Any doc or rtf philez sent as
+submission will be immediately dropped on pastebin, text only please and
+for vim users (:set textwidth=75).
+
+As you probably know, the release time of your submissions does not depend
+on other submissions. In other words: if you want a fast release of your
+tech paper, we can totally include it in the paper feed (if it's good
+enough, haha).
+
+Since the introduction of the paper feed feature, your submission has four
+possible outcomes:
+
+    1. The article is accepted, it can be published in the paper feed if 
+       you want. Congratz.
+
+    2. The article is accepted, but will be published in the final release.
+       If you decide to contribute to PWN or linenoise (lul), this will be
+       the case. Nice one.
+
+    3. The article is not *yet* suitable for PHRACK but nonetheless would
+       be with additional work. A Phrack Staff reviewer is assigned to help
+       you to improve your paper. After improving it, it will be included 
+       in the paper feed or in the final magazine.
+
+    4. The article is rejected. Please "back your article" and submit to
+       Hakin9 ;>
+
+You will be notified via email of to the outcome of your submission
+shortly after the close of this CFP. Exceptionally good submissions may
+still be accepted _after_ the end of the CFP.

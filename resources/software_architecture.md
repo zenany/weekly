@@ -234,6 +234,26 @@ DCI 的架构理念：
 
 OO 衍生出很多概念、模式，有时候不由得让人会想：需要搞这么复杂吗？已经有一些高人跳出来试图简化概念和术语，让大家能用简单一致的语言交流和编写代码。函数式编程也正在渐渐兴起，有很多人更认为这是编程的未来。还是 对编程模式有兴趣的同学可以顺着这个话题去研究：[Programming Paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 
+### ECS
+
+[Entity–component–system (ECS)](https://en.wikipedia.org/wiki/Entity_component_system) is an architectural pattern that is mostly used in game development. ECS follows the composition over inheritance principle that allows greater flexibility in defining entities where every object in a game's scene is an entity (e.g. enemies, bullets, vehicles, etc.). Every entity consists of one or more components which contains data or state. Therefore, the behavior of an entity can be changed at runtime by systems that add, remove or mutate components. This eliminates the ambiguity problems of deep and wide inheritance hierarchies that are difficult to understand, maintain and extend. Common ECS approaches are highly compatible and often combined with data-oriented design techniques.
+
+游戏领域的经典模型，相关的还有这本经典之作： [Table of Contents · Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html).
+
+相关资料：  
+- [Entities, components and systems](https://medium.com/ingeniouslysimple/entities-components-and-systems-89c31464240d)
+- [游戏开发中的ECS 架构概述](https://zhuanlan.zhihu.com/p/30538626)
+- [非正经ECS实现方案](https://github.com/lixianmin/writer/blob/master/design/04%20%E9%9D%9E%E6%AD%A3%E7%BB%8FECS%E5%AE%9E%E7%8E%B0%E6%96%B9%E6%A1%88.md)
+
+### Category theory  
+
+> 待研究和完善
+
+**From design patterns to category theory**  
+https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/  
+Design Patterns was a great effort in 1994, and I've personally benefited from it. The catalogue was an attempt to discover good abstractions. What's a good abstraction? As already quoted, it's a model that amplifies the essentials, etcetera. I think a good abstraction should also be intuitive. What's the most intuitive abstractions ever? Mathematics.
+
+
 ### 优秀文章
 
 **每个架构师都应该研究下康威定律**  

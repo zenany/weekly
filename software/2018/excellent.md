@@ -1,5 +1,9 @@
 经典之作  
-========  
+======== 
+
+**A Look at the Design of Lua**  
+https://cacm.acm.org/magazines/2018/11/232214-a-look-at-the-design-of-lua/fulltext  
+Though mainly a procedural language, Lua lends itself to several other paradigms, including object-oriented programming, functional programming, and data-driven programming.5 It also offers good support for data description, in the style of JavaScript and JSON. Data description was indeed one of our main motivations for creating Lua, some years before the appearance of XML and JavaScript. 另附：[A Philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html). 
 
 **The Ultimate Guide to JavaScript Frameworks**  
 https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/  
@@ -23,7 +27,7 @@ Only after we master the ability to materialize things from the air, utilize qua
 
 **It'S Time For An Rss Revival**  
 https://www.wired.com/story/rss-readers-feedly-inoreader-old-reader/  
-THE MODERN WEB contains no shortage of horrors, from ubiquitous ad trackers to all-consuming platforms to YouTube comments, generally. Unfortunately, there's no panacea for what ails this internet we've built. But anyone weary of black-box algorithms controlling what you see online at least has a respite, one that's been there all along but has often gone ignored. Tired of Twitter? Facebook fatigued? It's time to head back to RSS. 另附：[RSS is undead](https://techcrunch.com/2018/04/07/rss-is-undead/)、[Now Is The Perfect Time For An RSS Renaissance](https://neflabs.com/blog/rss-renaissance/)、[Winds 2.0: It’s Time to Revive RSS](https://getstream.io/blog/winds-2-0-its-time-to-revive-rss/).
+THE MODERN WEB contains no shortage of horrors, from ubiquitous ad trackers to all-consuming platforms to YouTube comments, generally. Unfortunately, there's no panacea for what ails this internet we've built. But anyone weary of black-box algorithms controlling what you see online at least has a respite, one that's been there all along but has often gone ignored. Tired of Twitter? Facebook fatigued? It's time to head back to RSS. 另附：[RSS is undead](https://techcrunch.com/2018/04/07/rss-is-undead/)、[Now Is The Perfect Time For An RSS Renaissance](https://neflabs.com/blog/rss-renaissance/)、[Winds 2.0: It’s Time to Revive RSS](https://getstream.io/blog/winds-2-0-its-time-to-revive-rss/)、[The Rise and Demise of RSS](https://twobithistory.org/2018/09/16/the-rise-and-demise-of-rss.html)、[RSS Is Better Than Twitter](https://gizmodo.com/rss-is-better-than-twitter-1833624929).
 
 **What Will Programming Look Like In The Future?***  
 http://highscalability.com/blog/2018/4/25/update-what-will-programming-look-like-in-the-future.html
