@@ -3,6 +3,10 @@ Excellent
 
 ## 202022
 
+**The web didn't change; you did**  
+https://remysharp.com/2021/02/11/the-web-didnt-change-you-did  
+The web really didn't change. It really didn't become complex. The web development process is not one single path. There is simply more choice and more options. We, you and I, the developers, consumers and businesses are responsible for demanding more complicated (and more thorough) tools. We are not, however, beholden to complexity.
+
 **Painting With the Web**  
 https://matthiasott.com/notes/painting-with-the-web  
 There are a lot of amazing new technologies just around the corner. CSS Houdini with the Paint API, for example, or various other Web APIs like the WebXR Device API for creating augmented or virtual reality experiences or the Web Speech API to design voice user interfaces. If we want to explore and create amazing things with those new technologies, we need to be able to have that creative dialogue with the materials in front of us. And in most cases, this means: We need to work directly in the browser. We need to paint with code.
