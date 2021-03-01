@@ -3,6 +3,10 @@ Excellent
 
 ## 202022
 
+**Introducing Hummingbard**  
+https://hummingbard.com/hummingbard/introducing-hummingbard  
+Hummingbard is an experiment in building communities on top of Matrix. Hummingbard has social elements like user profiles, posts, communities, sharing and so on. It is intended to be more than just a decentralized link aggregator or a microblogging platform.
+
 **The web didn't change; you did**  
 https://remysharp.com/2021/02/11/the-web-didnt-change-you-did  
 The web really didn't change. It really didn't become complex. The web development process is not one single path. There is simply more choice and more options. We, you and I, the developers, consumers and businesses are responsible for demanding more complicated (and more thorough) tools. We are not, however, beholden to complexity.
