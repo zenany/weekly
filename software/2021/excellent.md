@@ -1,7 +1,13 @@
 Excellent  
 ========  
 
-## 202002 
+## 202104
+
+**软件幻灭**  
+https://zhuanlan.zhihu.com/p/100662403  
+我们今天所在的地方是糟糕的。作为工程师，我们有能力也应该做得更好。我们应该有更好的工具，我们应该构建更好的应用，更快，更可预测，更可靠，资源消耗更低（低几个数量级！）。我们应该深入理解我们在做什么以及为什么要做。我们可靠、可预测、最高质量的交付。我们有能力也应该为我们的工作感到自豪。我们不应该只是“交付我们已有的。。。“，没有但是！Releated: [I can only think that modern front end development has failed](https://twitter.com/antirez/status/1378272801522597888) 及相关讨论： https://news.ycombinator.com/item?id=26689239 
+
+## 202102 
 
 **What Saul Bass Can Teach Us About Web Design**  
 https://www.smashingmagazine.com/2021/02/saul-bass-teach-web-design/  
