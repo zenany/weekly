@@ -5,7 +5,15 @@ Excellent
 
 **软件幻灭**  
 https://zhuanlan.zhihu.com/p/100662403  
-我们今天所在的地方是糟糕的。作为工程师，我们有能力也应该做得更好。我们应该有更好的工具，我们应该构建更好的应用，更快，更可预测，更可靠，资源消耗更低（低几个数量级！）。我们应该深入理解我们在做什么以及为什么要做。我们可靠、可预测、最高质量的交付。我们有能力也应该为我们的工作感到自豪。我们不应该只是“交付我们已有的。。。“，没有但是！Releated: [I can only think that modern front end development has failed](https://twitter.com/antirez/status/1378272801522597888) 及相关讨论： https://news.ycombinator.com/item?id=26689239 
+我们今天所在的地方是糟糕的。作为工程师，我们有能力也应该做得更好。我们应该有更好的工具，我们应该构建更好的应用，更快，更可预测，更可靠，资源消耗更低（低几个数量级！）。我们应该深入理解我们在做什么以及为什么要做。我们可靠、可预测、最高质量的交付。我们有能力也应该为我们的工作感到自豪。我们不应该只是“交付我们已有的。。。“，没有但是！Releated: [Surprisingly Slow](https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/), [I can only think that modern front end development has failed](https://twitter.com/antirez/status/1378272801522597888) 及相关讨论： https://news.ycombinator.com/item?id=26689239 
+
+**语义化表达 —— 构建类型优先的交互体系**  
+https://www.yuque.com/xufei-coder/code/fhoks9  
+近几年，随着 TypeScript 的逐步流行，类型系统逐渐被前端这个群体重视起来，也逐渐在一些组件库中被深度采用。但是，我们可以发现，如果从使用类型系统的几个层级去划分：类型不友好，类型友好，类型优先。几乎所有组件库都处于前两个层级，并未达到类型优先的程度。那么，什么是类型优先，它有什么好处，本文尝试结合一些具体案例，给出说明。
+
+**CSS is a Strongly Typed Language**  
+https://css-tricks.com/css-is-a-strongly-typed-language/  
+[CSS is a declarative, domain-specific programming language](https://notlaura.com/css-is-a-programming-language/). It is also strongly typed. For the most part, values in CSS stay declared as authored. If a value is invalid the browser throws the entire property away.
 
 ## 202102 
 
