@@ -1,6 +1,14 @@
 Excellent  
 ========  
 
+## 202106
+
+**Why we need to stop using React**  
+https://sredmond.medium.com/why-we-need-to-stop-using-react-1ae3ec7959a4  
+Before we even get started I can already hear you pounding away at your keyboards writing your angry response. I would ask that you read my full explanation before going off at me in the comments. I really want to emphasize that I’m not trying to attack you personally because you use React or like React. However, what I am trying to say is that I think that React leaves a lot to be desired. What I want to do is explore the pain points and detail why I think React is an overall flawed library. Releated: [Why We Should Throw Out React and Pick Up Angular](https://javascript.plainenglish.io/throw-out-react-and-pick-up-angular-8b578bb7cabc).
+
+## 202105
+
 ## 202104
 
 **软件幻灭**  
