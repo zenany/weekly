@@ -1,11 +1,26 @@
 Excellent  
 ========  
 
+## 怀旧篇
+
+**The 88x31 GIF Collection: Part 1**  
+http://cyber.dabamos.de/88x31/  
+A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and today in GIF format. I try to update this page regularly. Feel free to copy buttons to your website, but avoid hot-linking if possible.
+
 ## 202106
 
 **Why we need to stop using React**  
 https://sredmond.medium.com/why-we-need-to-stop-using-react-1ae3ec7959a4  
 Before we even get started I can already hear you pounding away at your keyboards writing your angry response. I would ask that you read my full explanation before going off at me in the comments. I really want to emphasize that I’m not trying to attack you personally because you use React or like React. However, what I am trying to say is that I think that React leaves a lot to be desired. What I want to do is explore the pain points and detail why I think React is an overall flawed library. Releated: [Why We Should Throw Out React and Pick Up Angular](https://javascript.plainenglish.io/throw-out-react-and-pick-up-angular-8b578bb7cabc).
+
+**The web we choose to build**  
+https://uxdesign.cc/the-web-we-choose-to-build-e921510e3f1b  
+Principles for user-centred front-end development
+
+**I miss the old internet**  
+https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/  
+https://news.ycombinator.com/item?id=27491537  
+Is it just me or is today's internet boring and overly commercialized? I feel like today's internet is like a modern mall, sterile and boring with just main-brand clothing stores, a food court, and not a lot else. Whereas I feel like the old internet was more like an exciting urban playground. First off, yes, I know that the old internet was dial-up and you could get kicked off if someone picked up the phone. I also know it was much slower. I lived through it. I was in middle school when my dad got the internet in the mid 1990s, probably about 1995-96?
 
 ## 202105
 
