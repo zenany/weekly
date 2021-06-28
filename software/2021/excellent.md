@@ -9,6 +9,10 @@ A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and toda
 
 ## 202106
 
+**React Ruined Web Development**  
+https://medium.com/building-productive/react-ruined-web-development-dd65342a833f  
+You can try to convince me that React isn’t that bad, and I will absolutely agree with you! 😄 But instead, let’s debate about the more important topics — the work that we actually do as software engineers. 
+
 **Why we need to stop using React**  
 https://sredmond.medium.com/why-we-need-to-stop-using-react-1ae3ec7959a4  
 Before we even get started I can already hear you pounding away at your keyboards writing your angry response. I would ask that you read my full explanation before going off at me in the comments. I really want to emphasize that I’m not trying to attack you personally because you use React or like React. However, what I am trying to say is that I think that React leaves a lot to be desired. What I want to do is explore the pain points and detail why I think React is an overall flawed library. Releated: [Why We Should Throw Out React and Pick Up Angular](https://javascript.plainenglish.io/throw-out-react-and-pick-up-angular-8b578bb7cabc).
@@ -21,6 +25,10 @@ Principles for user-centred front-end development
 https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/  
 https://news.ycombinator.com/item?id=27491537  
 Is it just me or is today's internet boring and overly commercialized? I feel like today's internet is like a modern mall, sterile and boring with just main-brand clothing stores, a food court, and not a lot else. Whereas I feel like the old internet was more like an exciting urban playground. First off, yes, I know that the old internet was dial-up and you could get kicked off if someone picked up the phone. I also know it was much slower. I lived through it. I was in middle school when my dad got the internet in the mid 1990s, probably about 1995-96?
+
+**如何从书法篆刻里学设计？让AGI高手何佳兴来教你！**  
+https://www.uisdc.com/hejiaxing  
+篆刻与书法，这都是我上大学前想都没想过的事情，何佳兴说：其实我大学主修书法与篆刻纯属意外。高中我了解过广告设计，考大学时则想攻读西画，因为西画与设计在感觉上比较贴合。事与愿违，因为分数不够，被分到国画组，但在学习篆隶草行楷等各类字体的过程中，慢慢发现了其中的乐趣所在。书法以线条表现，写字的状态很吸引人，篆刻也是。我觉得艺术创作是可以跨领域互相移植的，我也认为把我学过的书法和当代艺术的逻辑移植到设计上，就会许多交叉运用的可能性。
 
 ## 202105
 
