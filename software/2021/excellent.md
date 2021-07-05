@@ -7,6 +7,16 @@ Excellent
 http://cyber.dabamos.de/88x31/  
 A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and today in GIF format. I try to update this page regularly. Feel free to copy buttons to your website, but avoid hot-linking if possible.
 
+## 202107
+
+**Write code that is easy to delete, not easy to extend**  
+https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems  
+Every line of code written comes at a price: maintenance. To avoid paying for a lot of code, we build reusable software. The problem with code re-use is that it gets in the way of changing your mind later on.
+
+**Estimating Software Projects**  
+https://jacobian.org/series/estimation/  
+One major “secret” to advancing in a technical career is learning how to give accurate estimates. It certainly has been for me: I don’t shy away from giving timelines, and I’ve learned how to be right often enough that folks trust my estimates.
+
 ## 202106
 
 **React Ruined Web Development**  
@@ -29,6 +39,10 @@ Is it just me or is today's internet boring and overly commercialized? I feel li
 **如何从书法篆刻里学设计？让AGI高手何佳兴来教你！**  
 https://www.uisdc.com/hejiaxing  
 篆刻与书法，这都是我上大学前想都没想过的事情，何佳兴说：其实我大学主修书法与篆刻纯属意外。高中我了解过广告设计，考大学时则想攻读西画，因为西画与设计在感觉上比较贴合。事与愿违，因为分数不够，被分到国画组，但在学习篆隶草行楷等各类字体的过程中，慢慢发现了其中的乐趣所在。书法以线条表现，写字的状态很吸引人，篆刻也是。我觉得艺术创作是可以跨领域互相移植的，我也认为把我学过的书法和当代艺术的逻辑移植到设计上，就会许多交叉运用的可能性。
+
+**做出高大上的书法字排版**  
+https://www.uisdc.com/calligraphy-typesetting  
+书法艺术是中华民族文化的精髓，是最具民族特色的设计元素之一。经过历史的锤炼，中国的文字至今仍充盈着旺盛生命力和独具一格的艺术魅力。书法艺术的恰当运用，会给人以极高的审美境界，它的感染力是美术字所不能替代的。一些优秀的设计师把书法艺术融汇到现代设计中，这样的设计主题突出，视觉冲击力强，更容易引起消费者的关注。
 
 ## 202105
 
