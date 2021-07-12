@@ -17,6 +17,11 @@ Every line of code written comes at a price: maintenance. To avoid paying for a 
 https://jacobian.org/series/estimation/  
 One major “secret” to advancing in a technical career is learning how to give accurate estimates. It certainly has been for me: I don’t shy away from giving timelines, and I’ve learned how to be right often enough that folks trust my estimates.
 
+**Data Structure Visualizations**  
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html  
+The best way to understand complex data structures is to see them in action. We've developed interactive animations for a variety of data structures and algorithms. Our visualization tool is written in javascript using the HTML5 canvas element, and run in just about any modern browser -- including iOS devices like the iPhone and iPad, and even the web browser in the Kindle! (The frame rate is low enough in the Kindle that the visualizations aren't terribly useful, but the tree-based visualizations -- BSTs and AVL Trees -- seem to work well enough). Check the Algorithms menu for all of the latest javascript implementations.
+
+
 ## 202106
 
 **React Ruined Web Development**  
