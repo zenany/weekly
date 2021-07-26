@@ -13,6 +13,10 @@ A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and toda
 https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems  
 Every line of code written comes at a price: maintenance. To avoid paying for a lot of code, we build reusable software. The problem with code re-use is that it gets in the way of changing your mind later on.
 
+**Software Engineering Principles**  
+https://principles.dev/  
+Software Engineering principles to make teams better. For leaders who don't want to spend their time micro-managing. Principles.dev exists to make software engineering better for everyone. By capturing the best principles from the best in the world at what they do. And to organise and share that knowledge, freely.
+
 **Estimating Software Projects**  
 https://jacobian.org/series/estimation/  
 One major “secret” to advancing in a technical career is learning how to give accurate estimates. It certainly has been for me: I don’t shy away from giving timelines, and I’ve learned how to be right often enough that folks trust my estimates.
@@ -21,6 +25,13 @@ One major “secret” to advancing in a technical career is learning how to giv
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html  
 The best way to understand complex data structures is to see them in action. We've developed interactive animations for a variety of data structures and algorithms. Our visualization tool is written in javascript using the HTML5 canvas element, and run in just about any modern browser -- including iOS devices like the iPhone and iPad, and even the web browser in the Kindle! (The frame rate is low enough in the Kindle that the visualizations aren't terribly useful, but the tree-based visualizations -- BSTs and AVL Trees -- seem to work well enough). Check the Algorithms menu for all of the latest javascript implementations.
 
+**The Future Of The Web**  
+https://www.hazem.cool/blog/the-future-of-the-web  
+The web will be the final OS, all connected, forever evolving. There will come a time when somebody points to their computer device and they'll not point to their laptop, or their phone, or their glasses, or even their microwave, they'll point to the sky and say "it's somewhere...everywhere
+
+**Extract Product Lines**  
+https://martinfowler.com/articles/patterns-legacy-displacement/extract-product-lines.html  
+Identify and separate systems by product line.
 
 ## 202106
 
