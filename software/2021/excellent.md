@@ -7,6 +7,20 @@ Excellent
 http://cyber.dabamos.de/88x31/  
 A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and today in GIF format. I try to update this page regularly. Feel free to copy buttons to your website, but avoid hot-linking if possible.
 
+## 202108
+
+**Explore our planet’s most unique places and cultures**  
+https://blog.google/outreach-initiatives/arts-culture/explore-our-planets-most-unique-places-and-cultures/  
+For World Photography Day, we invite you to explore A World of Difference, a new online exhibition on Google Arts & Culture offering a perspective of these diverse stories through the lens of Italian photographer Angelo Chiacchio, in collaboration with Art Works for Change. Follow him on his solo journey around the world to capture some of the most fragile landscapes and cultures.
+
+**Breaking the web forward**  
+https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html  
+Safari is holding back the web. It is the new IE, after all. In contrast, Chrome is pushing the web forward so hard that it’s starting to break. Meanwhile web developers do nothing except moan and complain. The only thing left to do is to pick our poison.
+
+**Explore our planet’s most unique places and cultures**  
+https://blog.google/outreach-initiatives/arts-culture/explore-our-planets-most-unique-places-and-cultures/  
+For World Photography Day, we invite you to explore A World of Difference, a new online exhibition on Google Arts & Culture offering a perspective of these diverse stories through the lens of Italian photographer Angelo Chiacchio, in collaboration with Art Works for Change. Follow him on his solo journey around the world to capture some of the most fragile landscapes and cultures.
+
 ## 202107
 
 **Write code that is easy to delete, not easy to extend**  
