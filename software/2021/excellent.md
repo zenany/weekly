@@ -7,7 +7,12 @@ Excellent
 http://cyber.dabamos.de/88x31/  
 A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and today in GIF format. I try to update this page regularly. Feel free to copy buttons to your website, but avoid hot-linking if possible.
 
+
 ## 202108
+
+**On the Link Between Great Thinking and Obsessive Walking**  
+https://lithub.com/on-the-link-between-great-thinking-and-obsessive-walking/  
+From Charles Darwin to Toni Morrison, Jeremy DeSilva Looks at Our Need to Move. Moreover, you must walk like a camel, which is said to be the only beast which ruminates when walking.
 
 **Explore our planet’s most unique places and cultures**  
 https://blog.google/outreach-initiatives/arts-culture/explore-our-planets-most-unique-places-and-cultures/  
