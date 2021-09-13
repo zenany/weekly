@@ -7,6 +7,11 @@ Excellent
 http://cyber.dabamos.de/88x31/  
 A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and today in GIF format. I try to update this page regularly. Feel free to copy buttons to your website, but avoid hot-linking if possible.
 
+## 202109
+
+**The Four Agile Values and Slack**  
+https://slack.engineering/the-four-agile-values-and-slack/  
+While there are a variety of agile frameworks to choose from, the principles of agile development span each of these methods, and are the heart of what it means to be an agile team. In this post we are going to cover the four agile values and some of the ways we use Slack (the Product) at Slack (the Company) to empower teams. 
 
 ## 202108
 
