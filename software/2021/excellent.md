@@ -7,7 +7,25 @@ Excellent
 http://cyber.dabamos.de/88x31/  
 A collection of 3182 classic 88x31 buttons from the 1990’s, 2000’s, and today in GIF format. I try to update this page regularly. Feel free to copy buttons to your website, but avoid hot-linking if possible.
 
+## 202110
+
+**Gamification: a Strategy for Enterprises to Enable Digital Product Practices**  
+https://www.infoq.com/articles/gamification-digital-product-practices/  
+We are entering a new decade with a sense of urgency to rebuild the world economic landscape. As we have been living through the pandemic, we collectively realized that the business ecosystem radically shifted and next-generation products are steering us all forward. The next-generation products reflect association with the changing lifestyle and value ecosystem of consumers. To embrace the changing needs of consumers,  organizations are exploring new ways to ideate, collaborate and create products,  some of them being embracing co-creation models, investment in long-term value, and fostering collective wisdom through gamification. This article is focused on gamification and how it helps to create perspective around product practices which bring us closer to the next-generation products.
+
+**How Airbnb Tech Fosters a Culture of Learning**  
+https://medium.com/airbnb-engineering/how-airbnb-tech-fosters-a-culture-of-learning-854be0f9fe9d  
+Leveraging technical learning and development to enable engineers to do their best work.
+
+**20 Things I’ve Learned in my 20 Years as a Software Engineer**  
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/  
+You’re about to read a blog post with a lot of advice. Learning from those who came before us is instrumental to success, but we often forget an important caveat. Almost all advice is contextual, yet it is rarely delivered with any context.
+
 ## 202109
+
+**How Big Tech Runs Tech Projects and the Curious Absence of Scrum**  
+https://blog.pragmaticengineer.com/project-management-at-big-tech/  
+Project management is a topic most people have strong opinions on, and I’m no exception. To answer the question of how different companies run engineering projects, I pulled in help from across the industry. In this issue we’ll cover: Project management approaches across the industry; Project management at Big Tech; The lack of Scrum at Big Tech; How should you run projects in your team? Releated: [Scrum and Agile are one in the same, and it’s killing us](https://sredmond.medium.com/scrum-and-agile-are-one-in-the-same-and-its-killing-us-c67974bb2f48).
 
 **The Four Agile Values and Slack**  
 https://slack.engineering/the-four-agile-values-and-slack/  
