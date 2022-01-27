@@ -5,8 +5,9 @@ Weekly
 同时分门别类收录前端研发相关的 javascript、css、php、python、管理等方面的高质量文章、类库。  
 欢迎大家在 [resources](resources) 中补充优质资源。  
 
-太忙时会忘了提交 Github，欢迎关注语雀知识库： https://www.yuque.com/awesome/fe_weekly 并补充在个人账户设置中补充邮箱，这样就可以第一时间可看到 Weekly。
+太忙时会忘了提交 Github，欢迎关注并订阅语雀知识库： https://www.yuque.com/awesome/fe_weekly ，这样就可以第一时间可看到 Weekly。
 
+更期待每个人都能形成自己的信息库，见：[致读者 - 开始构建你的信息中心](./build_your_information_center.md)
 
 ## Weekly 汇总
 
