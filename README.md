@@ -11,6 +11,8 @@ Weekly
 
 ## Weekly 汇总
 
+- 2022年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2022> 
+- 2021年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2021> 
 - 2020年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2020> 
 - 2019年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2019> 
 - 2018年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2018> 
