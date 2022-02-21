@@ -1,6 +1,11 @@
 2022 - Excellent
 ========  
 
+## 
+
+**An example of why RSS is useful and important**  
+https://tech.chrishardie.com/2022/rss-useful-important/  
+
 
 ## 202201
 
