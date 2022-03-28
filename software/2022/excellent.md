@@ -1,6 +1,20 @@
 2022 - Excellent
 ========  
 
+## 202203
+
+**Remix: The Yang to React's Yin**  
+https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin  
+React's tagline is: A JavaScript library for building user interfaces. And it does a terrific job at that. React has never promised "network chasm management," but every web application needs it. With Remix managing that network chasm, we finally have a yang to React's yin. With a great rendering library and a super network chasm manager, you can build better, faster web applications with fewer bugs, simpler code, and more fun. Releated: [Remix – Web Standards Are Cool Again](https://www.simplethread.com/remix-web-standards-are-cool-again/).
+
+**反思软件开发：软件本身**  
+https://ourai.ws/posts/rethink-software/  
+软件是现实世界的映射，通过二进制理论上可以完美复刻现实世界，充满无限可能，但依赖且受限于人们的认知与现实中的条件；对人们的正常生存、生活来说软件不是必需的，软件的存在是为了让人们变得更好；软件提供者不应为了一己私利去恶意利用人性，对用户和社会造成负面影响。回到开头提到的「技术服务于业务」和「你做的事情有什么业务价值」，这两句话实际在说——要先从业务领域和用户需求中分析出问题的确切所在，再根据问题的性质、特点等制定解决方案——毋庸置疑，技术方案是其中的一部分。
+
+**是什么造成了中国软件产业的悲剧**  
+https://mp.weixin.qq.com/s/O8klxfWDcGqG1E1TUjyjUg  
+经历了这么多年的风风雨雨，作为中国软件的从业者，我常常在思考，为什么中国的软件产业还是很低端，并没有太多的优秀的软件问世，反而我们的邻国俄罗斯，最近这二十年完全无法和中国的经济发展相比较，但在软件行业里，前有大家基本上无法离开的 Nginx，后有现在已经大规模被使用中的 Clickhouse，这些都是有能力影响全世界的产品。中国的软件产业虽然也有长足的发展，但现实中，我们没有真正意义上的软件巨头型企业，大量基础软件被外国垄断，这究竟是为什么呢？
+
 ## 202202
 
 **A career ending mistake**  
