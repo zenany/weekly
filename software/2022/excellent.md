@@ -7,6 +7,10 @@
 https://kentcdodds.com/blog/remix-the-yang-to-react-s-yin  
 React's tagline is: A JavaScript library for building user interfaces. And it does a terrific job at that. React has never promised "network chasm management," but every web application needs it. With Remix managing that network chasm, we finally have a yang to React's yin. With a great rendering library and a super network chasm manager, you can build better, faster web applications with fewer bugs, simpler code, and more fun. Releated: [Remix – Web Standards Are Cool Again](https://www.simplethread.com/remix-web-standards-are-cool-again/).
 
+**Mozilla’s vision for the evolution of the Web**  
+https://webvision.mozilla.org/full/  
+Mozilla's mission is to ensure that the Internet is a global public resource, open and accessible to all. We believe in an Internet that puts people first, where individuals can shape their own experience and are empowered, safe, and independent. The Web is an enormous asset to humanity and Mozilla is committed to protecting it and making it better. [..] we believe that we can all work together as a community to make a Web that is truly open and accessible to all.
+
 **反思软件开发：软件本身**  
 https://ourai.ws/posts/rethink-software/  
 软件是现实世界的映射，通过二进制理论上可以完美复刻现实世界，充满无限可能，但依赖且受限于人们的认知与现实中的条件；对人们的正常生存、生活来说软件不是必需的，软件的存在是为了让人们变得更好；软件提供者不应为了一己私利去恶意利用人性，对用户和社会造成负面影响。回到开头提到的「技术服务于业务」和「你做的事情有什么业务价值」，这两句话实际在说——要先从业务领域和用户需求中分析出问题的确切所在，再根据问题的性质、特点等制定解决方案——毋庸置疑，技术方案是其中的一部分。
