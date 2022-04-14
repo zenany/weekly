@@ -1,6 +1,21 @@
 2022 - Excellent
 ========  
 
+## 202204  
+
+**Stabilize, Modularize, Modernize: Scaling Slack’s Mobile Codebases**  
+https://slack.engineering/stabilize-modularize-modernize-scaling-slacks-mobile-codebases-2/  
+https://slack.engineering/stabilize-modularize-modernize-scaling-slacks-mobile-codebases/  
+In the first post about the Duplo initiative, we discussed the reasons for launching a project to revamp Slack’s mobile codebases, and what we accomplished in Duplo’s initial Stabilization phase. This post will explore modularization, and then there will be a third post to describe how we modernized our codebase and the overall results of the project.
+
+**Transitional Architecture**  
+https://martinfowler.com/articles/patterns-legacy-displacement/transitional-architecture.html  
+Software elements installed to ease the displacement of a legacy system that we intend to remove when the displacement is complete.
+
+**In defense of simple architectures**  
+https://danluu.com/simple-architectures/  
+Wave is a $1.7B company with 70 engineers1 whose product is a CRUD app that adds and subtracts numbers. In keeping with this, our architecture is a standard CRUD app architecture, a Python monolith on top of Postgres. Starting with a simple architecture and solving problems in simple ways where possible has allowed us to scale to this size while engineers mostly focus on work that delivers value to users. Stackoverflow scaled up a monolith to good effect (2013 architecture / 2016 architecture), eventually getting acquired for $1.8B.
+
 ## 202203
 
 **Remix: The Yang to React's Yin**  
