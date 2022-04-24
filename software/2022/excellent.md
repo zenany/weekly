@@ -3,10 +3,18 @@
 
 ## 202204  
 
+**10 Things I (Still) Love About Programming**  
+https://www.simplethread.com/10-things-i-still-love-about-programming/  
+This post was inspired by my cofounder Justin’s post on [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). I don’t have much to add to that list, but reading through those items, I found myself thinking of all the things I still love about software engineering, even after doing it for 20 years. I’ve included 10 items below that still bring me joy.
+
+**Innovating beyond libraries and frameworks**  
+https://nilsnh.no/2022/04/09/innovating-beyond-libraries-and-frameworks/  
+I believe we should look beyond libraries and frameworks and rediscover the value of patterns and principles, and I’d argue that it would lead us to have less breaking changes and add more longevity to the stuff we build. I have been a big fan of the [write libraries, not frameworks](https://www.brandons.me/blog/libraries-not-frameworks) argument for a while now. Lately, I’ve come to ponder that there might be a fruitful expansion to this argument, that we should start to value principles over patterns, patterns over libraries, and libraries over frameworks.
+
 **Stabilize, Modularize, Modernize: Scaling Slack’s Mobile Codebases**  
 https://slack.engineering/stabilize-modularize-modernize-scaling-slacks-mobile-codebases-2/  
 https://slack.engineering/stabilize-modularize-modernize-scaling-slacks-mobile-codebases/  
-In the first post about the Duplo initiative, we discussed the reasons for launching a project to revamp Slack’s mobile codebases, and what we accomplished in Duplo’s initial Stabilization phase. This post will explore modularization, and then there will be a third post to describe how we modernized our codebase and the overall results of the project.
+In the first post about the Duplo initiative, we discussed the reasons for launching a project to revamp Slack’s mobile codebases, and what we accomplished in Duplo’s initial Stabilization phase. This post will explore modularization, and then there will be a third post to describe how we modernized our codebase and the overall results of the project. Releated: [回到单体架构：一个开源项目的重构](https://mp.weixin.qq.com/s/vL2Gz8hSupRBDUniLNdJ2w).  
 
 **Transitional Architecture**  
 https://martinfowler.com/articles/patterns-legacy-displacement/transitional-architecture.html  
