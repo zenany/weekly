@@ -3,6 +3,23 @@
 
 ## 202204  
 
+**Mataroa blog**  
+https://mataroa.blog/  
+https://news.ycombinator.com/item?id=30896661  
+Naked blogging platform, for minimalists. Just write.
+
+**Introducing arun.is 2.0**  
+https://www.arun.is/blog/arun-is-2-0/  
+Today, I’m announcing the most significant set of improvements to this website since I started it in 2016. I hope this redesign can serve me for another five years or more. If I succeed, I can incrementally add to the system without going to the drawing board again. I still have a long list of potential improvements like search, performance gains, interactive components, etc. They’ll provide plenty of fodder for future weekends of hacking.
+
+**用了十年，你真的看懂朋友圈了吗？**  
+http://www.geekpark.net/news/301104  
+十年过去，朋友圈本身确实「没怎么变」。今天发布一条朋友圈，或者刷朋友圈的体验，和十年前没有什么本质的区别。从更新频率也能看出变化很小——过去十年，微信日志中关于朋友圈的更新只有 15 条，最近一次停留在 2018 年。但是十年里，朋友圈也「改变」了很多。十年前，我们关心一个人的近况，是打电话嘘寒问暖，而今天不少人的第一选择，是翻一下他/她的朋友圈；十年前，我们表达对一个公共议题的关注，是拉上几个好友青梅煮酒，而今天则是转发一条朋友圈；甚至最近，一个 HR 朋友聊天时和我说，现在了解候选人的性格，加一下微信翻翻他的朋友圈，已经成为 HR 的「基操」…… 今天是朋友圈十岁的生日，值得聊一聊朋友圈的「变与不变」，以及这些细节背后微信团队可能是怎么想的。
+
+**写给想用代码建造新世界的你**  
+https://sspai.com/post/72729  
+Hello 下一个程序员 a.k.a. 新的上帝！摆在你面前的是一份诱惑：100 小时后，代码能让你成为一个新世界的主宰。很多时候，世界不是你想要的样子。你的生活里，有多少无解的难题；你的工作掌控你，而不是你获得满足感的工具。如果你愿意从现在开始尝试编程，你的条件总不会比盲人更差；如果你在犹豫起步是不是已经比 10 岁的神童晚太多，至少 81 岁还和你相距甚远。
+
 **10 Things I (Still) Love About Programming**  
 https://www.simplethread.com/10-things-i-still-love-about-programming/  
 This post was inspired by my cofounder Justin’s post on [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/). I don’t have much to add to that list, but reading through those items, I found myself thinking of all the things I still love about software engineering, even after doing it for 20 years. I’ve included 10 items below that still bring me joy.
