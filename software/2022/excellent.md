@@ -1,7 +1,12 @@
 2022 - Excellent
 ========  
 
+
 ## 202204  
+
+**RSS**  
+https://chriscoyier.net/2022/04/29/rss-3/  
+RSS allows me to syndicate my words, and allows me to subscribe to yours. If you’re like what the heck is he talking about, check out Matt Webb’s About Feeds for a primer.
 
 **Mataroa blog**  
 https://mataroa.blog/  
@@ -10,6 +15,7 @@ Naked blogging platform, for minimalists. Just write.
 
 **Introducing arun.is 2.0**  
 https://www.arun.is/blog/arun-is-2-0/  
+https://www.arun.is/blog/inside-arun-is-writing/  
 Today, I’m announcing the most significant set of improvements to this website since I started it in 2016. I hope this redesign can serve me for another five years or more. If I succeed, I can incrementally add to the system without going to the drawing board again. I still have a long list of potential improvements like search, performance gains, interactive components, etc. They’ll provide plenty of fodder for future weekends of hacking.
 
 **用了十年，你真的看懂朋友圈了吗？**  
