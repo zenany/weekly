@@ -1,6 +1,12 @@
 2022 - Excellent
 ========  
 
+## 202205
+
+**A clean start for the web**  
+https://macwright.com/2020/08/22/clean-starts-for-the-web.html  
+The web is in need of some reinvention right now. The web’s evolution over the last decade has mirrored the American economy. All of the essential indicators are going “up and to the right,” a steady stream of fundamental advances reassure us that there “is progress,” but the actual experience and effects for individuals stagnates or regresses.
+
 
 ## 202204  
 
