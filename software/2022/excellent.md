@@ -1,6 +1,17 @@
 2022 - Excellent
 ========  
 
+## 202206
+
+**The Grug Brained Developer**  
+https://grugbrain.dev/  
+https://news.ycombinator.com/item?id=31840331  
+A layman's guide to thinking like the self-aware smol brained
+
+**Why products should be “slick”, not just viable**  
+https://herman.bearblog.dev/mvp-vs-slc/  
+I hate the term MVP. Over the past decade, it’s been overused and misunderstood to the point where something labeled as an MVP is automatically assumed to be pretty shit. Most MVPs are unfortunately too M to be V, and the culture of “ship it while you’re embarrassed by it” tends to lead to products providing users with an embarrassingly bad experience. The problem is that your users hate MVPs.
+
 ## 202205
 
 **A clean start for the web**  
