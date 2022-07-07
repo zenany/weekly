@@ -1,6 +1,12 @@
 2022 - Excellent
 ========  
 
+## 202207
+
+**a unified theory of low/no code, middleware, and the future of enterprise applications**  
+https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?s=r  
+An application is, simply, a computer program that a user interacts with to accomplish some task or perform an activity. There are a wide range of apps, both enterprise and consumer. We’re going to focus on enterprise applications. 
+
 ## 202206
 
 **The Grug Brained Developer**  
