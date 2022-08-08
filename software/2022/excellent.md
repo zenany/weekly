@@ -1,7 +1,13 @@
 2022 - Excellent
 ========  
 
+
+
 ## 202207
+
+**Free and liberated ebooks, carefully produced for the true book lover**  
+https://standardebooks.org/  
+Standard Ebooks is a volunteer-driven project that produces new editions of public domain ebooks that are lovingly formatted, open source, free of U.S. copyright restrictions, and free of cost.
 
 **a unified theory of low/no code, middleware, and the future of enterprise applications**  
 https://mslotnick.substack.com/p/a-unified-theory-of-lowno-code-middleware?s=r  
