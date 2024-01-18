@@ -19,7 +19,11 @@ Weekly
 - 2017年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2017>  
 - 2016年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2016>  
 - 2015年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2015>  
-- 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>  
+- 2014年 weekly 汇总： <https://github.com/zenany/weekly/tree/master/software/2014>
+
+## 效率套件
+
+来自 [@xudafeng](https://github.com/xudafeng) 精选的工具集： https://github.com/xudafeng/the-tools-i-use
 
 ## 学习资源
 
