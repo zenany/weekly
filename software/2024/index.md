@@ -1,6 +1,10 @@
 精选 - 2024
 ========  
 
+**毛泽东评点曾国藩：“愚于近人，独服曾文正”**  
+https://mp.weixin.qq.com/s/bncPwiwlP_EF5waDLPGpGA  
+如何掌握和运用本源？毛泽东将其与人心结合在一起。他在1917年这封写给黎锦熙的信中进一步说明：“欲动天下者，当动天下之心，而不徒在显见之迹。动其心者，当具有大本大源。今日变法，俱从枝节入手，如议会、宪法、总统、内阁、军事、实业、教育，一切皆枝节也。枝节亦不可少，惟此等枝节，必有本源。本源未得，则此等枝节为赘疣，为不贯气，为支离灭裂，幸则与本源略近，不幸则背道而驰。夫以与本源背道而驰者而以之为临民制治之具，几何不谬种流传，陷一世一国于败亡哉？而岂有毫末之富强幸福可言哉？夫本源者，宇宙之真理。天下之生民，各为宇宙之一体，即宇宙之真理，各具于人人之心中，虽有偏全之不同，而总有几分之存在。今吾以大本大源为号召，天下之心其有不动者乎？天下之心皆动，天下之事有不能为者乎？天下之事可为，国家有不富强幸福者乎？然今之天下则纷纷矣！” 毛泽东认为，“本源”不是独立的或者说看不见摸不着的存在，它不仅与国家富强、人民幸福密切相关，而且多多少少存在于每个具体的人的心中。历史进步与人心紧密相连，如果没有这层逻辑关联，本源的价值就没有载体，本源的号召就没有回应，本源的寻求就没有意义。当我们将本源具体到人心上，其实就是一个人正确的人生观、价值观、思想道德、言行认知等，简而言之，就是“人格”。
+
 **你我皆是邵亦波**  
 https://mp.weixin.qq.com/s/0ri8v0VXjRUEOdsHnuqBmA  
 https://mp.weixin.qq.com/s/unM3IxnBH5PLJjqU2TKVjQ  
@@ -13,6 +17,5 @@ https://www.yuque.com/lingyi-1ifg9/ph7w7x/lpcxxfw26ccrdrk2
 **IdealOS Thinking**  
 https://joshondesign.com/2024/06/25/idealos_thinking  
 One of my original IdealOS blog posts from 2017 showed up on the front page of Hackernews the other day (comments here). This got me thinking about IdealOS again. I haven’t worked on it in a couple of years, but as I read through the comments and links to articles by people with similar ideas, I came to a realization. I am still working on it. Maybe not directly, but I’m still exploring ideas that are needed to build IdealOS. So with that in mind let’s take a look at what I’ve been working on lately.
-
 
 -- THE END --
