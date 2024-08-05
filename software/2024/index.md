@@ -18,4 +18,8 @@ https://www.yuque.com/lingyi-1ifg9/ph7w7x/lpcxxfw26ccrdrk2
 https://joshondesign.com/2024/06/25/idealos_thinking  
 One of my original IdealOS blog posts from 2017 showed up on the front page of Hackernews the other day (comments here). This got me thinking about IdealOS again. I haven’t worked on it in a couple of years, but as I read through the comments and links to articles by people with similar ideas, I came to a realization. I am still working on it. Maybe not directly, but I’m still exploring ideas that are needed to build IdealOS. So with that in mind let’s take a look at what I’ve been working on lately.
 
+**乔布斯「遗失的访谈」全文：我不在乎犯错，只在乎是否在做正确的事**  
+https://mp.weixin.qq.com/s/jwzNzU3UZOjbsj888o2_Nw  
+最近在很多地方看到人们分享《乔布斯「遗失的访谈」》的视频片段节选，每一段都非常有启发，所以我觉得有必要把完整访谈的中文版分享在这里，我补充了一些那个时代的「上下文」。我非常相信，在未来的一二十年，华人背景的创始人也有机会创造出来像「苹果」一样伟大的公司，站在科技和人文的交叉点，充满技术原力和想象力，让每个人的生活都受益。但是我也相信乔布斯如果还在，他会告诉你，不要成为史蒂夫·乔布斯，不要执迷于他的故事和创造的产品，未来才会有新的传奇。这在今天听起来很不切实际，就跟他刚开始的时候一样。
+
 -- THE END --
