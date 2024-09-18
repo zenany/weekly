@@ -1,6 +1,10 @@
 精选 - 2024
 ========  
 
+**Something went wrong**  
+https://molily.de/something-went-wrong/  
+Ways out of the JavaScript crisis.  We need to recognize that clichés, sermons, insults and righteousness have failed. We need to reconcile with mutual respect sharing the common goal of [making the web usable, accessible, secure and safe for everyone](https://www.w3.org/TR/ethical-web-principles/). Releated: [Look out, kids: PHP is the new JavaScript](https://www.mux.com/blog/php-is-the-new-javascript).
+
 **Raw dog the open web!**  
 https://www.fromjason.xyz/p/notebook/raw-dog-the-open-web/  
 Monoculture is winning. The Fortune 500 has shrink-wrapped our zeitgeist and we are suffocating culturally. But, we can fight back by bookmarking a web page or sharing a piece of art unsanctioned by our For Your Page. To do that we must get out there and raw dog that open web.
