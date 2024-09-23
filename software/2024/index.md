@@ -1,6 +1,11 @@
 精选 - 2024
 ========  
 
+
+**A gentle guide to self-hosting your software**  
+https://knhash.in/gentle-guide-to-self-hosting/  
+And like every hobby there are a lot of gatekeepers. People who believe having a personal server that you can touch is a necessity to call yourself a self-hoster. Eh. Don't listen to them. Self-hosting is as much about the software as it is about the hardware. I say we get the enthusiasts by any means necessary; they will eventually grow into full-fledged self-hosting. Or not. It doesn't matter! This is supposed to be fun, why are you stopping people from having fun?
+
 **Something went wrong**  
 https://molily.de/something-went-wrong/  
 Ways out of the JavaScript crisis.  We need to recognize that clichés, sermons, insults and righteousness have failed. We need to reconcile with mutual respect sharing the common goal of [making the web usable, accessible, secure and safe for everyone](https://www.w3.org/TR/ethical-web-principles/). Releated: [Look out, kids: PHP is the new JavaScript](https://www.mux.com/blog/php-is-the-new-javascript).
