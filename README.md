@@ -40,8 +40,9 @@ Weekly
 
 ## 学习资源
 
-- [Software Architecture Design](resources/software_architecture.md)
-- [system-design-primer](https://github.com/donnemartin/system-design-primer)
+- [Software Architecture Design](resources/software_architecture.md)  
+- [system-design-primer](https://github.com/donnemartin/system-design-primer)  
+- [Everything I know about good system design](https://www.seangoedecke.com/good-system-design/)  
 
 ## 业界知名 Weekly
 
